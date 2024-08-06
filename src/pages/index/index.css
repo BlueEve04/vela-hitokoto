@@ -1,0 +1,61 @@
+.demo-page {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    top: 0px;
+}
+
+.app {
+    font-size: 20px;
+    text-align: center;
+    color: aliceblue;
+    position: absolute;
+    top: 10px;
+}
+
+.btn {
+    width: 200px;
+    height: 60px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #000000;
+    font-size: 25px;
+    color: #363636;
+}
+.eptdiv{
+    height:200px;
+}
+.hitokoto {
+    padding-top: 0px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 800;
+    width: 280px;
+}
+
+.from {
+    width: 300px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 900;
+    color: aliceblue
+}
+
+.fromwho {
+    width: 300px;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.btn_change {
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #383838;
+    font-size: 14px;
+    color: #ffffff;
+}

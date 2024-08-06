@@ -1,0 +1,3350 @@
+[
+    {
+        "id": 0,
+        "hitokoto": "一举一动，都是承诺，会被另一个人看在眼里，记在心上的。",
+        "from": "悬崖上的金鱼姬",
+        "from_who": "宫崎骏"
+    },
+    {
+        "id": 1,
+        "hitokoto": "如果你一个人把什么都做完了，那我做什么？",
+        "from": "元气少女缘结神",
+        "from_who": null
+    },
+    {
+        "id": 2,
+        "hitokoto": "在自称善意的之时，即存恶意。",
+        "from": "罪恶王冠",
+        "from_who": null
+    },
+    {
+        "id": 3,
+        "hitokoto": "正因为生命有限，所以才显得更重要，正因为生命有限，所以才更应该努力不懈。",
+        "from": "名侦探柯南",
+        "from_who": "服部平次"
+    },
+    {
+        "id": 4,
+        "hitokoto": "总觉得跟你在一起，不管多高的地方都可以到达。",
+        "from": "网球王子",
+        "from_who": "不二周助"
+    },
+    {
+        "id": 5,
+        "hitokoto": "人这种东西，除了为了永不满足的欲望追求新的刺激之外，也是重视稀少价值之物的奇怪生物。",
+        "from": "gosick",
+        "from_who": "维多利加"
+    },
+    {
+        "id": 6,
+        "hitokoto": "那些坚定决心的人们，会展现出好脸色。",
+        "from": "闪电十一人",
+        "from_who": null
+    },
+    {
+        "id": 7,
+        "hitokoto": "世界不完美 所以才显得美丽",
+        "from": "钢之炼金术士",
+        "from_who": "大佐"
+    },
+    {
+        "id": 8,
+        "hitokoto": "即使匍匐在地，也要持续前进，这才是你的作风。现在的你只靠一些漂亮话当借口，在高墙前使性子，不过是个小鬼罢了。",
+        "from": "银魂",
+        "from_who": null
+    },
+    {
+        "id": 9,
+        "hitokoto": "明明喜欢的不得了，可是看到对方幸福洋溢的表情，却觉得很难过、很痛苦，胸口发疼。",
+        "from": "彩云国物语",
+        "from_who": "雪乃纱衣"
+    },
+    {
+        "id": 10,
+        "hitokoto": "失望了吗？没错，世上或许有些东西别打开比较好，真正把心打开的人多么麻烦啊！",
+        "from": "绝望先生",
+        "from_who": null
+    },
+    {
+        "id": 11,
+        "hitokoto": "哭也不会改变什么，这个世界从来不会对任何人温柔。",
+        "from": "黑执事",
+        "from_who": null
+    },
+    {
+        "id": 12,
+        "hitokoto": "不论是过去还是未来，我都会保护你！",
+        "from": "旋风管家",
+        "from_who": "凌崎飒"
+    },
+    {
+        "id": 13,
+        "hitokoto": "自己的过去会被当做笑话或者捏他的形式，被他人随随便便的共有化。",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": "比企谷八幡"
+    },
+    {
+        "id": 14,
+        "hitokoto": "因为等待的越久，重逢时就越幸福啊。",
+        "from": "名侦探柯南",
+        "from_who": "小兰"
+    },
+    {
+        "id": 15,
+        "hitokoto": "我在时光斑驳深处，聆听到花开的声音。",
+        "from": "未闻花名",
+        "from_who": null
+    },
+    {
+        "id": 16,
+        "hitokoto": "神会对努力之人微笑，这是骗人的，但我们偶然会被命运之神垂青。",
+        "from": "吹响吧！上低音号",
+        "from_who": null
+    },
+    {
+        "id": 17,
+        "hitokoto": "大国战争之后还会繁荣富强，而只有小国涂炭遭殃，让世界感受痛苦吧。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 18,
+        "hitokoto": "人生最糟糕的事，一个是饿肚子，一个是孤独。",
+        "from": "夏日大作战",
+        "from_who": null
+    },
+    {
+        "id": 19,
+        "hitokoto": "你指尖跳动的电光，是我此生不变的信仰",
+        "from": "某科学的超电磁炮",
+        "from_who": null
+    },
+    {
+        "id": 20,
+        "hitokoto": "温柔解救不了这个世界",
+        "from": "罪恶王冠",
+        "from_who": null
+    },
+    {
+        "id": 21,
+        "hitokoto": "代你见证世界的终结，来世再续梦之伊甸",
+        "from": "Eden*/b站弹幕",
+        "from_who": null
+    },
+    {
+        "id": 22,
+        "hitokoto": "今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。",
+        "from": "寻找失去的未来",
+        "from_who": null
+    },
+    {
+        "id": 23,
+        "hitokoto": "我活在我的时间里，她活在她的时间里，因此，我们时间交错的瞬间，对我而言比任何事物都宝贵。",
+        "from": "她与她的猫",
+        "from_who": null
+    },
+    {
+        "id": 24,
+        "hitokoto": "人类，在决战之时难道会选择自己不擅长的武器来战斗吗？",
+        "from": "只有神知道的世界",
+        "from_who": null
+    },
+    {
+        "id": 25,
+        "hitokoto": "这只手，暂时不洗了",
+        "from": "小林家的龙女仆",
+        "from_who": null
+    },
+    {
+        "id": 26,
+        "hitokoto": "重要的人，不能忘记的人，不想忘记的人。 你，是谁？",
+        "from": "你的名字",
+        "from_who": null
+    },
+    {
+        "id": 27,
+        "hitokoto": "正是在对未来没有任何希望的时候，一个人能坚持到什么地步，才真正体现出这个人有多坚强。",
+        "from": "来自新世界",
+        "from_who": null
+    },
+    {
+        "id": 28,
+        "hitokoto": "除了这一颗心，都是你的。",
+        "from": "人渣的本愿",
+        "from_who": null
+    },
+    {
+        "id": 29,
+        "hitokoto": "正是因为这一点一滴觉得还有希望的自己，才是最无可救药的吧。",
+        "from": "人渣的本愿",
+        "from_who": null
+    },
+    {
+        "id": 30,
+        "hitokoto": "我们都很执着,而且思念的越深,越是绝望。",
+        "from": "人渣的本愿",
+        "from_who": null
+    },
+    {
+        "id": 31,
+        "hitokoto": "一个人觉得寂寞，和另一个人相互依偎又有什么错",
+        "from": "人渣的本愿",
+        "from_who": null
+    },
+    {
+        "id": 32,
+        "hitokoto": "想象力足以改变一切。",
+        "from": "来自新世界",
+        "from_who": null
+    },
+    {
+        "id": 33,
+        "hitokoto": "越是珍惜呆在这里的时间，今后就越是悲伤吧。但是我认为不能称之为「后悔」。",
+        "from": "小林家的龙女仆",
+        "from_who": null
+    },
+    {
+        "id": 34,
+        "hitokoto": "大部分人并不想长大，只是没办法继续当一个小孩子。",
+        "from": "小林家的龙女仆",
+        "from_who": null
+    },
+    {
+        "id": 35,
+        "hitokoto": "不得了不得了",
+        "from": "小林家的龙女仆",
+        "from_who": null
+    },
+    {
+        "id": 36,
+        "hitokoto": "你已经不是我的狗了。",
+        "from": "龙与虎",
+        "from_who": null
+    },
+    {
+        "id": 37,
+        "hitokoto": "正因为有忘也忘不了的回忆，才会变得坚强，这就是所谓的成长吧！",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 38,
+        "hitokoto": "其实我对混合咖啡还是很有自信的",
+        "from": "珈百璃的堕落",
+        "from_who": null
+    },
+    {
+        "id": 39,
+        "hitokoto": "如果当初握住的不是硬币，而是勇者的手......",
+        "from": "中二病也要谈恋爱 恋！",
+        "from_who": null
+    },
+    {
+        "id": 40,
+        "hitokoto": "只要是正义的一方，无论手段多么卑鄙都可以被原谅",
+        "from": "东京喰种",
+        "from_who": null
+    },
+    {
+        "id": 41,
+        "hitokoto": "你偶尔也该回头看看，那些在你身后的人，说不定已经追到你脚边了！！！",
+        "from": "妖精的尾巴",
+        "from_who": null
+    },
+    {
+        "id": 42,
+        "hitokoto": "因为喜欢你，所以想继续相信下去。",
+        "from": "空之境界",
+        "from_who": null
+    },
+    {
+        "id": 43,
+        "hitokoto": "自杀是没有理由的，只是今天没有飞起来罢了。",
+        "from": "空之境界",
+        "from_who": null
+    },
+    {
+        "id": 44,
+        "hitokoto": "听说，樱花花瓣飘落的速度，是每秒5厘米，思念的距离到底有多远。如果樱花下落时是有声音的，你会不会听到我对你的思念",
+        "from": "秒速五厘米",
+        "from_who": null
+    },
+    {
+        "id": 45,
+        "hitokoto": "在下雪时。第一次相会时。雪白的夜与漆黑的伞。只要有你在身边。只要你露出微笑。就是幸福。",
+        "from": "空之境界",
+        "from_who": null
+    },
+    {
+        "id": 46,
+        "hitokoto": "身体被冻僵了，仅有吐出的气息略带热度。望着彼此即将停止的心脏鼓动。 然后，极为珍惜的记忆随即就会消失而化为眷恋。",
+        "from": "空之境界",
+        "from_who": null
+    },
+    {
+        "id": 47,
+        "hitokoto": "对于虚伪而言，真实的光明或许过于耀眼了",
+        "from": "蔷薇少女",
+        "from_who": null
+    },
+    {
+        "id": 48,
+        "hitokoto": "好了 接下来就让你们见识一下程序员的本事",
+        "from": "骑士与魔法",
+        "from_who": null
+    },
+    {
+        "id": 49,
+        "hitokoto": "如果结果不如你所愿，就在尘埃落定前奋力一搏。",
+        "from": "夏目友人帐",
+        "from_who": null
+    },
+    {
+        "id": 50,
+        "hitokoto": "如果因为害怕失败，而不去努力，那就不会有能够成功的人。",
+        "from": "樱花庄的宠物女孩",
+        "from_who": null
+    },
+    {
+        "id": 51,
+        "hitokoto": "你一直相信的事，也让我相信吧。活着，是件美好的事。",
+        "from": "Angle Beats",
+        "from_who": null
+    },
+    {
+        "id": 52,
+        "hitokoto": "我只希望，我喜欢的人可以健康的活着。",
+        "from": "人渣的本愿",
+        "from_who": null
+    },
+    {
+        "id": 53,
+        "hitokoto": "正因为生来什么都没有，因此我们能拥有一切。",
+        "from": "游戏人生",
+        "from_who": null
+    },
+    {
+        "id": 54,
+        "hitokoto": "未来的事无人知晓，所以它才如同这重逢一般，拥有着无限的可能性。",
+        "from": "命运石之门",
+        "from_who": null
+    },
+    {
+        "id": 55,
+        "hitokoto": "只要努力活下去，总有一天会笑着回忆。",
+        "from": "不可思议游戏",
+        "from_who": null
+    },
+    {
+        "id": 56,
+        "hitokoto": "想说什么就说，想做什么就做，我们不就是这么一直过来的吗？",
+        "from": "LoveLive!",
+        "from_who": null
+    },
+    {
+        "id": 57,
+        "hitokoto": "也许一个人的快乐会建立在另一个人或者很多人的痛苦之上。但是，自己种下的祸根终有一天会报应在自己的身上的。",
+        "from": "地狱少女",
+        "from_who": null
+    },
+    {
+        "id": 58,
+        "hitokoto": "何必去在意自己与别人相比是否特别呢？即便只有一个人也好。只要有一个认为自己特别的人，我觉得那就足够了。",
+        "from": "冰菓",
+        "from_who": null
+    },
+    {
+        "id": 59,
+        "hitokoto": "虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。",
+        "from": "叛逆的鲁鲁修",
+        "from_who": null
+    },
+    {
+        "id": 60,
+        "hitokoto": "空太是笨蛋！",
+        "from": "樱花庄的宠物女孩",
+        "from_who": null
+    },
+    {
+        "id": 61,
+        "hitokoto": "不敢反抗压迫的心理将伴你一生",
+        "from": "狂赌深渊",
+        "from_who": null
+    },
+    {
+        "id": 62,
+        "hitokoto": "未来的旅程是如此遥远，能见到的光明却是如此稀少。即使如此——我仍然没有完全放弃希望。",
+        "from": "刀剑神域",
+        "from_who": null
+    },
+    {
+        "id": 63,
+        "hitokoto": "契约者不会做梦。",
+        "from": "黑之契约者",
+        "from_who": null
+    },
+    {
+        "id": 64,
+        "hitokoto": "不可结缘",
+        "from": "夏目友人帐",
+        "from_who": null
+    },
+    {
+        "id": 65,
+        "hitokoto": "去做你喜欢做的事吧 这就是所谓的那啥...青春嘛",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 66,
+        "hitokoto": "重要的感情总是非常单纯、自然脱口而出的。",
+        "from": "GAMERS电玩咖！",
+        "from_who": null
+    },
+    {
+        "id": 67,
+        "hitokoto": "This is your dream! Anything you can do in your dreams, you can do now!",
+        "from": "My Little Pony: Friendship is Magic",
+        "from_who": null
+    },
+    {
+        "id": 68,
+        "hitokoto": "What about super-ultra-extreme-awesomazing?",
+        "from": "My Little Pony: Friendship is Magic",
+        "from_who": null
+    },
+    {
+        "id": 69,
+        "hitokoto": "We've learned that friendship isn't always easy, but there's no doubt it's worth fighting for!",
+        "from": "My Little Pony: Friendship is Magic",
+        "from_who": null
+    },
+    {
+        "id": 70,
+        "hitokoto": "今宵之月，绝不西沉。只此美梦，不再苏醒。从今往后，生生世世，长相厮守，为你立誓。",
+        "from": "银魂",
+        "from_who": null
+    },
+    {
+        "id": 71,
+        "hitokoto": "打架这玩意，不就是为了守护什么东西吗？",
+        "from": "银魂",
+        "from_who": null
+    },
+    {
+        "id": 72,
+        "hitokoto": "届けて— 切なさには 名前をつけようか“Snow halation”",
+        "from": "Snow Halation",
+        "from_who": null
+    },
+    {
+        "id": 73,
+        "hitokoto": "我是想被包养，但不会接受施舍",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": null
+    },
+    {
+        "id": 74,
+        "hitokoto": "善于破坏气氛的人，不仅能破坏好的气氛，其实也能把坏的气氛破坏掉。",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": null
+    },
+    {
+        "id": 75,
+        "hitokoto": "为什么要称赞他人？那是为了把对方捧到更高的地方更容易绊他的脚，为了把他从高处摔下来。这就叫做称赞杀人法。",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": null
+    },
+    {
+        "id": 76,
+        "hitokoto": "女生口中的「好人」首先百分之百是「怎样都好的人」的意思，再好也不过止于「方便好使的人」。也就是说，不管怎样都是没戏了",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": null
+    },
+    {
+        "id": 77,
+        "hitokoto": "夜晚还远远没有结束!",
+        "from": "春宵苦短，少女前进吧！",
+        "from_who": null
+    },
+    {
+        "id": 78,
+        "hitokoto": "只要世间有酒,我就喝不够!",
+        "from": "春宵苦短，少女前进吧！",
+        "from_who": null
+    },
+    {
+        "id": 79,
+        "hitokoto": "如果我们能活着出去，千山万水，你愿意陪我一起看吗？",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 80,
+        "hitokoto": "不可结缘,徒增寂寞",
+        "from": "夏目友人帐",
+        "from_who": null
+    },
+    {
+        "id": 81,
+        "hitokoto": "就算世界终结，也无所谓",
+        "from": "少女终末旅行",
+        "from_who": null
+    },
+    {
+        "id": 82,
+        "hitokoto": "遇到事情不能坐以待毙！",
+        "from": "捷德奥特曼",
+        "from_who": null
+    },
+    {
+        "id": 83,
+        "hitokoto": "为了爱，与梦想！",
+        "from": "眼大人",
+        "from_who": null
+    },
+    {
+        "id": 84,
+        "hitokoto": "今日的余晖和你最后那天给我的拥抱，同一个温度",
+        "from": "Myself",
+        "from_who": null
+    },
+    {
+        "id": 85,
+        "hitokoto": "想和你重新认识一次 从你叫什么名字说起。",
+        "from": "你的名字",
+        "from_who": null
+    },
+    {
+        "id": 86,
+        "hitokoto": "只要记住你的名字，不管你在世界的哪个地方 ，我一定会，去见你。",
+        "from": "你的名字",
+        "from_who": null
+    },
+    {
+        "id": 87,
+        "hitokoto": "和绝望，和睦相处",
+        "from": "少女终末旅行",
+        "from_who": null
+    },
+    {
+        "id": 88,
+        "hitokoto": "愿你有一天，能与你最重要的人重逢",
+        "from": "可塑性记忆",
+        "from_who": null
+    },
+    {
+        "id": 89,
+        "hitokoto": "不相信人咬不到肚脐的，咬破肚脐去死如何？",
+        "from": "海猫鸣泣之时",
+        "from_who": null
+    },
+    {
+        "id": 90,
+        "hitokoto": "梦想是否无聊并不是别人来决定的，不管是什么样的梦想，自己拼命努力去追寻才是最重要的。",
+        "from": "守护甜心",
+        "from_who": null
+    },
+    {
+        "id": 91,
+        "hitokoto": "倘若只是为了驱赶心中的寂寞，找谁都可以的。",
+        "from": "秒速5厘米",
+        "from_who": null
+    },
+    {
+        "id": 92,
+        "hitokoto": "什么都无法舍弃的人，什么都无法改变 。",
+        "from": "进击的巨人",
+        "from_who": null
+    },
+    {
+        "id": 93,
+        "hitokoto": "比希望更炙热，比绝望更深邃，这就是爱啊。",
+        "from": "魔法少女小圆-叛逆的物语",
+        "from_who": null
+    },
+    {
+        "id": 94,
+        "hitokoto": "我们都在命运之湖上荡舟划桨，波浪起伏着而我们无法逃脱孤航。但是假使我们迷失了方向，波浪将指引我们穿越另一天的曙光。",
+        "from": "死神",
+        "from_who": null
+    },
+    {
+        "id": 95,
+        "hitokoto": "懂得认输是非常重要的，不尝到失败的不甘，也就不会明白跌倒后怎么爬起来，更不可能再向前迈进。",
+        "from": "笨蛋测验召唤兽",
+        "from_who": null
+    },
+    {
+        "id": 96,
+        "hitokoto": "重要的不是你做了多少事，而是你放了多少心思进去。",
+        "from": "凉宫春日的忧郁",
+        "from_who": null
+    },
+    {
+        "id": 97,
+        "hitokoto": "就算是自私⋯⋯我也希望那些人能够永远都有笑容⋯⋯",
+        "from": "夏目友人帐",
+        "from_who": null
+    },
+    {
+        "id": 98,
+        "hitokoto": "相信十年后的八月，我们还会相遇。",
+        "from": "未闻花名",
+        "from_who": null
+    },
+    {
+        "id": 99,
+        "hitokoto": "男人就应该保持冷静，沸腾的水只会被蒸发掉。",
+        "from": "假面骑士kabuto",
+        "from_who": null
+    },
+    {
+        "id": 100,
+        "hitokoto": "不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。",
+        "from": "angel beats",
+        "from_who": null
+    },
+    {
+        "id": 101,
+        "hitokoto": "想要试着去相互接近，但最后还是无法敞开心扉，结果就是擦肩而过⋯⋯",
+        "from": "文学少女",
+        "from_who": null
+    },
+    {
+        "id": 102,
+        "hitokoto": "不能逃避，不能逃避，不能逃避，不能逃避⋯⋯",
+        "from": "EVA",
+        "from_who": null
+    },
+    {
+        "id": 103,
+        "hitokoto": "我终不能改变那个开始，何不忘了那个结局呢。",
+        "from": "悟空传",
+        "from_who": null
+    },
+    {
+        "id": 104,
+        "hitokoto": "因为我想活着，我不能掩藏我心中的本欲，正如我心中爱你美丽,又怎能嘴上装四大皆空。",
+        "from": "悟空传",
+        "from_who": null
+    },
+    {
+        "id": 105,
+        "hitokoto": "这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。",
+        "from": "大鱼海棠",
+        "from_who": null
+    },
+    {
+        "id": 106,
+        "hitokoto": "出来吧，刻刻帝！",
+        "from": "时崎狂三",
+        "from_who": null
+    },
+    {
+        "id": 107,
+        "hitokoto": "翠星石最喜欢苍星石的说,所以到死也要在一起的说...",
+        "from": "Rozen Maiden",
+        "from_who": null
+    },
+    {
+        "id": 108,
+        "hitokoto": "都是时辰的错！",
+        "from": "Fate/Zero",
+        "from_who": null
+    },
+    {
+        "id": 109,
+        "hitokoto": "鸣神の　少しとよみて　さし昙り　雨も降らんか　君を留めん",
+        "from": "言叶之庭",
+        "from_who": null
+    },
+    {
+        "id": 110,
+        "hitokoto": "所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 111,
+        "hitokoto": "旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。",
+        "from": "狼与香辛料",
+        "from_who": null
+    },
+    {
+        "id": 112,
+        "hitokoto": "让我们开始我们的约会（战争）吧",
+        "from": "约会大作战",
+        "from_who": null
+    },
+    {
+        "id": 113,
+        "hitokoto": "连我爸都没打过我",
+        "from": "高达0079",
+        "from_who": null
+    },
+    {
+        "id": 114,
+        "hitokoto": "这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！",
+        "from": "魔法少女小圆新篇 叛逆的物语",
+        "from_who": null
+    },
+    {
+        "id": 115,
+        "hitokoto": "What, so everyone's supposed to sleep every single night now? You realize that nighttime makes up half of all time?",
+        "from": "Rick",
+        "from_who": null
+    },
+    {
+        "id": 116,
+        "hitokoto": "人生没有彩排，只有现场直播，所以做最好的自己。",
+        "from": "Internet",
+        "from_who": null
+    },
+    {
+        "id": 117,
+        "hitokoto": "对自己有自信时，不能对别人说「期待」。所谓的「期待」是放弃时的托词，因为别无选择。若缺少这种无奈感，这个词就太虚伪了。",
+        "from": "冰菓",
+        "from_who": null
+    },
+    {
+        "id": 118,
+        "hitokoto": "人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 119,
+        "hitokoto": "以智者之名，为愚者代辩。",
+        "from": "Gosick",
+        "from_who": null
+    },
+    {
+        "id": 120,
+        "hitokoto": "清算，终将到来。",
+        "from": "Stellaris",
+        "from_who": null
+    },
+    {
+        "id": 121,
+        "hitokoto": "据说啊 叹气会让幸福溜走的",
+        "from": "再见了 我们的幼儿园",
+        "from_who": null
+    },
+    {
+        "id": 122,
+        "hitokoto": "你将不再是道具，而是人如其名的人。",
+        "from": "紫罗兰永恒的花园",
+        "from_who": null
+    },
+    {
+        "id": 123,
+        "hitokoto": "人没有回忆是无法活下去的哟",
+        "from": "AIR",
+        "from_who": null
+    },
+    {
+        "id": 124,
+        "hitokoto": "只要万事俱备，就能一直保持冷静，无论发生什么事，都不会害怕。",
+        "from": "银魂",
+        "from_who": null
+    },
+    {
+        "id": 125,
+        "hitokoto": "正因为不会发生，人们才称它为”奇迹“",
+        "from": "KANON",
+        "from_who": null
+    },
+    {
+        "id": 126,
+        "hitokoto": "我想成为一个温柔的人,因为曾被温柔的人那样对待,深深了解那种被温柔相待的感觉。",
+        "from": "夏目友人帐",
+        "from_who": null
+    },
+    {
+        "id": 127,
+        "hitokoto": "我喜欢的人…也能喜欢上自己，我认为这就是奇迹。",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 128,
+        "hitokoto": "大圣此去欲何? 踏南天，碎凌霄！若一去不回.... 便一去不回！",
+        "from": "影视",
+        "from_who": null
+    },
+    {
+        "id": 129,
+        "hitokoto": "我们一直在离别中，比如和爱的人，和伤害，甚至和时光。",
+        "from": "萤火虫之墓",
+        "from_who": null
+    },
+    {
+        "id": 130,
+        "hitokoto": "至少恋爱不是种机会，我认为它是一种意志。",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 131,
+        "hitokoto": "幸福感就如沉积在悲哀之河底下 隐隐发光的金砂",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 132,
+        "hitokoto": "有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 133,
+        "hitokoto": "爱一定存在于世上 一定存在 无从寻觅的是爱的表现 是它的表达方式",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 134,
+        "hitokoto": "把同班的可爱女同学娶回家就是我最大的梦想",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 135,
+        "hitokoto": "在狂热思绪下喊出的爱情宣言中，存在着爱情的实体",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 136,
+        "hitokoto": "回首前尘，尽是可耻的过往",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 137,
+        "hitokoto": "月色如水，虽不如阳光般耀眼，但我的眼中却只有比那月色更可爱的你。心跳不知不觉中加速，嘴角也绷不住那溢出来的幸福笑意。月色确实醉人，却是因为你才显得更美",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 138,
+        "hitokoto": "“不管你我相距多远，我都想告诉你 我对你的心意不会变，给即将去到陌生城市的你 ，我永远喜欢你”",
+        "from": "月色真美",
+        "from_who": null
+    },
+    {
+        "id": 139,
+        "hitokoto": "我们人是需要吃饭、工作和休息的生物，只要满足了其中一项，其他两项也会逐渐满足，而当这三项都满足后，就会得到强烈的存在感。",
+        "from": "银魂",
+        "from_who": null
+    },
+    {
+        "id": 140,
+        "hitokoto": "看来这世界 似乎还想要驯服我 那就如你所愿吧 我会美丽地挣扎到底",
+        "from": "你的名字",
+        "from_who": null
+    },
+    {
+        "id": 141,
+        "hitokoto": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？",
+        "from": "秒速五厘米",
+        "from_who": null
+    },
+    {
+        "id": 142,
+        "hitokoto": "坐上与学校相反方向的电车，展开没有目标的旅行，去往那从未见过的地方",
+        "from": "比宇宙更远的地方",
+        "from_who": null
+    },
+    {
+        "id": 143,
+        "hitokoto": "不是为了战斗而活着，而是为了活着而战斗。",
+        "from": "《DARLING in the FRANXX》",
+        "from_who": null
+    },
+    {
+        "id": 144,
+        "hitokoto": "幸福的回忆，美满的回忆不一定会成为救赎，有时候，回忆越是美满便越痛苦，也有时候，会越害怕，无论是对于将要离开的人来说，还是对于被留下的人来说，都不可能会成为一种救赎。",
+        "from": "可塑性记忆",
+        "from_who": null
+    },
+    {
+        "id": 145,
+        "hitokoto": "恋爱不是谈出来的，而是陷进去的。",
+        "from": "GAMER电玩咖！",
+        "from_who": null
+    },
+    {
+        "id": 146,
+        "hitokoto": "我们的哀伤和年龄是没有关系的。",
+        "from": "樱桃小丸子",
+        "from_who": null
+    },
+    {
+        "id": 147,
+        "hitokoto": "总在不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。",
+        "from": "秒速五厘米",
+        "from_who": null
+    },
+    {
+        "id": 148,
+        "hitokoto": "我想你们的努力一定会有回报的",
+        "from": "龙与虎",
+        "from_who": null
+    },
+    {
+        "id": 149,
+        "hitokoto": "人生不如意十有八九！",
+        "from": "龙与虎",
+        "from_who": null
+    },
+    {
+        "id": 150,
+        "hitokoto": "此身为剑所天成，身如钢铁，心似琉璃。",
+        "from": "Fate",
+        "from_who": null
+    },
+    {
+        "id": 151,
+        "hitokoto": "我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。",
+        "from": "末日时在做什么?有没有空?可以来拯救吗?",
+        "from_who": null
+    },
+    {
+        "id": 152,
+        "hitokoto": "死者的血泪混入滚滚的流沙之中...将会赐予修罗更强的力量...",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 153,
+        "hitokoto": "有型的东西终究会消逝，不过……终于，这份回忆还是永远不朽的…",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 154,
+        "hitokoto": "人啊...想要保护重要东西的时候，就真的能变得很坚强。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 155,
+        "hitokoto": "寂寞阴暗中度过，孤单孕育了怨与悲凉。锋利的伤痛刺入了我们彼此胸膛，这是我们无法躲避的惩罚，是我们不该任人生撩拨忧伤，不该走过之后又往回看。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 156,
+        "hitokoto": "哪怕是打断你的手脚，也要把你带回去。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 157,
+        "hitokoto": "从你站在桥上看我的 那一刻起你就是我的世界。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 158,
+        "hitokoto": "龙儿是我的，谁都不许碰。",
+        "from": "龙与虎",
+        "from_who": null
+    },
+    {
+        "id": 159,
+        "hitokoto": "卧龙低伏，入我阵来。",
+        "from": "一人之下",
+        "from_who": null
+    },
+    {
+        "id": 160,
+        "hitokoto": "好红，每当想起你，枫叶就会被染红。",
+        "from": "银仙",
+        "from_who": null
+    },
+    {
+        "id": 161,
+        "hitokoto": "相信十年后的八月，我们还会相遇。",
+        "from": "未闻花名",
+        "from_who": null
+    },
+    {
+        "id": 162,
+        "hitokoto": "应该可以了吧，我已经很努力了，应该可以抵达终点了……",
+        "from": "AIR",
+        "from_who": null
+    },
+    {
+        "id": 163,
+        "hitokoto": "殺してあげる",
+        "from": "緋色月下、狂咲ノ絶",
+        "from_who": null
+    },
+    {
+        "id": 164,
+        "hitokoto": "能力越大,责任越大",
+        "from": "蜘蛛侠",
+        "from_who": null
+    },
+    {
+        "id": 165,
+        "hitokoto": "不要随便贬低自己",
+        "from": "终将成为你",
+        "from_who": null
+    },
+    {
+        "id": 166,
+        "hitokoto": "我不喜欢这世界，我只喜欢你。",
+        "from": "乔一",
+        "from_who": null
+    },
+    {
+        "id": 167,
+        "hitokoto": "神啊，我的人生到底为何而存在呢？",
+        "from": "蜂蜜与四叶草",
+        "from_who": null
+    },
+    {
+        "id": 168,
+        "hitokoto": "想象力是武器，没有想象力的人会先死。",
+        "from": "哥布林杀手",
+        "from_who": null
+    },
+    {
+        "id": 169,
+        "hitokoto": "我们只是历史的过客，目标渺茫，无地自容。我们没有世界大战可以经历，也没有经济大萧条可以恐慌。我们的战争充其量不过是内心之战，我们最大的恐慌就是自己的生活。",
+        "from": "搏击俱乐部",
+        "from_who": null
+    },
+    {
+        "id": 170,
+        "hitokoto": "有的只是很简单的唯一的思想…只此一个！“胜利然后支配”！仅此而已...这才是我唯一的满足感！…至于过程和方法之类…并不重要！",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 171,
+        "hitokoto": "王有王的才能，厨师有厨师的才能，替身之间是没有强弱之分的",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 172,
+        "hitokoto": "如果我们能活着出去的话，千山万水，你愿意陪我一起看吗？",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 173,
+        "hitokoto": "如果可以，愿来生你不要忘记我，我也不要忘记你那熟悉的温柔。",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 174,
+        "hitokoto": "我愿意呀，五十年前就愿意了。",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 175,
+        "hitokoto": "而我不知不觉把自己遗忘，只想为你完成那个梦想。",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 176,
+        "hitokoto": "让我成为你的双眼，把那世界万千，描绘在你面前。",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 177,
+        "hitokoto": "有很多辛苦的事情，从结果上来说并不好。但是一起努力的过程，绝对不是没用的。我是这么想的。所以现在不是停滞不前的时候。",
+        "from": "如果有个妹妹就好了",
+        "from_who": null
+    },
+    {
+        "id": 178,
+        "hitokoto": "你们这些天才止步不前的时候，我会走得更远。",
+        "from": "如果有个妹妹就好了",
+        "from_who": null
+    },
+    {
+        "id": 179,
+        "hitokoto": "有些景色必须前进才能看到，那么只有勇往直前。",
+        "from": "如果有个妹妹就好了",
+        "from_who": null
+    },
+    {
+        "id": 180,
+        "hitokoto": "果然啊，创造一样东西很开心。让别人享受自己创造的东西，是一种幸福呢。",
+        "from": "如果有个妹妹就好了",
+        "from_who": null
+    },
+    {
+        "id": 181,
+        "hitokoto": "世界上哪有不会输的英雄啊。",
+        "from": "凸变英雄",
+        "from_who": null
+    },
+    {
+        "id": 182,
+        "hitokoto": "我怕失去了你，我的世界就没有了光明",
+        "from": "凸变英雄",
+        "from_who": null
+    },
+    {
+        "id": 183,
+        "hitokoto": "虽然有时候，不知道要写些什么，有时候，却有很多想说的，来不及记录。回忆一转身，就悄悄溜走了。",
+        "from": "凸变英雄",
+        "from_who": null
+    },
+    {
+        "id": 184,
+        "hitokoto": "哭过喊过便会停止哭泣",
+        "from": "从零开始的异世界生活",
+        "from_who": null
+    },
+    {
+        "id": 185,
+        "hitokoto": "很抱歉，前面是单行道，你就乖乖的夹着尾巴耸拉着脑袋返回原点吧！",
+        "from": "一方通行",
+        "from_who": null
+    },
+    {
+        "id": 186,
+        "hitokoto": "即便我弱了，也并不代表你强了。",
+        "from": "魔法禁书目录",
+        "from_who": null
+    },
+    {
+        "id": 187,
+        "hitokoto": "小鬼，你为坠入不幸深渊之人而心痛  我不会多言，只不过周遭充斥不幸，而你的小船仅能载一人，若救助其他人，只会让彼此沉没。",
+        "from": "文豪野犬",
+        "from_who": null
+    },
+    {
+        "id": 188,
+        "hitokoto": "死亡不是终点，被遗忘才是。",
+        "from": "寻梦环游记",
+        "from_who": null
+    },
+    {
+        "id": 189,
+        "hitokoto": "世界上的人都变成废柴，这个世界就没有废柴了。",
+        "from": "春物",
+        "from_who": null
+    },
+    {
+        "id": 190,
+        "hitokoto": "青春是谎言，是邪恶。",
+        "from": "春物",
+        "from_who": null
+    },
+    {
+        "id": 191,
+        "hitokoto": "纵使日薄西山。",
+        "from": "末日时在做什么",
+        "from_who": null
+    },
+    {
+        "id": 192,
+        "hitokoto": "孤高的游荡灵魂不需要羁绊之地",
+        "from": "春物",
+        "from_who": null
+    },
+    {
+        "id": 193,
+        "hitokoto": "我的金子，只给千寻。",
+        "from": "千与千寻",
+        "from_who": null
+    },
+    {
+        "id": 194,
+        "hitokoto": "步伐虽小，密而不停",
+        "from": "实验品家庭",
+        "from_who": null
+    },
+    {
+        "id": 195,
+        "hitokoto": "只会比大小真是没品。",
+        "from": "某科学的超电磁炮S",
+        "from_who": null
+    },
+    {
+        "id": 196,
+        "hitokoto": "问灵十三载，等一不归人。",
+        "from": "魔道祖师",
+        "from_who": null
+    },
+    {
+        "id": 197,
+        "hitokoto": "如果我是雨的话，也能像连接那永远都不将交汇的天空和大地一样，去连接某个人的心吗。",
+        "from": "BLEACH",
+        "from_who": null
+    },
+    {
+        "id": 198,
+        "hitokoto": "你还是…笑起来…最棒了……",
+        "from": "最终幻想XIV",
+        "from_who": null
+    },
+    {
+        "id": 199,
+        "hitokoto": "'Cause rainbow won't light up the sky unless you let it rain.",
+        "from": "My Little Pony: Friendship is Magic",
+        "from_who": null
+    },
+    {
+        "id": 200,
+        "hitokoto": "千山万水，因你不过毫厘",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 201,
+        "hitokoto": "古往传奇多少别离，我 只是不经意 遇到了你",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 202,
+        "hitokoto": "或许，你认为你的心已经给了他。但是，我会证明……我有一颗爱你的心！",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 203,
+        "hitokoto": "你相信时间会抚平一切，可时过境迁，你已不复醒",
+        "from": "动画",
+        "from_who": null
+    },
+    {
+        "id": 204,
+        "hitokoto": "不拼尽全力去试一下，又怎么会知道啊",
+        "from": "刺客伍六七",
+        "from_who": null
+    },
+    {
+        "id": 205,
+        "hitokoto": "我今天就要带她走，我看谁敢拦我！",
+        "from": "刺客伍六七",
+        "from_who": null
+    },
+    {
+        "id": 206,
+        "hitokoto": "你们人类让我明白了一个道理，那就是这个世界是不讲道理的",
+        "from": "刺客伍六七",
+        "from_who": null
+    },
+    {
+        "id": 207,
+        "hitokoto": "人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路如果不是你自己的选择，那么旅程的终点在哪儿也没人知道，你会走到哪儿，会碰到谁，都不一定。",
+        "from": "镇魂街",
+        "from_who": null
+    },
+    {
+        "id": 208,
+        "hitokoto": "世界是无情的，并不存在与生俱来的英雄。 所以只能由刚好在旁边的人粉墨登场， 演一出英雄的戏码。",
+        "from": "魔法禁书目录",
+        "from_who": null
+    },
+    {
+        "id": 209,
+        "hitokoto": "樱花满地集于我心，楪舞纷飞祈愿相随",
+        "from": "罪恶王冠",
+        "from_who": null
+    },
+    {
+        "id": 210,
+        "hitokoto": "人的能力是有极限的。我从短暂的人生当中学到一件事……越是玩弄计谋,就越会发现人类的能力是有极限的……除非超越人类。",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 211,
+        "hitokoto": "那似乎是比翼鸟。这种鸟天生单翼，须靠雌雄二鸟相互依偎才能翱翔天际，是种有缺陷的生物。但是，不知为何，我却感受到了这种生活方式的美妙。",
+        "from": "Darling in the FRANXX",
+        "from_who": null
+    },
+    {
+        "id": 212,
+        "hitokoto": "追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。",
+        "from": "FLCL Progressive",
+        "from_who": null
+    },
+    {
+        "id": 213,
+        "hitokoto": "世界上所有的不利情况都是因为当事者的能力不足造成的",
+        "from": "东京喰种",
+        "from_who": null
+    },
+    {
+        "id": 214,
+        "hitokoto": "一个人有表里两面，你能看到的，仅仅是其中一面而已。",
+        "from": "零的执行人",
+        "from_who": null
+    },
+    {
+        "id": 215,
+        "hitokoto": "不知彼此来世相逢。是否还能记得我是谁？",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 216,
+        "hitokoto": "与其因为不信任而后悔，不如因为相信而后悔。",
+        "from": "刀剑神域",
+        "from_who": null
+    },
+    {
+        "id": 217,
+        "hitokoto": "人生没有那么多的捷径，你不知道路的尽头是什么，但你必须向前走。",
+        "from": "刀剑神域",
+        "from_who": null
+    },
+    {
+        "id": 218,
+        "hitokoto": "一个人决定寂寞，和另一个人相互依偎又有什么错",
+        "from": "人渣的本愿",
+        "from_who": null
+    },
+    {
+        "id": 219,
+        "hitokoto": "我可从来不认为恐惧可以成为舍弃他人的借口，人不能因为恐惧，就连身为人类的品性都丢掉。",
+        "from": "铁甲城的卡巴内瑞",
+        "from_who": null
+    },
+    {
+        "id": 220,
+        "hitokoto": "你知道吗？从人眼的高度能看到的地平线，是离自身的距离大约是4公里。",
+        "from": "青春猪头少年不会梦到兔女郎学姐",
+        "from_who": null
+    },
+    {
+        "id": 221,
+        "hitokoto": "梦想是一个天真的词，实现梦想是一个残酷的词",
+        "from": "哆啦A梦",
+        "from_who": null
+    },
+    {
+        "id": 222,
+        "hitokoto": "既然今天是昨天，那么睡到明天就好。",
+        "from": "青春猪头少年不会梦到兔女郎学姐",
+        "from_who": null
+    },
+    {
+        "id": 223,
+        "hitokoto": "做不到的事没必要勉强去做，不也挺好吗？",
+        "from": "青春猪头少年不会梦到兔女郎学姐",
+        "from_who": null
+    },
+    {
+        "id": 224,
+        "hitokoto": "给我高高的飞起来啊！",
+        "from": "星游记",
+        "from_who": null
+    },
+    {
+        "id": 225,
+        "hitokoto": "要是眼睁睁的看着重要的同伴死去，就算是死，我也不能瞑目。",
+        "from": "家庭教师",
+        "from_who": null
+    },
+    {
+        "id": 226,
+        "hitokoto": "你的败因只有一个，就是与我为敌。 ­",
+        "from": "家庭教师",
+        "from_who": null
+    },
+    {
+        "id": 227,
+        "hitokoto": "如果真是这样， 就由我来把彭格列毁灭！",
+        "from": "家庭教师",
+        "from_who": null
+    },
+    {
+        "id": 228,
+        "hitokoto": "十代目的意志就是我们的意志！",
+        "from": "家庭教师",
+        "from_who": null
+    },
+    {
+        "id": 229,
+        "hitokoto": "但我拒绝！我岸边露伴最喜欢的事情之一，就是向那些自以为是的家伙说，NO！",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 230,
+        "hitokoto": "人类的赞歌就是勇气的赞歌！",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 231,
+        "hitokoto": "大家都是伪善者，世间充斥着不真实。",
+        "from": "无头骑士异闻录",
+        "from_who": null
+    },
+    {
+        "id": 232,
+        "hitokoto": "不服从命令的人是人渣，抛弃同伴的人连人渣都不如。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 233,
+        "hitokoto": "砸瓦鲁多！",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 234,
+        "hitokoto": "背后即是祖国，我们无路可退。",
+        "from": "那年那兔那些事",
+        "from_who": null
+    },
+    {
+        "id": 235,
+        "hitokoto": "不能输，笑吧！",
+        "from": "约定的梦幻岛",
+        "from_who": null
+    },
+    {
+        "id": 236,
+        "hitokoto": "不管是怎样的回忆，都是我们活过的人生。",
+        "from": "Angel Beats!",
+        "from_who": null
+    },
+    {
+        "id": 237,
+        "hitokoto": "孤独的我们才有人类的样子。",
+        "from": "Angel Beats!",
+        "from_who": null
+    },
+    {
+        "id": 238,
+        "hitokoto": "声起立华乐独奏，曲末音无心结弦。",
+        "from": "Angel Beats!",
+        "from_who": null
+    },
+    {
+        "id": 239,
+        "hitokoto": "不愿意的时候，逃跑也没有关系！",
+        "from": "灵能百分百",
+        "from_who": null
+    },
+    {
+        "id": 240,
+        "hitokoto": "邪王真眼是最强的",
+        "from": "中二病也要谈恋爱",
+        "from_who": null
+    },
+    {
+        "id": 241,
+        "hitokoto": "大部分人并不想长大 只是没办法继续当一个小孩子。",
+        "from": "小林家的龙女仆",
+        "from_who": null
+    },
+    {
+        "id": 242,
+        "hitokoto": "从开始的第一天起，就回不去了。",
+        "from": "流浪地球",
+        "from_who": null
+    },
+    {
+        "id": 243,
+        "hitokoto": "欧拉欧拉欧拉欧拉！",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 244,
+        "hitokoto": "一举一动，都是承诺，会被另一个人看在眼里，记在心上的。",
+        "from": "悬崖上的金鱼姬",
+        "from_who": null
+    },
+    {
+        "id": 245,
+        "hitokoto": "人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路，如果不是自己的选择，那旅程的终点在哪儿，也没人知道，你会走到哪儿，会碰到谁，都不一定。",
+        "from": "镇魂街",
+        "from_who": null
+    },
+    {
+        "id": 246,
+        "hitokoto": "成一事者，是失之不渝的愚者；毁一事者，是停滞不前的贤者。",
+        "from": "不正经的魔法讲师",
+        "from_who": null
+    },
+    {
+        "id": 247,
+        "hitokoto": "到底是，为什么呢？",
+        "from": "金木研",
+        "from_who": null
+    },
+    {
+        "id": 248,
+        "hitokoto": "我爱你，与你何干？",
+        "from": "歌德",
+        "from_who": null
+    },
+    {
+        "id": 249,
+        "hitokoto": "即使我弱了，也并不代表你强了",
+        "from": "魔法禁书目录 第二季",
+        "from_who": null
+    },
+    {
+        "id": 250,
+        "hitokoto": "正因为有了音乐，才有了相遇的瞬间，有了相会的感动，有了相逢的人们，有了邂逅的思念。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 251,
+        "hitokoto": "你驻足于春色中，于那独一无二的春色之中。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 252,
+        "hitokoto": "每当心情郁闷的时候，用手托腮就好，手臂会因为帮上忙而开心的。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 253,
+        "hitokoto": "你的所言所行，全都闪烁着光芒，太过刺目，于是我闭上双眼，但内心还是无法停止对你的憧憬。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 254,
+        "hitokoto": "或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前途。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 255,
+        "hitokoto": "九月是蒲公英漫飞的季节，我喜欢这个季节，只可惜今天是九月的最后一天了",
+        "from": "我是江小白",
+        "from_who": null
+    },
+    {
+        "id": 256,
+        "hitokoto": "不辜负年华，做自己想做的事，唱自己想唱的歌",
+        "from": "我是江小白",
+        "from_who": null
+    },
+    {
+        "id": 257,
+        "hitokoto": "世间有很多事情，人们无法从它寂静的表象，猜测到暗涌，就像一个人和另一个人的相遇",
+        "from": "我是江小白",
+        "from_who": null
+    },
+    {
+        "id": 258,
+        "hitokoto": "用我那牵强的微笑，活出无人能比的骄傲。",
+        "from": "黑执事",
+        "from_who": null
+    },
+    {
+        "id": 259,
+        "hitokoto": "人类的赞歌就是勇气的赞歌",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 260,
+        "hitokoto": "我没有任何理由为了那些人让自己的人生付之一炬！",
+        "from": "三月的狮子",
+        "from_who": null
+    },
+    {
+        "id": 261,
+        "hitokoto": "但是，我没有后悔，不能后悔，因为，我所做的事情一定没有错！",
+        "from": "三月的狮子",
+        "from_who": null
+    },
+    {
+        "id": 262,
+        "hitokoto": "相信奇迹的人，本身就和奇迹一样了不起。",
+        "from": "星游记",
+        "from_who": null
+    },
+    {
+        "id": 263,
+        "hitokoto": "即使天无雨，我亦留此地。",
+        "from": "言叶之庭",
+        "from_who": null
+    },
+    {
+        "id": 264,
+        "hitokoto": "有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。",
+        "from": "秦时明月",
+        "from_who": null
+    },
+    {
+        "id": 265,
+        "hitokoto": "有一天，你到了人类的世界，不要去爱上一个人，因为，爱上一个人，会让你真正变成孤单一人。",
+        "from": "朝花夕誓",
+        "from_who": null
+    },
+    {
+        "id": 266,
+        "hitokoto": "经为流逝的日月。纬为人们的生业。",
+        "from": "朝花夕誓",
+        "from_who": null
+    },
+    {
+        "id": 267,
+        "hitokoto": "悲痛的事，温柔以对；难过的事，坚强以对。",
+        "from": "朝花夕誓",
+        "from_who": null
+    },
+    {
+        "id": 268,
+        "hitokoto": "叫做妈妈的人，是不会哭的。",
+        "from": "朝花夕誓",
+        "from_who": null
+    },
+    {
+        "id": 269,
+        "hitokoto": "每一个兔子都有一个大国梦",
+        "from": "那年那兔那些事",
+        "from_who": null
+    },
+    {
+        "id": 270,
+        "hitokoto": "乘上与平时相反的列车，为了去见从未见过的风景。",
+        "from": "比宇宙更远的地方",
+        "from_who": null
+    },
+    {
+        "id": 271,
+        "hitokoto": "我不做人了！",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 272,
+        "hitokoto": "我是否住进了某人的心房呢？",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 273,
+        "hitokoto": "那么难受，那么痛苦，可是 世界这么美丽...让我如何能够忘记！",
+        "from": "朝花夕誓",
+        "from_who": null
+    },
+    {
+        "id": 274,
+        "hitokoto": "雁过拔毛，兽走留皮。涂山，我罩的，懂？",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 275,
+        "hitokoto": "那天，我见过的最强剑客，提起了天下最强的宝剑······却早已没了剑心。",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 276,
+        "hitokoto": "知识是很美的，它们可以让你不出家门就了解这世上的许多事。",
+        "from": "妖精的尾巴",
+        "from_who": null
+    },
+    {
+        "id": 277,
+        "hitokoto": "尽情的依靠我吧，因为总有一天我也会依靠你的。",
+        "from": "妖精的尾巴",
+        "from_who": null
+    },
+    {
+        "id": 278,
+        "hitokoto": "电助！凉子，看到了吗！",
+        "from": "电脑线圈",
+        "from_who": null
+    },
+    {
+        "id": 279,
+        "hitokoto": "I met the girl under full-bloomed cherry blossoms, and my fate has begun to change.",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 280,
+        "hitokoto": "不相信自己的人，连努力的价值都没有。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 281,
+        "hitokoto": "我一点也不走运。",
+        "from": "Fairy gone",
+        "from_who": null
+    },
+    {
+        "id": 282,
+        "hitokoto": "我从未让你们骄傲，你们却待我如宝。",
+        "from": "Az殇芯的chx",
+        "from_who": null
+    },
+    {
+        "id": 283,
+        "hitokoto": "错的不是我，而是这个世界！",
+        "from": "东京喰种",
+        "from_who": null
+    },
+    {
+        "id": 284,
+        "hitokoto": "你驻足于春色中，于那独一无二的春色之中。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 285,
+        "hitokoto": "和她相遇的瞬间，我的人生就改变了。所见所闻所感，目之所及全都开始变得多姿多彩起来。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 286,
+        "hitokoto": "やり遂げたよ、最後まで。",
+        "from": "ラブライブ",
+        "from_who": null
+    },
+    {
+        "id": 287,
+        "hitokoto": "要把所有的夜归还给星河，把所有的春光归还给疏疏篱落，把所有的慵慵沉迷与不前，归还给过去的我。",
+        "from": "德卡先生的信箱",
+        "from_who": null
+    },
+    {
+        "id": 288,
+        "hitokoto": "总有一天，我要撕碎这片虚伪的星空。",
+        "from": "黑之契约者",
+        "from_who": null
+    },
+    {
+        "id": 289,
+        "hitokoto": "那么，开始实验吧！",
+        "from": "假面骑士Build",
+        "from_who": null
+    },
+    {
+        "id": 290,
+        "hitokoto": "我看到这个世界的恶意，我们正在接受考验。",
+        "from": "机动战士高达00",
+        "from_who": null
+    },
+    {
+        "id": 291,
+        "hitokoto": "喜欢上一个人就是变得束手无策。",
+        "from": "悠久之翼2",
+        "from_who": null
+    },
+    {
+        "id": 292,
+        "hitokoto": "所谓人，无论是谁到了最后，都会形单影只。",
+        "from": "悠久之翼2",
+        "from_who": null
+    },
+    {
+        "id": 293,
+        "hitokoto": "长大了，才能体会什么是责任！",
+        "from": "家庭",
+        "from_who": null
+    },
+    {
+        "id": 294,
+        "hitokoto": "你是否会等待着我?我还想变的更加完美...",
+        "from": "LoveLive!Sunshine!",
+        "from_who": null
+    },
+    {
+        "id": 295,
+        "hitokoto": "我只是想要得到「我没有逃避」的记忆吧。",
+        "from": "三月的狮子",
+        "from_who": null
+    },
+    {
+        "id": 296,
+        "hitokoto": "人生海海，敢死不叫勇气，活着才需要勇气。",
+        "from": "麦家-人生海海",
+        "from_who": null
+    },
+    {
+        "id": 297,
+        "hitokoto": "我无知又愚蠢，世界残酷又疯狂。",
+        "from": "进击的巨人",
+        "from_who": null
+    },
+    {
+        "id": 298,
+        "hitokoto": "我的面包！",
+        "from": "Clannad",
+        "from_who": null
+    },
+    {
+        "id": 299,
+        "hitokoto": "是我，是我先，明明都是我先来的，接吻也好，拥抱也好，还是喜欢上那家伙也好。",
+        "from": "白色相簿2",
+        "from_who": null
+    },
+    {
+        "id": 300,
+        "hitokoto": "一旦醉心于狩猎，不到最后关头不会发现自己才是猎物。",
+        "from": "来自新世界",
+        "from_who": null
+    },
+    {
+        "id": 301,
+        "hitokoto": "人类这种生物，不管有过多少不得不伴着泪水吞咽的教训，只要过了咽喉，所有教训便又会被彻底遗忘。",
+        "from": "来自新世界",
+        "from_who": null
+    },
+    {
+        "id": 302,
+        "hitokoto": "即使我变弱了，也不代表你变强了。",
+        "from": "魔法禁书目录",
+        "from_who": null
+    },
+    {
+        "id": 303,
+        "hitokoto": "喜欢和不讨厌之间可是有着数亿光年的距离的。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 304,
+        "hitokoto": "痛苦着痛苦着，满脑子只能想我的事。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 305,
+        "hitokoto": "我拼命地挣扎，我对活下去的执著，都是因为你，是你让我，对和你一起度过的那段时光无比留恋。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 306,
+        "hitokoto": "站起来！站起来啊！你是我的腿吧！站起来啊！",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 307,
+        "hitokoto": "我不甘心，明明你为我做了那么多，我却什么都不能为你做。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 308,
+        "hitokoto": "等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 309,
+        "hitokoto": "就此分别吧！请继续向前，迎接樱花漫溢的四月，但请不要忘记我，友人A……",
+        "from": "四月是你的谎言",
+        "from_who": null
+    },
+    {
+        "id": 310,
+        "hitokoto": "那里还有——医生的房间啊！",
+        "from": "Fate / Grand Order",
+        "from_who": null
+    },
+    {
+        "id": 311,
+        "hitokoto": "因为我...我希望不做任何的努力，让对方喜欢上最真实的我。",
+        "from": "女高中生的无所事事",
+        "from_who": null
+    },
+    {
+        "id": 312,
+        "hitokoto": "没有一封信是不必被送达的。",
+        "from": "紫罗兰永恒花园",
+        "from_who": null
+    },
+    {
+        "id": 313,
+        "hitokoto": "我觉得，不改变也很好。",
+        "from": "来自风平浪静的明天",
+        "from_who": null
+    },
+    {
+        "id": 314,
+        "hitokoto": "痴情的妖怪啊,请再等一世吧。",
+        "from": "狐妖小红娘",
+        "from_who": null
+    },
+    {
+        "id": 315,
+        "hitokoto": "你从我的手中展翅高飞，我深受打击。在这世上的某处，再次寻找崭新的你的影子，那就是我们之间的美好结局。",
+        "from": "骚动时节的少女们啊",
+        "from_who": null
+    },
+    {
+        "id": 316,
+        "hitokoto": "一旦你尝试过天空的味道，你就会永远向上仰望",
+        "from": "列奥那多·达芬奇",
+        "from_who": null
+    },
+    {
+        "id": 317,
+        "hitokoto": "人间不温柔",
+        "from": "李诞",
+        "from_who": null
+    },
+    {
+        "id": 318,
+        "hitokoto": "知道和感觉到是两码事。",
+        "from": "《看见》",
+        "from_who": null
+    },
+    {
+        "id": 319,
+        "hitokoto": "只要学不死，就往死里学。",
+        "from": "网络热语",
+        "from_who": null
+    },
+    {
+        "id": 320,
+        "hitokoto": "我是奥尔加·伊滋卡，几颗子弹不要紧的！",
+        "from": "机动战士高达：铁血的孤儿",
+        "from_who": null
+    },
+    {
+        "id": 321,
+        "hitokoto": "死亡的尽头，没有神",
+        "from": "机动战士高达00:先驱者的觉醒",
+        "from_who": null
+    },
+    {
+        "id": 322,
+        "hitokoto": "只要能和大家一起唱歌，大概就算毕业以后我们分开了，只要听见这首歌就能回想起现在。",
+        "from": "TARI TARI",
+        "from_who": null
+    },
+    {
+        "id": 323,
+        "hitokoto": "我没能说出口，不管是那句「我走了」，还是那句「对不起」，或者那句「谢谢」...",
+        "from": "TARI TARI",
+        "from_who": null
+    },
+    {
+        "id": 324,
+        "hitokoto": "现世为梦，夜梦为真。",
+        "from": "《xxxholic》",
+        "from_who": null
+    },
+    {
+        "id": 325,
+        "hitokoto": "今天不想做，所以才要做",
+        "from": "春上村树",
+        "from_who": null
+    },
+    {
+        "id": 326,
+        "hitokoto": "嗯，明白。我们是天人的Gundam Meister",
+        "from": "机动战士高达00",
+        "from_who": null
+    },
+    {
+        "id": 327,
+        "hitokoto": "不动身的话就永远无法追寻，哪怕是休息也不会就此停下。",
+        "from": "Aqours",
+        "from_who": null
+    },
+    {
+        "id": 328,
+        "hitokoto": "朝着下一道光芒横渡大海吧！",
+        "from": "Aqours",
+        "from_who": null
+    },
+    {
+        "id": 329,
+        "hitokoto": "这个世界啊，很美丽的，很广大的，很辽阔的！",
+        "from": "Darling in the FRANXX",
+        "from_who": null
+    },
+    {
+        "id": 330,
+        "hitokoto": "我对Darling啊，最喜欢了。我们从今以后，都要在一起哦。",
+        "from": "Darling in the FRANXX",
+        "from_who": null
+    },
+    {
+        "id": 331,
+        "hitokoto": "为了传达不到的思念而苦恼，只会感到痛不欲生。",
+        "from": "WHITE FIRST LOVE",
+        "from_who": null
+    },
+    {
+        "id": 332,
+        "hitokoto": "千军万马滚滚来，不知何人留情怀！",
+        "from": "Other",
+        "from_who": null
+    },
+    {
+        "id": 333,
+        "hitokoto": "用决斗......给大家......带来笑容......",
+        "from": "游戏王<A-RCV>",
+        "from_who": null
+    },
+    {
+        "id": 334,
+        "hitokoto": "别人的看法都是狗屁，你是谁只有你自己说了才算，这是爹教我的道理。",
+        "from": "哪吒之魔童降世",
+        "from_who": null
+    },
+    {
+        "id": 335,
+        "hitokoto": "或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。",
+        "from": "四月是你的谎言",
+        "from_who": "宫园薰"
+    },
+    {
+        "id": 336,
+        "hitokoto": "这个世上没有无用的齿轮，也只有齿轮本身能决定自己的用途。",
+        "from": "嫌疑人x的献身",
+        "from_who": null
+    },
+    {
+        "id": 337,
+        "hitokoto": "光就是羁绊之力，它会再度被某人继承，散发出耀眼的光。",
+        "from": "奈克瑟斯奥特曼",
+        "from_who": null
+    },
+    {
+        "id": 338,
+        "hitokoto": "人们渴望像鸟儿一样自由自在地飞翔，可他们并没有想过，鸟儿也并不自由，它们之所以飞翔，是为了生存。",
+        "from": "奈克瑟斯奥特曼",
+        "from_who": null
+    },
+    {
+        "id": 339,
+        "hitokoto": "记忆是不会消失的，只是一时想不起来了而已。",
+        "from": "千与千寻",
+        "from_who": null
+    },
+    {
+        "id": 340,
+        "hitokoto": "我不借助别人的力量就没办法跟仰慕的人聊天吗？",
+        "from": "女高中生的虚度日常",
+        "from_who": null
+    },
+    {
+        "id": 341,
+        "hitokoto": "强韧，无敌，最强！玉碎，粉碎，大喝彩！",
+        "from": "海马濑人",
+        "from_who": null
+    },
+    {
+        "id": 342,
+        "hitokoto": "人的好意是沉重的。",
+        "from": "黑神",
+        "from_who": null
+    },
+    {
+        "id": 343,
+        "hitokoto": "我们所度过的每个平凡的日常，也许就是连续发生的奇迹。",
+        "from": "日常",
+        "from_who": null
+    },
+    {
+        "id": 344,
+        "hitokoto": "我最喜欢三月的风，四月的雨，不落的太阳和最好的你",
+        "from": "闺密",
+        "from_who": null
+    },
+    {
+        "id": 345,
+        "hitokoto": "在末日中，人们总想寻找希望，但要真有希望的话，那还叫希望吗？",
+        "from": "灵笼",
+        "from_who": null
+    },
+    {
+        "id": 346,
+        "hitokoto": "可爱即是正义。",
+        "from": "游戏人生",
+        "from_who": null
+    },
+    {
+        "id": 347,
+        "hitokoto": "在末日中，人们总想寻找希望，但要真有希望的话，那还叫末日吗？",
+        "from": "灵笼",
+        "from_who": null
+    },
+    {
+        "id": 348,
+        "hitokoto": "只要抗争下去就能带来奇迹，这是恐怖分子的教诲，你给我记清楚了。",
+        "from": "未来日记",
+        "from_who": null
+    },
+    {
+        "id": 349,
+        "hitokoto": "相信奇迹的人本身就和奇迹一样了不起啊",
+        "from": "星游记",
+        "from_who": null
+    },
+    {
+        "id": 350,
+        "hitokoto": "人类的赞歌就是勇气的赞歌。",
+        "from": "JOJO的奇妙冒险",
+        "from_who": null
+    },
+    {
+        "id": 351,
+        "hitokoto": "你们腌太监也不会动人脑子啊！",
+        "from": "铁心搏奕",
+        "from_who": null
+    },
+    {
+        "id": 352,
+        "hitokoto": "这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！",
+        "from": "魔法少女小圆新篇",
+        "from_who": null
+    },
+    {
+        "id": 353,
+        "hitokoto": "我不要你觉得，我要我觉得。",
+        "from": "中餐厅",
+        "from_who": "黄晓明"
+    },
+    {
+        "id": 354,
+        "hitokoto": "神啊，求求你。已经足够了。已经没事了。我们都会熬过去的。",
+        "from": "天气之子",
+        "from_who": null
+    },
+    {
+        "id": 355,
+        "hitokoto": "自古以来，天空上就是另一个世界。",
+        "from": "天气之子",
+        "from_who": null
+    },
+    {
+        "id": 356,
+        "hitokoto": "在东京的天空上，我们决定性的改变了世界的模样。",
+        "from": "天气之子",
+        "from_who": null
+    },
+    {
+        "id": 357,
+        "hitokoto": "向天空拼命伸出的双手，发射那么巨大的东西，只是为了寻找超出想象的彼岸所存在的东西。",
+        "from": "秒速五厘米",
+        "from_who": null
+    },
+    {
+        "id": 358,
+        "hitokoto": "你是否会等待着我？我会变得更加完美！",
+        "from": "Aqours",
+        "from_who": null
+    },
+    {
+        "id": 359,
+        "hitokoto": "さあ，Games始めましょうか",
+        "from": "游戏人生",
+        "from_who": null
+    },
+    {
+        "id": 360,
+        "hitokoto": "被一个自己不感兴趣的人示好，你不觉得没有比这更恶心的事吗",
+        "from": "人渣的本愿",
+        "from_who": null
+    },
+    {
+        "id": 361,
+        "hitokoto": "世界上所有的不利状况都是因为当事者的能力不足",
+        "from": "东京喰种",
+        "from_who": null
+    },
+    {
+        "id": 362,
+        "hitokoto": "在虚构现实里寻求现实感的人才有问题",
+        "from": "凉宫春日的忧郁",
+        "from_who": null
+    },
+    {
+        "id": 363,
+        "hitokoto": "Ex - ploooosion !",
+        "from": "为美好的世界献上祝福",
+        "from_who": null
+    },
+    {
+        "id": 364,
+        "hitokoto": "是我，是我先，明明都是我先来的……接吻也好，拥抱也好，还是喜欢上那家伙也好",
+        "from": "白色相簿2",
+        "from_who": null
+    },
+    {
+        "id": 365,
+        "hitokoto": "没有一个世界会比活在这个世界痛苦",
+        "from": "黑岩射手",
+        "from_who": null
+    },
+    {
+        "id": 366,
+        "hitokoto": "如果把那一端的敌人全部杀掉的话，我们就能自由了吗？",
+        "from": "进击的巨人",
+        "from_who": null
+    },
+    {
+        "id": 367,
+        "hitokoto": "今后我们来度过满是愉快之事的人生吧",
+        "from": "Charlotte",
+        "from_who": null
+    },
+    {
+        "id": 368,
+        "hitokoto": "如果一切都是镜花水月，那就让这万物走向终结。如果一切皆是命中注定，那就让这世界消失殆尽。",
+        "from": "失落的歌谣",
+        "from_who": null
+    },
+    {
+        "id": 369,
+        "hitokoto": "能够用自己喜欢的工作维持生活是件很幸福的事情",
+        "from": "白箱",
+        "from_who": null
+    },
+    {
+        "id": 370,
+        "hitokoto": "有的鱼是永远关不住的，因为他们属于天空。",
+        "from": "大鱼海棠",
+        "from_who": null
+    },
+    {
+        "id": 371,
+        "hitokoto": "我会化作人间的风雨陪在你的身边",
+        "from": "大鱼海棠",
+        "from_who": null
+    },
+    {
+        "id": 372,
+        "hitokoto": "你以为你接受的是谁的爱，是一个天神的爱！他背叛所有神灵去爱你，为你忍受一切痛苦。",
+        "from": "大鱼海棠",
+        "from_who": null
+    },
+    {
+        "id": 373,
+        "hitokoto": "深藏不露是一种卓越的才能",
+        "from": "欢迎来到实力至上主义的教室",
+        "from_who": null
+    },
+    {
+        "id": 374,
+        "hitokoto": "这样叹气的话，幸福会像四处逃散的小蜘蛛一样溜走的。",
+        "from": "辉夜大小姐想让我告白",
+        "from_who": null
+    },
+    {
+        "id": 375,
+        "hitokoto": "世上所以不公平之事是由于当事人能力不足所致。",
+        "from": "金木研",
+        "from_who": null
+    },
+    {
+        "id": 376,
+        "hitokoto": "雨滴降落的速度是每秒十米，我该用怎么样的速度，才能将你挽留？",
+        "from": "言叶之庭",
+        "from_who": null
+    },
+    {
+        "id": 377,
+        "hitokoto": "樱花落下的速度是每秒五厘米， 我该用怎么样的速度，才能与你相遇。",
+        "from": "秒速五厘米",
+        "from_who": null
+    },
+    {
+        "id": 378,
+        "hitokoto": "如果当时我们说了再见，后来是不是就可以再见",
+        "from": "昨日青空",
+        "from_who": null
+    },
+    {
+        "id": 379,
+        "hitokoto": "音无结弦之日，跃动天使之心，立于浮华之世，奏响天籁之音。",
+        "from": "Angel Beats!",
+        "from_who": null
+    },
+    {
+        "id": 380,
+        "hitokoto": "温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": null
+    },
+    {
+        "id": 381,
+        "hitokoto": "我一直注视着你，似近，似远。但你永远，看不见我……",
+        "from": "来自风平浪静的明天",
+        "from_who": "来自风平浪静的明天"
+    },
+    {
+        "id": 382,
+        "hitokoto": "与其被人扯碎校服，撕破心灵，倒不如直接剁碎自己的躯体，来得痛快。",
+        "from": "黑岩射手",
+        "from_who": null
+    },
+    {
+        "id": 383,
+        "hitokoto": "目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。",
+        "from": "小绿和小蓝",
+        "from_who": null
+    },
+    {
+        "id": 384,
+        "hitokoto": "这东西是越嚼越有味哦~",
+        "from": "BanG Dream! 2nd Season",
+        "from_who": null
+    },
+    {
+        "id": 385,
+        "hitokoto": "即使再也没有晴天也没有关系.",
+        "from": "天气之子",
+        "from_who": null
+    },
+    {
+        "id": 386,
+        "hitokoto": "我一直以为最糟糕的情况是你离开我，其实最令我难过的，是你不快乐。",
+        "from": "精灵旅社",
+        "from_who": null
+    },
+    {
+        "id": 387,
+        "hitokoto": "キラキラ☆ドキドキ",
+        "from": "戸山香澄",
+        "from_who": null
+    },
+    {
+        "id": 388,
+        "hitokoto": "我下定决心要当海贼王，就算因此而战死，那也无所谓。",
+        "from": "海贼王",
+        "from_who": null
+    },
+    {
+        "id": 389,
+        "hitokoto": "规则是用来被打破的。",
+        "from": "机械公敌",
+        "from_who": null
+    },
+    {
+        "id": 390,
+        "hitokoto": "木叶飞舞之处，火亦生生不息",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 391,
+        "hitokoto": "当我拔出第二把剑时，就是为了我所爱之人",
+        "from": "刀剑神域",
+        "from_who": null
+    },
+    {
+        "id": 392,
+        "hitokoto": "你指尖跃动的电光，是我此生不变的信仰，唯我超电磁炮永世长存。",
+        "from": "某科学的超电磁炮",
+        "from_who": null
+    },
+    {
+        "id": 393,
+        "hitokoto": "遇事不决，量子力学。",
+        "from": "青春期猪头少年不会梦到兔女郎学姐",
+        "from_who": null
+    },
+    {
+        "id": 394,
+        "hitokoto": "我们终会相遇相知，在那悠远的苍穹。",
+        "from": "缘之空",
+        "from_who": null
+    },
+    {
+        "id": 395,
+        "hitokoto": "Star Burst Stream!",
+        "from": "刀剑神域",
+        "from_who": "桐人"
+    },
+    {
+        "id": 396,
+        "hitokoto": "虽然想做一团火，却成了一块透视苦难的冰",
+        "from": "卡夫卡研究",
+        "from_who": "马克思·布洛德"
+    },
+    {
+        "id": 397,
+        "hitokoto": "生命可以随心所欲，但不能随波逐流",
+        "from": "猫的报恩",
+        "from_who": "宫崎骏"
+    },
+    {
+        "id": 398,
+        "hitokoto": "我们所度过的每个平凡的日常，也许就是连续发生的奇迹",
+        "from": "日常",
+        "from_who": null
+    },
+    {
+        "id": 399,
+        "hitokoto": "加油",
+        "from": "自编",
+        "from_who": null
+    },
+    {
+        "id": 400,
+        "hitokoto": "夕阳真是耀眼无比啊。",
+        "from": "女高中生的虚度日常",
+        "from_who": null
+    },
+    {
+        "id": 401,
+        "hitokoto": "今天我就要带她走，我看谁敢拦我",
+        "from": "刺客伍六七",
+        "from_who": null
+    },
+    {
+        "id": 402,
+        "hitokoto": "这里有你,他现在只有我了。",
+        "from": "罗小黑战记",
+        "from_who": null
+    },
+    {
+        "id": 403,
+        "hitokoto": "星空之所以美丽，就是因为在无限的宇宙中，不管黑暗如何蔓延，都有星星的光芒去把它照亮。世界也是这样，有绝望的地方，就会有希望产生。",
+        "from": "星游记",
+        "from_who": null
+    },
+    {
+        "id": 404,
+        "hitokoto": "我来做最不想做的事情了。",
+        "from": "22/7",
+        "from_who": null
+    },
+    {
+        "id": 405,
+        "hitokoto": "你只见树，未见森林",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 406,
+        "hitokoto": "你就赌我会死吧，因为你逢赌必输。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 407,
+        "hitokoto": "奶奶说过，男人有两件事不能做——绝不能让女孩子流泪和浪费食物。",
+        "from": "假面骑士Kabuto",
+        "from_who": "天道总司"
+    },
+    {
+        "id": 408,
+        "hitokoto": "正因为这样，我才决定任何时候都要尽全力享受人生，这样的话，无论什么时候死去，都是最幸福的一生了吧",
+        "from": "恋爱随意链接",
+        "from_who": "青木义文"
+    },
+    {
+        "id": 409,
+        "hitokoto": "正因为有了所有的过去，才成就了现在的我。否定自己所走过的路途，就意味着否定现在的自己。",
+        "from": "恋爱随意链接",
+        "from_who": "永濑伊织"
+    },
+    {
+        "id": 410,
+        "hitokoto": "每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。",
+        "from": "我想吃掉你的胰脏",
+        "from_who": null
+    },
+    {
+        "id": 411,
+        "hitokoto": "我这个人呀，能过着这样平凡普通的日子就很开心了。",
+        "from": "我想吃掉你的胰脏",
+        "from_who": null
+    },
+    {
+        "id": 412,
+        "hitokoto": "每个人能走到现在，都是自己选择的结果。",
+        "from": "我想吃掉你的胰脏",
+        "from_who": null
+    },
+    {
+        "id": 413,
+        "hitokoto": "都说樱花飘落时让人伤感，而我看到樱花盛开也觉得伤感，因为我会计算，我还能再看几次樱花盛开呢。",
+        "from": "我想吃掉你的胰脏",
+        "from_who": null
+    },
+    {
+        "id": 414,
+        "hitokoto": "只要人活在这世上就一定是有意义的，怎么活是自己选的。",
+        "from": "我想吃掉你的胰脏",
+        "from_who": null
+    },
+    {
+        "id": 415,
+        "hitokoto": "人生，一半是现实，一半是梦想。一念花开，一念花落。",
+        "from": "火影忍者",
+        "from_who": null
+    },
+    {
+        "id": 416,
+        "hitokoto": "我希望，我能完全信任你，我还从来没有能这样信任过谁。我也希望，你将给我最大的支持。",
+        "from": "安妮日记",
+        "from_who": "安妮·弗朗克"
+    },
+    {
+        "id": 417,
+        "hitokoto": "愿你有一天，能和你最重要的人重逢。",
+        "from": "可塑性记忆",
+        "from_who": "艾拉"
+    },
+    {
+        "id": 418,
+        "hitokoto": "告诉我，神会流血吗？——神不会，但你会。",
+        "from": "烦人的村民",
+        "from_who": "Herobrine"
+    },
+    {
+        "id": 419,
+        "hitokoto": "さあ、始めようか。(那么，游戏开始吧。)",
+        "from": "No Game No Life",
+        "from_who": null
+    },
+    {
+        "id": 420,
+        "hitokoto": "我讨厌温柔的女孩子，温柔的女孩子其实对所有人都温柔，而我却会误以为只对自己温柔，然后沾沾自喜得意忘形，最后弄得不欢而散，双方都受到伤害，所以我才讨厌温柔的女孩子。",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": null
+    },
+    {
+        "id": 421,
+        "hitokoto": "无知而又纯洁的岁月。是任何人都曾拥有的。世界上没有一成不变的事务。所以只要以其他方式找到自己的快乐就行了。",
+        "from": "CLANNAD",
+        "from_who": null
+    },
+    {
+        "id": 422,
+        "hitokoto": "粉色蓝宝石的宝石语是「献给弱者的正义」。",
+        "from": "宝石商人理查德的谜鉴定",
+        "from_who": null
+    },
+    {
+        "id": 423,
+        "hitokoto": "喂，前面可是地狱啊！おい、この先は地狱だぜ！",
+        "from": "Fate/stay night",
+        "from_who": null
+    },
+    {
+        "id": 424,
+        "hitokoto": "Steel is my body, and fire is my blood.",
+        "from": "Fate/stay night",
+        "from_who": null
+    },
+    {
+        "id": 425,
+        "hitokoto": "游龙当归海，海不迎我自来也。",
+        "from": "火影鸣人",
+        "from_who": "自来也"
+    },
+    {
+        "id": 426,
+        "hitokoto": "孩子，我愿意为你而前行。",
+        "from": "灵笼",
+        "from_who": "埃隆教官"
+    },
+    {
+        "id": 427,
+        "hitokoto": "世界上一切不利状况，都是因为当事人的能力不足。",
+        "from": "东京食尸鬼",
+        "from_who": null
+    },
+    {
+        "id": 428,
+        "hitokoto": "隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。",
+        "from": "言叶之庭",
+        "from_who": "新海诚"
+    },
+    {
+        "id": 429,
+        "hitokoto": "没有未来的未来不是我想要的未来。",
+        "from": "境界的彼方",
+        "from_who": null
+    },
+    {
+        "id": 430,
+        "hitokoto": "只要怀着理想而行动，就算结果不尽如人意也没有关系。但是如果失去了理想，那就真的一无所有了，连自己珍视的人都保护不了。",
+        "from": "境界的彼方",
+        "from_who": null
+    },
+    {
+        "id": 431,
+        "hitokoto": "我喜欢你，比这个世界上其他任何人都喜欢你，我永远都会喜欢你的。只有我的这份心情是不会输给任何人的，即使我的这个身体毁灭了、从世界上消失了，来世我肯定还是会喜欢上你的。",
+        "from": "境界的彼方",
+        "from_who": null
+    },
+    {
+        "id": 432,
+        "hitokoto": "愿有朝一日与你见面还能释放温暖拥你入怀。",
+        "from": "境界的彼方",
+        "from_who": null
+    },
+    {
+        "id": 433,
+        "hitokoto": "已经没什么好害怕了。",
+        "from": "魔法少女小圆",
+        "from_who": null
+    },
+    {
+        "id": 434,
+        "hitokoto": "声起立华乐独奏，曲末音无心结弦。",
+        "from": "Angel Beats!",
+        "from_who": null
+    },
+    {
+        "id": 435,
+        "hitokoto": "总在不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。",
+        "from": "秒速5厘米",
+        "from_who": null
+    },
+    {
+        "id": 436,
+        "hitokoto": "只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。",
+        "from": "刀剑神域",
+        "from_who": "优吉欧"
+    },
+    {
+        "id": 437,
+        "hitokoto": "这虽然这是游戏，但可不是闹着玩的。",
+        "from": "刀剑神域",
+        "from_who": null
+    },
+    {
+        "id": 438,
+        "hitokoto": "花开得太好，所以摇摇欲坠；这一切的事情，老得这样快；世间一直熙攘着。",
+        "from": "素年锦时",
+        "from_who": null
+    },
+    {
+        "id": 439,
+        "hitokoto": "人要意识到自己过得悲哀，需要很长时间；要意识到其实不必如此，则需要更久。",
+        "from": "马男波杰克",
+        "from_who": null
+    },
+    {
+        "id": 440,
+        "hitokoto": "从这里（太空）根本看不到什么国境线，只有地球。",
+        "from": "星空清理者",
+        "from_who": null
+    },
+    {
+        "id": 441,
+        "hitokoto": "你那无聊的幻想，就由我来打破！",
+        "from": "魔法禁书目录",
+        "from_who": "上条当麻"
+    },
+    {
+        "id": 442,
+        "hitokoto": "正义不是行使武力的理由，而是正相反——为了将动武的理由正当化，人们才会高喊正义。",
+        "from": "末日时在做什么？有没有空？可以来拯救吗？",
+        "from_who": "枯野瑛"
+    },
+    {
+        "id": 443,
+        "hitokoto": "君子无争，含光无形，坐忘无心。",
+        "from": "秦时明月",
+        "from_who": "楚南公"
+    },
+    {
+        "id": 444,
+        "hitokoto": "我在这里只学会一件事，那就是不到最后绝不轻言放弃。如果回到了现实世界，我一定会再度和桐人你相遇，然后重新喜欢上你。",
+        "from": "刀剑神域",
+        "from_who": null
+    },
+    {
+        "id": 445,
+        "hitokoto": "最近我很喜欢明天见这句话，因为只要许下约定，就能期待明天的到来。",
+        "from": "结城友奈是勇者",
+        "from_who": "结城友奈"
+    },
+    {
+        "id": 446,
+        "hitokoto": "就算没有意义，偶尔也会有好事发生。",
+        "from": "终末少女旅行",
+        "from_who": "尤莉"
+    },
+    {
+        "id": 447,
+        "hitokoto": "你将不再是道具，而是成为人如其名的人。",
+        "from": "紫罗兰的永恒花园",
+        "from_who": null
+    },
+    {
+        "id": 448,
+        "hitokoto": "大家热爱的事物，擅长的事物都不同，都拥有自己的世界，一个人一个世界，这些互相连接的话，就会展开许多的可能性，广大、未知，就像是宇宙一样。",
+        "from": "恋爱小行星",
+        "from_who": "木之幡米拉"
+    },
+    {
+        "id": 449,
+        "hitokoto": "无论人生过得怎么样，都不要失去自己活着的意义，努力的去追逐心中的梦想，留下自己曾经在这个世界活过的痕迹，不要等到一切都失去了才追悔莫及。",
+        "from": "天使的心跳",
+        "from_who": "立华奏"
+    },
+    {
+        "id": 450,
+        "hitokoto": "人生没有那么多预算，不要等到到死后世界叹息，珍惜眼前所有。相信每天都是新的开始，都充满希望.",
+        "from": "天使的心跳",
+        "from_who": "立华奏"
+    },
+    {
+        "id": 451,
+        "hitokoto": "真真需要记住的不是立华奏，而是天使身体里跳动的那颗永不结弦之心。",
+        "from": "天使的心跳",
+        "from_who": "立华奏"
+    },
+    {
+        "id": 452,
+        "hitokoto": "人总有一天会孤独一人，然后活在自己的回忆中。为了能笑着于孤独相依为命，我决定战斗下去，决定不会再以泪洗面。",
+        "from": "天使的心跳",
+        "from_who": "立华奏"
+    },
+    {
+        "id": 453,
+        "hitokoto": "与绝望~和睦相处。",
+        "from": "少女终末旅行",
+        "from_who": "尤莉&千户"
+    },
+    {
+        "id": 454,
+        "hitokoto": "人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！",
+        "from": "JOJO的奇妙冒险",
+        "from_who": "威廉·A·齐贝林"
+    },
+    {
+        "id": 455,
+        "hitokoto": "孤独的人不会伤害别人，只会不断地伤害自己罢了。",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": "大老师"
+    },
+    {
+        "id": 456,
+        "hitokoto": "枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。",
+        "from": "四月一日灵异事件薄",
+        "from_who": null
+    },
+    {
+        "id": 457,
+        "hitokoto": "没事没事，不同朋友擅长的事情也不同。",
+        "from": "兽娘动物园",
+        "from_who": "たつき"
+    },
+    {
+        "id": 458,
+        "hitokoto": "如果有人对我说抱有希望是错误的花，我会无数次回答“不是这样的”，无论什么时候都一定会这样撑下去。",
+        "from": "魔法少女小圆",
+        "from_who": "鹿目圆"
+    },
+    {
+        "id": 459,
+        "hitokoto": "这么温暖的世界里有我，要感谢神明了。",
+        "from": "Comic Girls",
+        "from_who": "萌田熏子"
+    },
+    {
+        "id": 460,
+        "hitokoto": "Don't forget. Always,somewhere,someone is fighting for you. As long as you remember her,you are not alone.",
+        "from": "魔法少女小圆",
+        "from_who": "晓美焰"
+    },
+    {
+        "id": 461,
+        "hitokoto": "这就是人类感情的极致，比希望更炽热，比绝望更深邃的，爱哟！",
+        "from": "魔法少女小圆",
+        "from_who": "晓美焰"
+    },
+    {
+        "id": 462,
+        "hitokoto": "露珠落去花留着，花萎露珠未消去。奈何露已随风去，花间寻觅不见珠。",
+        "from": "学园孤岛",
+        "from_who": "直树美纪"
+    },
+    {
+        "id": 463,
+        "hitokoto": "波，高低起伏的东西；波，产生后开始扩散；波，自己无法抵抗的东西。",
+        "from": "四月一日灵异事件薄",
+        "from_who": null
+    },
+    {
+        "id": 464,
+        "hitokoto": "在這手心之中的，就是“心”啊。",
+        "from": "死神",
+        "from_who": "乌尔奇奥拉"
+    },
+    {
+        "id": 465,
+        "hitokoto": "木叶飞舞之处，火亦生生不息。",
+        "from": "火影忍者",
+        "from_who": "猿飞日斩"
+    },
+    {
+        "id": 466,
+        "hitokoto": "你以为我是谁？这是我埋下的因，我要亲手解决这一切。",
+        "from": "某科学的超电磁炮",
+        "from_who": "御坂美琴"
+    },
+    {
+        "id": 467,
+        "hitokoto": "只要呼唤你的名字，我们的牵绊就永远不会消逝。",
+        "from": "紫罗兰永恒花园外传：永远与自动手记人偶",
+        "from_who": "艾米"
+    },
+    {
+        "id": 468,
+        "hitokoto": "我也许能再一次找到活着的目的，也许能再一次找到活着的意义，为了那些人，奉献出我的人生的话……",
+        "from": "Angelbeats",
+        "from_who": "音无结弦"
+    },
+    {
+        "id": 469,
+        "hitokoto": "别低下头  排球是一门积极向上的运动！",
+        "from": "排球少年",
+        "from_who": null
+    },
+    {
+        "id": 470,
+        "hitokoto": "理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？",
+        "from": "夏目友人帐",
+        "from_who": null
+    },
+    {
+        "id": 471,
+        "hitokoto": "自己不经意的一句话，触动了别人的心。",
+        "from": "恋如雨止",
+        "from_who": "近藤正己"
+    },
+    {
+        "id": 472,
+        "hitokoto": "游荡的孤高灵魂不需要羁绊之处。",
+        "from": "我的青春恋爱物语果然有问题",
+        "from_who": "渡航"
+    },
+    {
+        "id": 473,
+        "hitokoto": "如果说现在的日子过得很穷困，那我就去喜欢上穷困。",
+        "from": "隐瞒之事",
+        "from_who": "后藤姬"
+    },
+    {
+        "id": 474,
+        "hitokoto": "人和人之间就像这风筝一样，拉的太紧就飞不远，放的太松又掉下来，而当它飞的很高很高你还拽着不放，它就有可能会断掉，再也回不来了。",
+        "from": "灵契",
+        "from_who": "瓶子"
+    },
+    {
+        "id": 475,
+        "hitokoto": "一日为灵，终生为影，灵气共生，魂命无分，阴阳调和，万物皆宁。",
+        "from": "灵契",
+        "from_who": "瓶子"
+    },
+    {
+        "id": 476,
+        "hitokoto": "端木熙，别忘了，你是我的祭司，谁也别来跟我争，他神龙章轩不可以，神也不行。",
+        "from": "灵契",
+        "from_who": "瓶子"
+    },
+    {
+        "id": 477,
+        "hitokoto": "从今往后，你不能斩的人我来斩，你不能伤的人我来杀，既然你要保护这个世界，那我便保护你，这就是我的信念！",
+        "from": "灵契",
+        "from_who": "瓶子"
+    },
+    {
+        "id": 478,
+        "hitokoto": "千载流年一如梦，月落山河一世倾。",
+        "from": "灵契",
+        "from_who": "瓶子"
+    },
+    {
+        "id": 479,
+        "hitokoto": "不可结缘，徒留寂寞……",
+        "from": "夏目友人帐",
+        "from_who": "夏目友人帐"
+    },
+    {
+        "id": 480,
+        "hitokoto": "一代锤子一代皇，代代锤子教做人！",
+        "from": "斗罗大陆",
+        "from_who": "102集弹幕"
+    },
+    {
+        "id": 481,
+        "hitokoto": "花早晚会凋谢，记忆最终也会消散。",
+        "from": "镇魂街",
+        "from_who": null
+    },
+    {
+        "id": 482,
+        "hitokoto": "所谓首领，只不过是被势力绑架上制高点的走狗而已。而且，都是身不由己的走狗。",
+        "from": "狐妖小红娘",
+        "from_who": "东方月初"
+    },
+    {
+        "id": 483,
+        "hitokoto": "无论是人类还是妖怪，只要内心希望他人接触，那么就是相同的存在；会因独处而感到寂寞，也会害怕踏出第一步。",
+        "from": "夏目友人帐",
+        "from_who": "夏目"
+    },
+    {
+        "id": 484,
+        "hitokoto": "未来始终掌握在自己手中，从中滑落的，我们称之为过去。",
+        "from": "末日时在做什么？有没有空？可以来拯救吗？",
+        "from_who": null
+    },
+    {
+        "id": 485,
+        "hitokoto": "我不努力，就见不到你了啊。",
+        "from": "昨日之歌",
+        "from_who": "野中晴"
+    },
+    {
+        "id": 486,
+        "hitokoto": "无可取代的东西要到失去后才知道珍惜呢。",
+        "from": "干物妹小埋",
+        "from_who": null
+    },
+    {
+        "id": 487,
+        "hitokoto": "没有什么背叛，只不过是忠诚过期了而已。",
+        "from": "凹凸世界",
+        "from_who": "帕洛斯"
+    },
+    {
+        "id": 488,
+        "hitokoto": "Ko no Dio da!",
+        "from": "JOJO的奇妙冒险",
+        "from_who": "迪奥"
+    },
+    {
+        "id": 489,
+        "hitokoto": "我们不是大人，而是同学吧。",
+        "from": "恋如雨止",
+        "from_who": "九条千寻"
+    },
+    {
+        "id": 490,
+        "hitokoto": "今天的我，凌驾于阿修罗之上！",
+        "from": "机动战士高达00",
+        "from_who": "格拉汉姆"
+    },
+    {
+        "id": 491,
+        "hitokoto": "Exia，驱逐目标！",
+        "from": "机动战士高达00",
+        "from_who": "刹那F清英"
+    },
+    {
+        "id": 492,
+        "hitokoto": "花无凋零之时，爱无传达之期，爱情亘古不变，紫罗兰永世长存。",
+        "from": "紫罗兰永恒花园",
+        "from_who": "曉佳奈"
+    },
+    {
+        "id": 493,
+        "hitokoto": "相比昨日明日，今天更适合开始。",
+        "from": "Comic Girls",
+        "from_who": "杉坂天汰"
+    },
+    {
+        "id": 494,
+        "hitokoto": "呐~~凯利，你想成为怎样的大人。",
+        "from": "Fate/Zero",
+        "from_who": "夏丽"
+    },
+    {
+        "id": 495,
+        "hitokoto": "当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。",
+        "from": "端脑",
+        "from_who": "GM"
+    },
+    {
+        "id": 496,
+        "hitokoto": "正因为听不见和看不到，所以风子才会做这样的事情。",
+        "from": "Clannad",
+        "from_who": "风子"
+    },
+    {
+        "id": 497,
+        "hitokoto": "我们开始一起攀登，这长长的，长长的坡道。",
+        "from": "Clannad",
+        "from_who": "渚"
+    },
+    {
+        "id": 498,
+        "hitokoto": "无知而又纯洁的岁月是任何人都曾拥有的，世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。",
+        "from": "Clannad",
+        "from_who": "冈崎朋也"
+    },
+    {
+        "id": 499,
+        "hitokoto": "前天是小兔子，昨天是小鹿，今天是你。",
+        "from": "Clannad",
+        "from_who": "一之濑琴美"
+    },
+    {
+        "id": 500,
+        "hitokoto": "能哭的地方只有厕所和爸爸的怀里。",
+        "from": "Clannad",
+        "from_who": "汐"
+    },
+    {
+        "id": 501,
+        "hitokoto": "美好的事情，现在才开始呐。",
+        "from": "Clannad",
+        "from_who": "伊吹风子"
+    },
+    {
+        "id": 502,
+        "hitokoto": "什么叫忍者？学会忍耐的人就叫忍者。",
+        "from": "哔哩哔哩",
+        "from_who": null
+    },
+    {
+        "id": 503,
+        "hitokoto": "既然没有终点，那在何处又何妨呢。",
+        "from": "异度侵入",
+        "from_who": null
+    },
+    {
+        "id": 504,
+        "hitokoto": "人生在世只有一次，不必勉强选择自己不喜欢的路，随性而生或随性而死都没关系，不过，无论选择哪条路，都不要忘记保护自己所珍惜的人。",
+        "from": "火影忍者",
+        "from_who": "猿飞日斩"
+    },
+    {
+        "id": 505,
+        "hitokoto": "只要是人都是依靠自己的知识与认知并且被之束缚生活着的，那就叫做现实。但是知识与认知是模糊不清的东西，现实也许只是镜花水月，人都是活在自己的执念中的。",
+        "from": "火影忍者",
+        "from_who": "宇智波鼬"
+    },
+    {
+        "id": 506,
+        "hitokoto": "当你们试图去寻找死的意义……能找到的……只有痛苦…和不知道归向何方的憎恨……",
+        "from": "火影忍者",
+        "from_who": "佩恩"
+    },
+    {
+        "id": 507,
+        "hitokoto": "我连宇宙尽头在哪里都不知道，怎么会知道这个。",
+        "from": "JOJO的奇妙冒险",
+        "from_who": "马里奥·兹凯罗"
+    },
+    {
+        "id": 508,
+        "hitokoto": "无论世界如何改变，我们都将永不分离。",
+        "from": "GOSICK",
+        "from_who": "维多利加"
+    },
+    {
+        "id": 509,
+        "hitokoto": "火焰啊，燃烧吧，燃烧吧！照亮……那孩子的未来。",
+        "from": "GOSICK",
+        "from_who": "维多利亚"
+    },
+    {
+        "id": 510,
+        "hitokoto": "牙白得斯内！",
+        "from": "公主连结Re:Dive",
+        "from_who": null
+    },
+    {
+        "id": 511,
+        "hitokoto": "不能逃避，不能逃避，不能逃避。",
+        "from": "EVA",
+        "from_who": "碇真嗣"
+    },
+    {
+        "id": 512,
+        "hitokoto": "我是为了与你相见才诞生于世的。",
+        "from": "EVA",
+        "from_who": "渚薰"
+    },
+    {
+        "id": 513,
+        "hitokoto": "我将送你最美的鲜花。",
+        "from": "怪物Monster",
+        "from_who": "约翰·李贝特"
+    },
+    {
+        "id": 514,
+        "hitokoto": "我的出生就是为了用鲜花将你淹没。",
+        "from": "怪物Monster",
+        "from_who": "约翰.李贝特"
+    },
+    {
+        "id": 515,
+        "hitokoto": "心急火燎地想要长大，明明还是个小鬼。",
+        "from": "CLANNAD ～AFTER STORY～",
+        "from_who": "古河秋生"
+    },
+    {
+        "id": 516,
+        "hitokoto": "在时间的流逝里，没有什么是一成不变的。",
+        "from": "CLANNAD ～AFTER STORY～",
+        "from_who": "古河渚"
+    },
+    {
+        "id": 517,
+        "hitokoto": "爸爸，我能不再忍了吗？早苗说了，世界上能够放声大哭的地方，只有卫生间，和爸爸的怀里。",
+        "from": "CLANNAD ～AFTER STORY～ EP18",
+        "from_who": "冈崎汐"
+    },
+    {
+        "id": 518,
+        "hitokoto": "冈崎，永远都别迷失自己最珍爱的事物啊。",
+        "from": "CLANNAD ～AFTER STORY～",
+        "from_who": "芳野佑介"
+    },
+    {
+        "id": 519,
+        "hitokoto": "有些东西不管你怎么努力也无法挽回，也有无论怎么挣扎都逃脱不了的绝望。",
+        "from": "黑执事",
+        "from_who": "夏尔·凡多姆海威"
+    },
+    {
+        "id": 520,
+        "hitokoto": "你在那么美丽的地方，纯属奇迹般的偶然。",
+        "from": "理科生坠入情网故尝试证明",
+        "from_who": "雪村心叶"
+    },
+    {
+        "id": 521,
+        "hitokoto": "做好人需要比恶人更狡猾，他们的名字终将成为传说，而真实沉没于历史的波涛中。",
+        "from": "万国志",
+        "from_who": "万国志"
+    },
+    {
+        "id": 522,
+        "hitokoto": "一旦失去的东西，就再也拿不回来了。",
+        "from": "黑执事",
+        "from_who": "夏尔·凡多姆海威"
+    },
+    {
+        "id": 523,
+        "hitokoto": "难道我输了吗？",
+        "from": "火影忍者",
+        "from_who": "宇智波·带土"
+    },
+    {
+        "id": 524,
+        "hitokoto": "遇到事情不能坐以待毙。",
+        "from": "捷德奥特曼",
+        "from_who": null
+    },
+    {
+        "id": 525,
+        "hitokoto": "我必须要变强，但是孤独居然这么痛苦。",
+        "from": "黑色五叶草",
+        "from_who": "高顿"
+    },
+    {
+        "id": 526,
+        "hitokoto": "我的回合，抽卡！",
+        "from": "游戏王",
+        "from_who": "高桥和希"
+    },
+    {
+        "id": 527,
+        "hitokoto": "再相见，会是怎样的世界？",
+        "from": "升起的烟花，从下面看？还是从侧面看?",
+        "from_who": "及川菜津奈"
+    },
+    {
+        "id": 528,
+        "hitokoto": "憧憬是距离理解最遥远的一种感情。",
+        "from": "死神",
+        "from_who": "蓝染惣右介"
+    },
+    {
+        "id": 529,
+        "hitokoto": "两个囚犯从监狱的窗户往外看，一个看到了泥地，一个看到了星星。",
+        "from": "JOJO的奇妙冒险",
+        "from_who": "荒木飞吕彦"
+    },
+    {
+        "id": 530,
+        "hitokoto": "我可是要成为海贼王的男人！",
+        "from": "海贼王",
+        "from_who": "路飞"
+    },
+    {
+        "id": 531,
+        "hitokoto": "人找不到某种东西沉迷就活不下来。人都是某种东西的奴隶。",
+        "from": "进击的巨人",
+        "from_who": "肯尼·阿克曼"
+    },
+    {
+        "id": 532,
+        "hitokoto": "也许我的灵魂彷徨了几万年，不过就是为了与你相遇。",
+        "from": "JOJO的奇妙冒险·战斗潮流",
+        "from_who": "瓦姆乌"
+    },
+    {
+        "id": 533,
+        "hitokoto": "英雄意味着强大，英雄意味着孤独，最后一幕一定是英雄渐行渐远，我的英雄也是那样的存在。",
+        "from": "四月是你的谎言",
+        "from_who": "相座武士"
+    },
+    {
+        "id": 534,
+        "hitokoto": "世界怎样与我无关，以我自己的意识！",
+        "from": "机动战士高达00",
+        "from_who": "格拉汉姆艾卡"
+    },
+    {
+        "id": 535,
+        "hitokoto": "宛如花朵在风中摇摆起舞，宛如雨露滋润大地，这世界的万物相互依存共同延续。",
+        "from": "机动战士高达00",
+        "from_who": "片尾曲Trust You"
+    },
+    {
+        "id": 536,
+        "hitokoto": "不论目睹怎样的现实 也不要迷失那个说「即便如此」的自我 这就是你的骨气。",
+        "from": "机动战士高达独角兽",
+        "from_who": "玛莉妲·库鲁斯"
+    },
+    {
+        "id": 537,
+        "hitokoto": "たとえどんな现実を突きつられようと それでもと・言い続ける 自分を见失うな。",
+        "from": "机动战士高达独角兽",
+        "from_who": null
+    },
+    {
+        "id": 538,
+        "hitokoto": "おれは 人の悲しさを 悲しい感じる心があるんなって事を 忘れなくない それを受け止められる人间になりたいです。",
+        "from": "机动战士高达独角兽",
+        "from_who": null
+    },
+    {
+        "id": 539,
+        "hitokoto": "为了维护自己,渐渐地失去,就算无法做好,屡屡受伤 ,也不要心生怨恨。",
+        "from": "樱与抱月",
+        "from_who": null
+    },
+    {
+        "id": 540,
+        "hitokoto": "我明白，洛克昂。我是只能选择战斗的破坏者，所以要战斗，为击败催生战争的人，粉碎这扭曲。",
+        "from": "机动战士高达00",
+        "from_who": null
+    },
+    {
+        "id": 541,
+        "hitokoto": "无法入眠的凌晨两点，烦躁就像在敲门。",
+        "from": "RUNNING TO HORIZON",
+        "from_who": "こむろてつや"
+    },
+    {
+        "id": 542,
+        "hitokoto": "梦是现实的延续，现实是梦的终结。",
+        "from": "Eva",
+        "from_who": "绫波丽"
+    },
+    {
+        "id": 543,
+        "hitokoto": "战斗是残酷的，无法做出多余的考虑！",
+        "from": "机动战士高达",
+        "from_who": "夏亚阿兹布纳尔"
+    },
+    {
+        "id": 544,
+        "hitokoto": "人类的伟大就是勇气的伟大！人类的赞歌就是勇气的赞歌！",
+        "from": "jojo的奇妙冒险",
+        "from_who": "齐贝林男爵"
+    },
+    {
+        "id": 545,
+        "hitokoto": "前天我遇见了小兔，昨天遇见了小鹿，今天则遇见了你。",
+        "from": "CLANNAD",
+        "from_who": "一之濑琴美"
+    },
+    {
+        "id": 546,
+        "hitokoto": "只要你们不停下来，那前面就一定有我。所以啊，不要停下来……",
+        "from": "机动战士高达 铁血的奥尔芬斯",
+        "from_who": "奥尔加"
+    },
+    {
+        "id": 547,
+        "hitokoto": "不管是快乐，还是欣喜，全都……全都不可能永远延续，即使是这样，你也会喜欢这里吗？",
+        "from": "CLANNAD",
+        "from_who": null
+    },
+    {
+        "id": 548,
+        "hitokoto": "如期待奇迹发生，那唯有不停伸手去抓紧，去把握才行",
+        "from": "秒速5厘米",
+        "from_who": null
+    },
+    {
+        "id": 549,
+        "hitokoto": "即便分开，羁绊仍然是存在的，这就是所谓的家人。",
+        "from": "CLANNAD",
+        "from_who": null
+    },
+    {
+        "id": 550,
+        "hitokoto": "世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。",
+        "from": "CLANNAD",
+        "from_who": null
+    },
+    {
+        "id": 551,
+        "hitokoto": "青春总是焦虑的，连一勺砂糖溶于杯中的时间都等不及。后悔带来的苦涩，是对过去的见证，终将逐一化为杯中咖啡的味道。",
+        "from": "玉子爱情故事",
+        "from_who": null
+    },
+    {
+        "id": 552,
+        "hitokoto": "今まで生きてきで，今が一番幸せかもしれない。",
+        "from": "言叶之庭",
+        "from_who": "新海诚"
+    },
+    {
+        "id": 553,
+        "hitokoto": "嗯。我的梦想也成真了，美好的回忆也留下了，我想我不会再有什么遗憾了。",
+        "from": "末日时在做什么？有没有空？可以来拯救吗？",
+        "from_who": "珂朵莉·诺塔·瑟尼欧里斯"
+    },
+    {
+        "id": 554,
+        "hitokoto": "他有一双好眼睛，就是他将我从黑暗的迷途中带了回来。",
+        "from": "火影忍者",
+        "from_who": "日向宁次"
+    },
+    {
+        "id": 555,
+        "hitokoto": "愿你有一天能与你最重要的人重逢。",
+        "from": "可塑性记忆",
+        "from_who": null
+    },
+    {
+        "id": 556,
+        "hitokoto": "干燥的空气，尘埃的味道，我在其中……踏上旅途。",
+        "from": "四月是你的谎言",
+        "from_who": "宫园薰"
+    },
+    {
+        "id": 557,
+        "hitokoto": "我向星星许了个愿。我并不是真的相信它，但是反正也是免费的，而且也没有证据证明它不灵。",
+        "from": "加菲猫的幸福生活",
+        "from_who": "加菲猫"
+    }
+]

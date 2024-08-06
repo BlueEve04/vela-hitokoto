@@ -1,0 +1,47 @@
+.demo-page {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-top: 0px;
+}
+
+.pic {
+    position: absolute;
+    /* 或者使用 fixed 进行固定位置 */
+    top: 150px;
+    /* 设置顶部位置 */
+    left: 80px;
+    /* 设置左侧位置 */
+    width: 200px;
+    /* 设置元素宽度 */
+    height: 200px;
+    /* 设置元素高度 */
+    z-index: 1000;
+    /* 确保元素在其他内容上面 */
+}
+
+.exp {
+    top: 400px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.xy,
+.app,
+.exp {
+    position: absolute;
+    text-align: center;
+    width: 300px;
+}
+
+.xy {
+    top: 800px;
+    color: rgb(100, 100, 100);
+}
+
+.app {
+    top: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}

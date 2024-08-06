@@ -1,0 +1,3350 @@
+[
+    {
+        "id": 0,
+        "hitokoto": "无眼界，乃至无意识界，无无明，亦无无明尽，乃至无老死，亦无老死尽。",
+        "from": "般若波罗蜜多心经",
+        "from_who": null
+    },
+    {
+        "id": 1,
+        "hitokoto": "人于浮世，独来独往，独生独死，苦乐自当，无有代者。",
+        "from": "《无量寿经》",
+        "from_who": null
+    },
+    {
+        "id": 2,
+        "hitokoto": "人生就像一杯茶，不会苦一辈子，但会苦一阵子",
+        "from": "启东中学作业本",
+        "from_who": null
+    },
+    {
+        "id": 3,
+        "hitokoto": "世情薄，人情恶，两送黄昏花易落。晓风残，泪痕残。欲笺心事，独倚斜阑。难，难，难！",
+        "from": "钗头凤·世情薄",
+        "from_who": null
+    },
+    {
+        "id": 4,
+        "hitokoto": "人成各，今非昨，病魂常似秋千索。角声寒，夜阑珊。怕人询问，咽泪装欢。瞒，瞒，瞒！",
+        "from": "钗头凤·世情薄",
+        "from_who": null
+    },
+    {
+        "id": 5,
+        "hitokoto": "永远相信，美好的事情即将发生。",
+        "from": "小米公司",
+        "from_who": null
+    },
+    {
+        "id": 6,
+        "hitokoto": "世界本就不完美，我们不过顺势而为",
+        "from": "毕淑敏",
+        "from_who": null
+    },
+    {
+        "id": 7,
+        "hitokoto": "新时代，共享未来！",
+        "from": "中国国际进口博览会",
+        "from_who": null
+    },
+    {
+        "id": 8,
+        "hitokoto": "人这种生物，无论是谁，切开来剥了皮后都只是一团肉而已，死了就知道了。",
+        "from": "其他",
+        "from_who": null
+    },
+    {
+        "id": 9,
+        "hitokoto": "你只看到了第二层，而你只把我想成了第一层，实际上我是第五层",
+        "from": "金牌讲师大司马",
+        "from_who": "大司马"
+    },
+    {
+        "id": 10,
+        "hitokoto": "因为你不会，所以你才会",
+        "from": "金牌讲师大司马",
+        "from_who": "大司马"
+    },
+    {
+        "id": 11,
+        "hitokoto": "民谣有三：爱情 理想 远方   听者有三：孤独 平庸 落魄",
+        "from": "殿下",
+        "from_who": null
+    },
+    {
+        "id": 12,
+        "hitokoto": "你已经奔走了许久，坚持最后一战，你就是冠军。",
+        "from": "南先生",
+        "from_who": null
+    },
+    {
+        "id": 13,
+        "hitokoto": "我独自度过了太多的时光,沉默已成一种习惯。",
+        "from": "夜航西飞",
+        "from_who": null
+    },
+    {
+        "id": 14,
+        "hitokoto": "失去的生命不能复归，也用不着复归。",
+        "from": "留德十年",
+        "from_who": null
+    },
+    {
+        "id": 15,
+        "hitokoto": "只要还在人间，你就不会完全麻木。",
+        "from": "行板如歌",
+        "from_who": null
+    },
+    {
+        "id": 16,
+        "hitokoto": "无边的海洋里漂流的小船，不知何时就会被狂风所倾覆；而小船上平凡的我们，也只能怀着渺茫的希望，跟随着舵手指引的航向前行吧。",
+        "from": "十二省联考 2019",
+        "from_who": null
+    },
+    {
+        "id": 17,
+        "hitokoto": "跑得快不一定赢，不跌跟头才是成功",
+        "from": "8848太监手机",
+        "from_who": null
+    },
+    {
+        "id": 18,
+        "hitokoto": "事物的发展是前进性与曲折性的统一",
+        "from": "Jane",
+        "from_who": null
+    },
+    {
+        "id": 19,
+        "hitokoto": "跑下去,天自己会亮",
+        "from": "New Balance广告片台词",
+        "from_who": null
+    },
+    {
+        "id": 20,
+        "hitokoto": "即使这些回忆使我感到悲伤，我也必须前进，相信未来。即使是在我感到了我的孤单，即将失去所有的希望，这份回忆，也使我更加坚强。",
+        "from": "Shelter",
+        "from_who": "Porter Robinson"
+    },
+    {
+        "id": 21,
+        "hitokoto": "太阳请不要晒黑我的皮肤，请晒黑我爸爸妈妈的头发。",
+        "from": "酷狗音乐",
+        "from_who": null
+    },
+    {
+        "id": 22,
+        "hitokoto": "白日不到处，青春恰自来。苔花如米小，也学牡丹开。",
+        "from": "苔",
+        "from_who": "袁枚"
+    },
+    {
+        "id": 23,
+        "hitokoto": "不负韶华，不忘初心。",
+        "from": "Jane",
+        "from_who": null
+    },
+    {
+        "id": 24,
+        "hitokoto": "你写下的每一个bug，都是人类反抗被人工智能统治的一颗子弹!",
+        "from": "辣椒の酱",
+        "from_who": null
+    },
+    {
+        "id": 25,
+        "hitokoto": "然后知生于忧患，而死于安乐也。",
+        "from": "孟子",
+        "from_who": null
+    },
+    {
+        "id": 26,
+        "hitokoto": "我们所可以自慰的，想来想去，也还是所谓对于将来的希望。希望是附丽于存在的，有存在，便有希望，有希望，便是光明。",
+        "from": "十二省联考 2019",
+        "from_who": null
+    },
+    {
+        "id": 27,
+        "hitokoto": "今天的南京应该很挤吧，毕竟有30万人要回家。",
+        "from": "心印杂记",
+        "from_who": null
+    },
+    {
+        "id": 28,
+        "hitokoto": "我们在青春里遇见，写下纯白的誓言，在夏天来临之前。",
+        "from": "在青春里遇见",
+        "from_who": null
+    },
+    {
+        "id": 29,
+        "hitokoto": "嗨！别来无恙啊！",
+        "from": "Windows10提示语",
+        "from_who": "微软"
+    },
+    {
+        "id": 30,
+        "hitokoto": "我不后悔我曾爱过，只是天涯从此寂寞，短暂的幸福拥有就足够，只要舍得就会快了，会快乐。",
+        "from": "我不后悔",
+        "from_who": "郑源"
+    },
+    {
+        "id": 31,
+        "hitokoto": "善思博学，努力进取。",
+        "from": "张万军",
+        "from_who": "张万军"
+    },
+    {
+        "id": 32,
+        "hitokoto": "My love for you always grow, with passing year.",
+        "from": "Eudic",
+        "from_who": "56"
+    },
+    {
+        "id": 33,
+        "hitokoto": "梦想和现实，中间隔着一条泥泞的路，什么样的结果，取决于脚！",
+        "from": "龙城浪子",
+        "from_who": null
+    },
+    {
+        "id": 34,
+        "hitokoto": "任何时代的诗歌都是关于人、人的生存方式、人的存在境遇的叩问，关于人生价值与意义的探寻。",
+        "from": "龙城浪子",
+        "from_who": null
+    },
+    {
+        "id": 35,
+        "hitokoto": "要不断的移动像水一样，才不会变成死水一样，你要不断流动着！",
+        "from": "李小龙",
+        "from_who": null
+    },
+    {
+        "id": 36,
+        "hitokoto": "当某天，雨点轻敲你窗，当风声吹乱你构想，可否抽空想这张，旧模样。",
+        "from": "千千阙歌",
+        "from_who": "林振强"
+    },
+    {
+        "id": 37,
+        "hitokoto": "彼此这么了解，难怪注定似兄妹一对。",
+        "from": "钟无艳",
+        "from_who": "林夕"
+    },
+    {
+        "id": 38,
+        "hitokoto": "愿你有一天能和你最重要的人重逢。",
+        "from": "可塑性记忆的影评",
+        "from_who": "水水若空"
+    },
+    {
+        "id": 39,
+        "hitokoto": "开始的倾心交谈，沦为平淡。",
+        "from": "《与我无关》",
+        "from_who": "阿冗"
+    },
+    {
+        "id": 40,
+        "hitokoto": "你的眼中，明暗交杂，一笑生花。",
+        "from": "起风了",
+        "from_who": "米果"
+    },
+    {
+        "id": 41,
+        "hitokoto": "如果喜欢和合适撞个满怀多好。",
+        "from": "不待",
+        "from_who": "契约千魂"
+    },
+    {
+        "id": 42,
+        "hitokoto": "吾志所向，一往无前，愈挫愈奋，再接再厉。",
+        "from": "孙中山",
+        "from_who": "孙中山"
+    },
+    {
+        "id": 43,
+        "hitokoto": "The only way to get rid of a temptation is to yield to it. I can resist everything except temptation.",
+        "from": "王尔德",
+        "from_who": "王尔德"
+    },
+    {
+        "id": 44,
+        "hitokoto": "在人间有谁活着不像是一场炼狱，我不哭我已经没有尊严能放弃。",
+        "from": "在人间",
+        "from_who": "王建房"
+    },
+    {
+        "id": 45,
+        "hitokoto": "假如失去追寻的动力，人类将消失在永恒的黑暗中。",
+        "from": "深い森",
+        "from_who": "Do As Infinity"
+    },
+    {
+        "id": 46,
+        "hitokoto": "他们想要的成熟我想不通，他们嘴里的软弱我听不懂.",
+        "from": "不愿回头",
+        "from_who": "南征北战"
+    },
+    {
+        "id": 47,
+        "hitokoto": "若是我笑得皮开又肉绽，就莫问，离合悲欢。",
+        "from": "至尊宝",
+        "from_who": "徐良"
+    },
+    {
+        "id": 48,
+        "hitokoto": "遇到问题沉默是人的本能，沉默过后怎么解决是人的选择。毫不在意不是冷酷无情，不管他们怎么选择，这与你无关。",
+        "from": "罪犯请沉默",
+        "from_who": "迷羔羊"
+    },
+    {
+        "id": 49,
+        "hitokoto": "是谁来自山川湖海，却囿于昼夜厨房与爱。",
+        "from": "揪心的玩笑与漫长的白日梦",
+        "from_who": "姬赓"
+    },
+    {
+        "id": 50,
+        "hitokoto": "夜来草木见露水，鸿雁南渡避寒。",
+        "from": "雪中悍刀行",
+        "from_who": "烽火戏诸侯"
+    },
+    {
+        "id": 51,
+        "hitokoto": "前程莫怕无知已，只怕每天只有404。",
+        "from": "IT程序员",
+        "from_who": "云歌"
+    },
+    {
+        "id": 52,
+        "hitokoto": "我们学哲学是为了什么？应该是为了明白我们向死而生的这一辈子应该怎么过。",
+        "from": "我的一位老师",
+        "from_who": "生活"
+    },
+    {
+        "id": 53,
+        "hitokoto": "不要因为结束而哭泣，要因它发生过而欣喜。",
+        "from": "打开一颗心",
+        "from_who": "西奥多·苏斯·盖泽尔（苏斯博士）"
+    },
+    {
+        "id": 54,
+        "hitokoto": "哦~我的老伙计，祝你度过有意义的一天~!",
+        "from": "网络",
+        "from_who": null
+    },
+    {
+        "id": 55,
+        "hitokoto": "现在的我，未来的我，一起去啊，更远的地方！",
+        "from": "伪装学渣",
+        "from_who": "木瓜黄"
+    },
+    {
+        "id": 56,
+        "hitokoto": "心中多少的沧桑，不可抵挡的空虚，卑躬屈膝的一生，今天必须冲出那枷锁，就要像狂人，呼叫响震天！",
+        "from": "金属狂人",
+        "from_who": "黄家驹"
+    },
+    {
+        "id": 57,
+        "hitokoto": "你可以怪我甚至可以骗我，不过你绝不可以把我当初哥。",
+        "from": "初哥",
+        "from_who": "黄贯中"
+    },
+    {
+        "id": 58,
+        "hitokoto": "于是悲欢起落人静默，等一等这些伤会自由。",
+        "from": "口是心非",
+        "from_who": "张雨生"
+    },
+    {
+        "id": 59,
+        "hitokoto": "你盏教坏细路，脑袋注定发霉，赈灾当做节目，点解叫座叫好。",
+        "from": "教坏细路",
+        "from_who": "beyond"
+    },
+    {
+        "id": 60,
+        "hitokoto": "共你热恋可抵挡冰天雪地，共你拥抱能忘掉名利，没有一个人在可以媲美。",
+        "from": "无得比",
+        "from_who": "黄贯中"
+    },
+    {
+        "id": 61,
+        "hitokoto": "我不自觉 跌进这一角落 来去的拉拖 错过再错过 我不认错 纵我听不到附和 谁也都清楚。",
+        "from": "睡火山",
+        "from_who": "黄贯中"
+    },
+    {
+        "id": 62,
+        "hitokoto": "幽暗，让我们向往光明。",
+        "from": "罗翔",
+        "from_who": "罗翔"
+    },
+    {
+        "id": 63,
+        "hitokoto": "小时候我会做1加1等于2，而邻居家的大哥哥会做1万加1万等于2万。他居然可以做到那么大的数字，我很佩服。他还说，等他上了大学就可以知道1亿加1亿是多少了。",
+        "from": "网络",
+        "from_who": null
+    },
+    {
+        "id": 64,
+        "hitokoto": "无伤大雅。",
+        "from": "网络",
+        "from_who": null
+    },
+    {
+        "id": 65,
+        "hitokoto": "如果你觉得黑暗，那你就做黑暗中的一盏光吧。",
+        "from": "罗翔",
+        "from_who": "罗翔"
+    },
+    {
+        "id": 66,
+        "hitokoto": "看惯黑夜的人不应该习惯黑夜，而应该更习惯光明。",
+        "from": "罗翔说刑法",
+        "from_who": "罗翔"
+    },
+    {
+        "id": 67,
+        "hitokoto": "Those who believe without reason cannot be convinced by reason.",
+        "from": "JamesRandi",
+        "from_who": "-JamesRandi, magician and skeptic (b. 7 Aug 1928)"
+    },
+    {
+        "id": 68,
+        "hitokoto": "看惯黑夜的人，不应该习惯黑夜，而是应该期待黑夜中的光明。",
+        "from": "罗翔",
+        "from_who": "罗翔"
+    },
+    {
+        "id": 69,
+        "hitokoto": "不是为了要求你做些什么才生下你，而是想为你做些什么才生下了你。",
+        "from": "空间",
+        "from_who": "佚名"
+    },
+    {
+        "id": 70,
+        "hitokoto": "战争只在历史书籍历书写了四页，却撕掉了将近一半的世界。",
+        "from": "Hold my hand",
+        "from_who": "MC光光、法老"
+    },
+    {
+        "id": 71,
+        "hitokoto": "时间是美好的，他让我们相遇；时间也是混蛋的，他又让我们分别。",
+        "from": "一张卡片",
+        "from_who": "张同学"
+    },
+    {
+        "id": 72,
+        "hitokoto": "OH LADY，可否将我带返去你屋企，日夜陪你，红橙色，勾出的你，你使我记不清，坐或是企。",
+        "from": "LADY",
+        "from_who": "黄贯中"
+    },
+    {
+        "id": 73,
+        "hitokoto": "我要和天一样高，寻找一种魅力的情操，我要和天一样高，一样高，我的未来才能看得到。",
+        "from": "和天一样高",
+        "from_who": "张雨生"
+    },
+    {
+        "id": 74,
+        "hitokoto": "每个人都应该学会如何编程，因为它教会你如何思考。",
+        "from": "史蒂夫·乔布斯",
+        "from_who": "史蒂夫·乔布斯"
+    },
+    {
+        "id": 75,
+        "hitokoto": "我对音乐并没有很特别的感觉。只是，有的时候，我突然因某段乐音而得到慰解；有的时候，我仿佛能与某些小节灵犀相通，有的时候，我身体的某一部份似乎也同样起了与那位歌者类似的悸动或什么的，我也不太能抓得准。",
+        "from": "如燕盘旋而来的思念",
+        "from_who": "张雨生"
+    },
+    {
+        "id": 76,
+        "hitokoto": "我希望海水还是蓝的，仰望天空时太阳不是灰的，与爱的联络不是靠电子产品，希望穿山甲不是博物馆的展品。",
+        "from": "Hold my hand",
+        "from_who": "MC光光、法老"
+    },
+    {
+        "id": 77,
+        "hitokoto": "情到深处人孤独。",
+        "from": "生活",
+        "from_who": null
+    },
+    {
+        "id": 78,
+        "hitokoto": "我要荣耀向我俯首称臣，征服世界或一无所有。",
+        "from": "荣耀向我俯首",
+        "from_who": "空儿卡"
+    },
+    {
+        "id": 79,
+        "hitokoto": "所以当你迷茫的时候，至少要笑着原谅自己，因为不被使用的心总有一天会枯萎。",
+        "from": "九番目の迷路",
+        "from_who": "アリスシャッハと魔法の楽団"
+    },
+    {
+        "id": 80,
+        "hitokoto": "岁月，你别催，该来的我不推。岁月，你别催，走远的仍要追。当不得不说再见的时候，挥别的那一刻就如同流水的光阴，谁能抵得过？谁能叹息？奈何！",
+        "from": "天下足球",
+        "from_who": null
+    },
+    {
+        "id": 81,
+        "hitokoto": "现实没有reset bottom, 没有extra life, 没有代打上分,没有游戏删挡再重来。",
+        "from": "头号玩家",
+        "from_who": "老番茄"
+    },
+    {
+        "id": 82,
+        "hitokoto": "卡布奇诺今犹在，不见当年吃屏人。",
+        "from": "网络",
+        "from_who": "皮皮参"
+    },
+    {
+        "id": 83,
+        "hitokoto": "I only wanted you 'cause I couldn't have you.",
+        "from": "Hope",
+        "from_who": "The Chainsmokers, Winona Oak"
+    },
+    {
+        "id": 84,
+        "hitokoto": "我的容身之所，就是你的身边。",
+        "from": "理与迷宫的少女",
+        "from_who": "夏彦深见"
+    },
+    {
+        "id": 85,
+        "hitokoto": "最后再来做个约定吧。一定会再次与你相遇......",
+        "from": "理与迷宫的少女",
+        "from_who": "夏彦深见"
+    },
+    {
+        "id": 86,
+        "hitokoto": "确定反应，调整守恒。",
+        "from": "bilibili",
+        "from_who": "某位化学老师的课"
+    },
+    {
+        "id": 87,
+        "hitokoto": "你在天空之下欢声笑语，却独留我一人呆在黑暗里不自信。",
+        "from": "原创",
+        "from_who": "Naya"
+    },
+    {
+        "id": 88,
+        "hitokoto": "因为太害怕失去，所以才将苦痛剥离。",
+        "from": "原创",
+        "from_who": "Naya"
+    },
+    {
+        "id": 89,
+        "hitokoto": "川端康成自杀， 在送往医院急救的途中， 对司机说了最后一句话： “路这么挤，辛苦你了”。",
+        "from": "网络",
+        "from_who": null
+    },
+    {
+        "id": 90,
+        "hitokoto": "I think I speak very poor English, but anyway I dare to say. This is very important.",
+        "from": "江泽民",
+        "from_who": null
+    },
+    {
+        "id": 91,
+        "hitokoto": "无论别人说什么，你只要坚持自我就好了。",
+        "from": "oioweb",
+        "from_who": null
+    },
+    {
+        "id": 92,
+        "hitokoto": "我终于发觉了自己迷茫的原因。我并不是缺少地图，我缺少的，是目的地。",
+        "from": "oioweb",
+        "from_who": null
+    },
+    {
+        "id": 93,
+        "hitokoto": "在战略上要藐视敌人，在战术上要重视敌人！",
+        "from": "毛泽东选集",
+        "from_who": "毛主席"
+    },
+    {
+        "id": 94,
+        "hitokoto": "人是会交易的动物，狗是不会交换骨头的。",
+        "from": "国富论",
+        "from_who": null
+    },
+    {
+        "id": 95,
+        "hitokoto": "大部分的生活都乏味得不值一提，根本就没有不乏味的时候。换另一种牌子的香烟也好，搬到一个新地方去住也好，订阅别的报纸也好，坠入爱河又脱身出来也好，我们一直在以或轻浮或深沉的方式，来对抗日常生活那无法消释的乏味成分。",
+        "from": "杜鲁门·卡波特",
+        "from_who": null
+    },
+    {
+        "id": 96,
+        "hitokoto": "我们活过的刹那，前后皆是暗夜。",
+        "from": "费尔南多·佩索阿",
+        "from_who": null
+    },
+    {
+        "id": 97,
+        "hitokoto": "台下人走过，不见旧颜色。",
+        "from": "赤怜",
+        "from_who": "等什么君"
+    },
+    {
+        "id": 98,
+        "hitokoto": "路难终乘鹏风起，瑶琴不歇为君啼。",
+        "from": "原创",
+        "from_who": "子公"
+    },
+    {
+        "id": 99,
+        "hitokoto": "听得懂与聊得来多难得。",
+        "from": "生活",
+        "from_who": "lojoy"
+    },
+    {
+        "id": 100,
+        "hitokoto": "你和我说他的可爱，你和我说他的好看。恍惚间窥见在樱花树下，铁道边，一对少男少女彼此走着，风起花落拂过他们脸颊。",
+        "from": "因为有你",
+        "from_who": "祉语"
+    },
+    {
+        "id": 101,
+        "hitokoto": "愿学术自由之风劲吹。",
+        "from": "斯坦福大学校训",
+        "from_who": null
+    },
+    {
+        "id": 102,
+        "hitokoto": "如果丢失是为了重新拾回失去之物，那么离别是为了能够再次相逢，道声珍重之后，我们一定能在未来再次向对方说声你好。",
+        "from": "TOMORROW",
+        "from_who": "恒松あゆみ"
+    },
+    {
+        "id": 103,
+        "hitokoto": "我站在你左侧，却像隔着银河。",
+        "from": "你不是真正的快乐",
+        "from_who": "五月天"
+    },
+    {
+        "id": 104,
+        "hitokoto": "江东依旧，故国不在，天上的云是他，吹过耳畔的风是他 江水浪来浪去，朵朵浪花都是他，我看漫野山花，漫山遍野都是他，我行过万里河山，万里河山都是他。",
+        "from": "灵魂摆渡黄泉篇",
+        "from_who": "孙尚香"
+    },
+    {
+        "id": 105,
+        "hitokoto": "黑暗的环境容易做错事。",
+        "from": "学校",
+        "from_who": "某中学数学老师"
+    },
+    {
+        "id": 106,
+        "hitokoto": "没有绝对的废物，只有放错位置的资源。",
+        "from": "上海市垃圾分类",
+        "from_who": "上海市垃圾分类"
+    },
+    {
+        "id": 107,
+        "hitokoto": "刚好知交，刚好欢笑，刚好闪耀。",
+        "from": "长大就好",
+        "from_who": "陈亦洺"
+    },
+    {
+        "id": 108,
+        "hitokoto": "北树阴浓，青衣成风。",
+        "from": "《这个王妃路子野，得宠！》",
+        "from_who": "封侯拜饭"
+    },
+    {
+        "id": 109,
+        "hitokoto": "数学分析？我已经完全掌握了。",
+        "from": "魔法少女rqy",
+        "from_who": "qhw"
+    },
+    {
+        "id": 110,
+        "hitokoto": "一等人，有本事，无脾气。二等人，有本事，有脾气。三等人，无本事，无脾气。四等人，无本事，大脾气。",
+        "from": "一日禅",
+        "from_who": null
+    },
+    {
+        "id": 111,
+        "hitokoto": "心灵被摧毁到模糊的情景、还认为是美丽的话，一定这样才是，生而为人的证据吧。",
+        "from": "不可解",
+        "from_who": "花谱"
+    },
+    {
+        "id": 112,
+        "hitokoto": "也许我或者“我们”，终有一天能自由地生存着。",
+        "from": "清华THUPC 2020",
+        "from_who": "清华THUPC出题方"
+    },
+    {
+        "id": 113,
+        "hitokoto": "眉若远山，目运星河。",
+        "from": "《源初幻想》",
+        "from_who": "鹤空流乂"
+    },
+    {
+        "id": 114,
+        "hitokoto": "人生就是一场旅行，没有终点的这条路，和爱着的人肩并肩，寻找着梦的所在。",
+        "from": "川の流れ(川流不息)",
+        "from_who": null
+    },
+    {
+        "id": 115,
+        "hitokoto": "旧日爱人对我微笑，可他虽然对我微笑，却留我独处森林中，困倦让我进入梦乡，可对爱人无限的爱，却又让我重新醒来。",
+        "from": "Kaar Deerge Chouvulangnig",
+        "from_who": null
+    },
+    {
+        "id": 116,
+        "hitokoto": "我们生来，就是为了，在宇宙中，留下印记。",
+        "from": "史蒂夫·乔布斯",
+        "from_who": "Steve Jobs"
+    },
+    {
+        "id": 117,
+        "hitokoto": "要坚持去寻找那剩下的3%，不要因为那97%而放弃​。",
+        "from": "戒毒所",
+        "from_who": null
+    },
+    {
+        "id": 118,
+        "hitokoto": "这趟旅行若算开心，亦是无负这一生。",
+        "from": "落花流水",
+        "from_who": "陈奕迅"
+    },
+    {
+        "id": 119,
+        "hitokoto": "无论多么痛苦，都要把故事的书页翻下去；总有一天，能够到达可以看到满天繁星的地方。",
+        "from": "文学少女",
+        "from_who": "天野远子"
+    },
+    {
+        "id": 120,
+        "hitokoto": "与其斤斤计较，不如糊里糊涂。 既然无法强求，不如学会满足。 与其争争吵吵，不如心平气和。 既然不能如愿，不如试着释怀。",
+        "from": "借",
+        "from_who": "毛不易"
+    },
+    {
+        "id": 121,
+        "hitokoto": "认为自己的人种和文明高人一等是愚蠢的。",
+        "from": "亚洲文明对话大会开幕式",
+        "from_who": "习近平"
+    },
+    {
+        "id": 122,
+        "hitokoto": "如果我们总是等着自己做好准备，那可能这一生都在等待中度过了。",
+        "from": "欧路每日一句",
+        "from_who": "佚名"
+    },
+    {
+        "id": 123,
+        "hitokoto": "我既开始，我必完成；我既决定，我必贯彻。",
+        "from": "南京大学新生学习指南",
+        "from_who": "南京大学教务处全体老师"
+    },
+    {
+        "id": 124,
+        "hitokoto": "人这一生，匆匆而过，若说真有所图，也不过是一份温暖和惦记",
+        "from": "快手",
+        "from_who": "佚名"
+    },
+    {
+        "id": 125,
+        "hitokoto": "Make it.",
+        "from": "Dingtalk",
+        "from_who": "Zeten"
+    },
+    {
+        "id": 126,
+        "hitokoto": "The past is everything we were don't make us who we are.",
+        "from": "Dream It Possible",
+        "from_who": "Delacry"
+    },
+    {
+        "id": 127,
+        "hitokoto": "在没有错误日志的情况下诊断任何问题无异于闭眼开车。",
+        "from": "Apache官方文档",
+        "from_who": "Apache"
+    },
+    {
+        "id": 128,
+        "hitokoto": "若不是对自己没信心，我怎会努力？",
+        "from": "NiuBoss123 Studio",
+        "from_who": "NiuBoss123"
+    },
+    {
+        "id": 129,
+        "hitokoto": "尽可能不给别人添麻烦，别人最好也别麻烦我。这句话不是冷漠，而是成熟。",
+        "from": "王自健",
+        "from_who": null
+    },
+    {
+        "id": 130,
+        "hitokoto": "总有一个人一直住在心底，却又告别在生活里。",
+        "from": "网易云",
+        "from_who": "ShimmerLS"
+    },
+    {
+        "id": 131,
+        "hitokoto": "莫叹明月笑多情，天涯尽头看流光飞去。",
+        "from": "相思引",
+        "from_who": "董贞"
+    },
+    {
+        "id": 132,
+        "hitokoto": "每个人都有一段悲伤，想隐藏却欲盖弥彰。",
+        "from": "白月光",
+        "from_who": "张信哲"
+    },
+    {
+        "id": 133,
+        "hitokoto": "一定要解放台湾。",
+        "from": "中共党史上的80句口号",
+        "from_who": "中国共产党"
+    },
+    {
+        "id": 134,
+        "hitokoto": "从前是牛马，现在要做人！",
+        "from": "中共党史上的80句口号",
+        "from_who": "中国共产党"
+    },
+    {
+        "id": 135,
+        "hitokoto": "你皮任你皮，把你当瓜皮；你游任你游，全场打酱油；你抓任你抓，跟我不搭噶。",
+        "from": "大司马直播",
+        "from_who": "大司马"
+    },
+    {
+        "id": 136,
+        "hitokoto": "为了理想，我宁愿忍受寂寞，饮尽那份孤独。",
+        "from": "三百六十五里路",
+        "from_who": "包娜娜"
+    },
+    {
+        "id": 137,
+        "hitokoto": "编程是一种技艺，一种需要用心学习的技艺。",
+        "from": "程序员修炼之道-从小工到专家",
+        "from_who": null
+    },
+    {
+        "id": 138,
+        "hitokoto": "春日雨，夏蝉鸣，明天是个好天气。秋风起，雪花轻，海底看不见四季。",
+        "from": "海底",
+        "from_who": "凤凰传奇"
+    },
+    {
+        "id": 139,
+        "hitokoto": "全世界无产者，联合起来。",
+        "from": "毛泽东选集",
+        "from_who": "毛泽东"
+    },
+    {
+        "id": 140,
+        "hitokoto": "我们都有底线，而我也许已经越己的过了自。",
+        "from": "英雄联盟",
+        "from_who": "青钢影"
+    },
+    {
+        "id": 141,
+        "hitokoto": "Standing on Shoulders of Giants.",
+        "from": "图灵书籍",
+        "from_who": "图灵"
+    },
+    {
+        "id": 142,
+        "hitokoto": "别赶路，去感受路。",
+        "from": "沃尔沃",
+        "from_who": "沃尔沃"
+    },
+    {
+        "id": 143,
+        "hitokoto": "怀念总是，突然怀念，不谈条件。",
+        "from": "干杯",
+        "from_who": "五月天"
+    },
+    {
+        "id": 144,
+        "hitokoto": "以风为名，屿之齐鸣。",
+        "from": "风屿",
+        "from_who": "风屿"
+    },
+    {
+        "id": 145,
+        "hitokoto": "爱若执炬迎风，炽烈而哀恸，诸般滋味皆在其中。",
+        "from": "不老梦",
+        "from_who": "银临"
+    },
+    {
+        "id": 146,
+        "hitokoto": "我为鱼，道为网，河为天……那执网的老者便是造化！",
+        "from": "仙逆",
+        "from_who": "耳根"
+    },
+    {
+        "id": 147,
+        "hitokoto": "今昔横云有雨，挂满山涧，故人来。",
+        "from": "仙逆",
+        "from_who": "耳根"
+    },
+    {
+        "id": 148,
+        "hitokoto": "对我而言，只是短短的五百年。对他而言，却是数之不尽的轮回！",
+        "from": "仙逆",
+        "from_who": "耳根"
+    },
+    {
+        "id": 149,
+        "hitokoto": "我不是光芒本身，我只是反射你们光的镜子。",
+        "from": "SNH48刘增艳",
+        "from_who": "SNH48刘增艳"
+    },
+    {
+        "id": 150,
+        "hitokoto": "幸好思念无声，否则震耳欲聋。",
+        "from": "Bilibili",
+        "from_who": "佚名"
+    },
+    {
+        "id": 151,
+        "hitokoto": "谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊。",
+        "from": "尼采",
+        "from_who": "尼采"
+    },
+    {
+        "id": 152,
+        "hitokoto": "我希望我能有一点点的时间，来治愈日益强烈的疼痛。",
+        "from": "Irony English & piano ver",
+        "from_who": "Irony"
+    },
+    {
+        "id": 153,
+        "hitokoto": "群青色的天空，是自由的象征。",
+        "from": "白猫海賊船",
+        "from_who": "Yunomi"
+    },
+    {
+        "id": 154,
+        "hitokoto": "我们都是参天大树，都能摘星揽月。",
+        "from": "Amazing Tree",
+        "from_who": null
+    },
+    {
+        "id": 155,
+        "hitokoto": "嘿，同桌，记得你说过，你的梦想是遨游太空，愿你继续带着梦想展翅高飞，去拥抱美好的未来。",
+        "from": "毕业赠言",
+        "from_who": "yuanziyu"
+    },
+    {
+        "id": 156,
+        "hitokoto": "仙之巅，傲世间，有我安澜便有天。",
+        "from": "完美世界.安澜",
+        "from_who": "辰东"
+    },
+    {
+        "id": 157,
+        "hitokoto": "赤锋矛，不朽盾，斩尽仙王灭九天！",
+        "from": "完美世界.俞妥",
+        "from_who": "辰东"
+    },
+    {
+        "id": 158,
+        "hitokoto": "人生应该删繁留简，任世事摇曳，心始终如莲，安静绽放。",
+        "from": "白落梅",
+        "from_who": "白落梅"
+    },
+    {
+        "id": 159,
+        "hitokoto": "And just as you bring me back, you push me from the ledge.",
+        "from": "Album Preview: Who You Are Is Not Enough",
+        "from_who": "Athletics"
+    },
+    {
+        "id": 160,
+        "hitokoto": "飞上枝头的都风趣，占了巢的都在窃喜。",
+        "from": "乌鸦",
+        "from_who": "许嵩"
+    },
+    {
+        "id": 161,
+        "hitokoto": "方向比速度重要。",
+        "from": "巴菲特演讲",
+        "from_who": "巴菲特"
+    },
+    {
+        "id": 162,
+        "hitokoto": "既然选择面向太阳，那留给世界的只能是背影。",
+        "from": "语文作文素材",
+        "from_who": "不详"
+    },
+    {
+        "id": 163,
+        "hitokoto": "一人撑伞一人行，从此城西无烟雨。",
+        "from": "阳西一中",
+        "from_who": "林清凝"
+    },
+    {
+        "id": 164,
+        "hitokoto": "富强、民主、文明、和谐、自由、平等、公正、法治、爱国、敬业、诚信、友善。",
+        "from": "社会主义核心价值观",
+        "from_who": null
+    },
+    {
+        "id": 165,
+        "hitokoto": "When I saw you,all the stars came to life.I will remember you till the end.",
+        "from": "Can You Hear Me",
+        "from_who": null
+    },
+    {
+        "id": 166,
+        "hitokoto": "不要因为走得太远，就忘了当初，为什么出发。",
+        "from": "白岩松",
+        "from_who": "白岩松"
+    },
+    {
+        "id": 167,
+        "hitokoto": "向着风，拥抱彩虹。",
+        "from": "你的答案",
+        "from_who": "阿冗"
+    },
+    {
+        "id": 168,
+        "hitokoto": "谁说站在光里的才算英雄。",
+        "from": "孤勇者",
+        "from_who": "唐恬"
+    },
+    {
+        "id": 169,
+        "hitokoto": "不让我们站在巨人的肩膀上，我们就自己成长为巨人。",
+        "from": "朗读者",
+        "from_who": "董卿"
+    },
+    {
+        "id": 170,
+        "hitokoto": "败在我手中之敌，从来不会被我视为对手，我给你时间追赶，直至你遥望不见。",
+        "from": "完美世界.石昊",
+        "from_who": "辰东"
+    },
+    {
+        "id": 171,
+        "hitokoto": "那个夏天像一团旧烟火，回忆牵我。",
+        "from": "Fin/",
+        "from_who": null
+    },
+    {
+        "id": 172,
+        "hitokoto": "那年十八，母校聚会，站着如喽啰。",
+        "from": "浮夸",
+        "from_who": "陈奕迅"
+    },
+    {
+        "id": 173,
+        "hitokoto": "极光总会有，并肩于雪山之巅。",
+        "from": "央视",
+        "from_who": null
+    },
+    {
+        "id": 174,
+        "hitokoto": "若无闲事挂心头，便是人间好时节。",
+        "from": "互联网",
+        "from_who": "佚名"
+    },
+    {
+        "id": 175,
+        "hitokoto": "原谅我所言非言，谁教你墨宝非宝。",
+        "from": "很想很想你",
+        "from_who": "姜广涛"
+    },
+    {
+        "id": 176,
+        "hitokoto": "俄罗斯虽大，但我们已经无路可退，我们的身后就是莫斯科。",
+        "from": "苏德战争",
+        "from_who": "克洛奇科夫·季耶夫"
+    },
+    {
+        "id": 177,
+        "hitokoto": "清晨炎午凉夜一整天都在想关于你的事情，甚至还会妄想起奇怪的事情，不会败给不能与你相见的时间，我会变得可爱迷人起来的，所以你一定要察觉到我哦。",
+        "from": "可愛くなりたい",
+        "from_who": "鎖那"
+    },
+    {
+        "id": 178,
+        "hitokoto": "我曾以为自己终能超脱，却没想到存在如此真实而温暖。",
+        "from": "月影歌",
+        "from_who": "阿靥"
+    },
+    {
+        "id": 179,
+        "hitokoto": "有些人，一旦错过就不在。",
+        "from": "后来",
+        "from_who": "刘若英"
+    },
+    {
+        "id": 180,
+        "hitokoto": "窗外启明星的微光，消散了离别的悲伤，照亮了爱人的行程，而我却仍心存担忧，离别勾起无限悲伤。",
+        "from": "Kaar Deerge Chouvulangnig",
+        "from_who": "sainkho namtchylak"
+    },
+    {
+        "id": 181,
+        "hitokoto": "梦想似乎总是，在天空的远方，很害怕我达不到，但我一直不停的追逐着，因为是自己的故事，所以不想放弃。",
+        "from": "",
+        "from_who": "Kiroro"
+    },
+    {
+        "id": 182,
+        "hitokoto": "如果有天我们湮没在人潮之中，庸碌一生，那是因为我们没有努力要活得更丰盛。",
+        "from": "黄碧云",
+        "from_who": "黄碧云"
+    },
+    {
+        "id": 183,
+        "hitokoto": "对未来真正的慷慨，是把一切都献给现在。",
+        "from": "加缪",
+        "from_who": "加缪"
+    },
+    {
+        "id": 184,
+        "hitokoto": "这个世界的麻烦就是傻瓜非常自信 ，而智者总是充满疑虑。",
+        "from": "罗素",
+        "from_who": "罗素"
+    },
+    {
+        "id": 185,
+        "hitokoto": "生まれた意味などなかった。",
+        "from": "まふまふ",
+        "from_who": "まふまふ"
+    },
+    {
+        "id": 186,
+        "hitokoto": "可总是有人来不及证明，就已被看腻。",
+        "from": "狐狸",
+        "from_who": "薛之谦"
+    },
+    {
+        "id": 187,
+        "hitokoto": "三个字，只能说给自己听。",
+        "from": "错位时空",
+        "from_who": "周仁"
+    },
+    {
+        "id": 188,
+        "hitokoto": "愿你每一步，坦荡无憾；愿你未来路，自信从容。",
+        "from": "朱则光",
+        "from_who": "朱则光"
+    },
+    {
+        "id": 189,
+        "hitokoto": "上天啊，你千万不要偷偷告诉他，在无数夜深人静的夜晚，我依旧在想他。",
+        "from": "阿拉斯加海湾",
+        "from_who": "李康宁/菲道尔"
+    },
+    {
+        "id": 190,
+        "hitokoto": "我的青春年华尽情挥洒，都要感谢你。",
+        "from": "相遇·金家岭",
+        "from_who": "王子涵"
+    },
+    {
+        "id": 191,
+        "hitokoto": "少年的中国没有学校，她的学校是大地的山川；少年的中国没有老师，她的老师是大地的人民。",
+        "from": "少年中国",
+        "from_who": "蒋勋"
+    },
+    {
+        "id": 192,
+        "hitokoto": "每天和别人暧昧不清，有意思吗？",
+        "from": "华师一留言墙",
+        "from_who": "小苏不酥"
+    },
+    {
+        "id": 193,
+        "hitokoto": "你的名字无人知晓，你的功绩永世长存。",
+        "from": "莫斯科烈士纪念碑",
+        "from_who": null
+    },
+    {
+        "id": 194,
+        "hitokoto": "不要渴望ta人的改变，记住你是唯一的！",
+        "from": "冥想",
+        "from_who": "心殇"
+    },
+    {
+        "id": 195,
+        "hitokoto": "一旦开始，便难以回头。",
+        "from": "Oxytocin",
+        "from_who": "Billie Eilish"
+    },
+    {
+        "id": 196,
+        "hitokoto": "对你死心，是迟早的事。",
+        "from": "ilomilo",
+        "from_who": "Billie Eilish"
+    },
+    {
+        "id": 197,
+        "hitokoto": "如果不想受伤，请远离带来伤害的所有事物！",
+        "from": "冥想",
+        "from_who": "心殇"
+    },
+    {
+        "id": 198,
+        "hitokoto": "爱情没有那么多借口，如果最终没能在一起，只能说明爱的不够。",
+        "from": "恋恋笔记本",
+        "from_who": "恋恋笔记本"
+    },
+    {
+        "id": 199,
+        "hitokoto": "原来世界最远不是距离而是昨天。",
+        "from": "倒流时间",
+        "from_who": "邓紫棋"
+    },
+    {
+        "id": 200,
+        "hitokoto": "春天来得很慢，春天才有浪漫。",
+        "from": "网络",
+        "from_who": null
+    },
+    {
+        "id": 201,
+        "hitokoto": "生来即轻，还时亦净。",
+        "from": "刘学州",
+        "from_who": "刘学州"
+    },
+    {
+        "id": 202,
+        "hitokoto": "新欢是良药，而我选择了时间。",
+        "from": "九望",
+        "from_who": "九望"
+    },
+    {
+        "id": 203,
+        "hitokoto": "经历这个你，活成这个我，细数自己。",
+        "from": "年轮说",
+        "from_who": "吴青峰"
+    },
+    {
+        "id": 204,
+        "hitokoto": "何谓恒久？于祖祖辈辈，不过文化传承。",
+        "from": "人民日报",
+        "from_who": "2021广西北海中考作文"
+    },
+    {
+        "id": 205,
+        "hitokoto": "引领天下之情怀，引领创新之力量，引领艺趣之格调。",
+        "from": "嘉兴一中实验学校校训",
+        "from_who": "嘉兴一中实验学校"
+    },
+    {
+        "id": 206,
+        "hitokoto": "金钱一旦作响，坏话随之戛然而止。",
+        "from": "家训",
+        "from_who": "罗斯柴尔德家族"
+    },
+    {
+        "id": 207,
+        "hitokoto": "Time to never hold our love.",
+        "from": "Ghost Love Score",
+        "from_who": "Nightwish"
+    },
+    {
+        "id": 208,
+        "hitokoto": "人类不能再生活在恐惧中。没有东西能保护我们，我们必须保护我们自己。",
+        "from": "SCP基金会",
+        "from_who": "“The Administrator”"
+    },
+    {
+        "id": 209,
+        "hitokoto": "我妄想能改变命运，可终究不离此痛。",
+        "from": "不离此痛(我的世界地图)",
+        "from_who": "夜间闪烁工作室"
+    },
+    {
+        "id": 210,
+        "hitokoto": "思想比武器更有威力。我们是绝不会给敌人任何武器的。难道我们会让敌人有思想吗?",
+        "from": "斯大林",
+        "from_who": null
+    },
+    {
+        "id": 211,
+        "hitokoto": "He said one day you'll leave this world behind , So live a life you will remember.",
+        "from": "The Nights",
+        "from_who": "Avicii"
+    },
+    {
+        "id": 212,
+        "hitokoto": "时间是片海，你我皆游人。",
+        "from": "你要好好的",
+        "from_who": "苑子文"
+    },
+    {
+        "id": 213,
+        "hitokoto": "无论现在多么的不开心，你要相信，明天会比今天更好。",
+        "from": "日本",
+        "from_who": "东野圭吾"
+    },
+    {
+        "id": 214,
+        "hitokoto": "哪朵玫瑰没有荆棘？",
+        "from": "玫瑰少年",
+        "from_who": null
+    },
+    {
+        "id": 215,
+        "hitokoto": "咬咬牙，生活没有过不去的坎儿。",
+        "from": "你只是看起来很努力",
+        "from_who": "连山"
+    },
+    {
+        "id": 216,
+        "hitokoto": "宁要好梨一个，不要烂梨一筐。积极肯干和忠心耿耿的人即使只有两三个，也比十个朝气沉沉的人强。",
+        "from": "弗拉基米尔.伊里奇.列宁",
+        "from_who": null
+    },
+    {
+        "id": 217,
+        "hitokoto": "学习，学习，再学习！学，然后知不足。",
+        "from": "弗拉基米尔.伊里奇.列宁",
+        "from_who": null
+    },
+    {
+        "id": 218,
+        "hitokoto": "我们一定要给自己提出这样的任务：第一，学习，第二是学习，第三还是学习。",
+        "from": "弗拉基米尔.伊里奇.列宁",
+        "from_who": null
+    },
+    {
+        "id": 219,
+        "hitokoto": "要学会游泳，就必须先下水。",
+        "from": "弗拉基米尔·伊里奇·列宁",
+        "from_who": null
+    },
+    {
+        "id": 220,
+        "hitokoto": "科学的宗旨就是提供宇宙的真正写真.",
+        "from": "弗拉基米尔·伊里奇·列宁",
+        "from_who": null
+    },
+    {
+        "id": 221,
+        "hitokoto": "加油啊!网络上的陌生人!一定要加油学习!国家还在等着你们建设呢!不要放弃!",
+        "from": "",
+        "from_who": "陌生人"
+    },
+    {
+        "id": 222,
+        "hitokoto": "笑只是一个表情，与快乐无关。",
+        "from": "搞笑语录",
+        "from_who": "一个无归期的人"
+    },
+    {
+        "id": 223,
+        "hitokoto": "你不要太小看了我，也别太高看自己了。",
+        "from": "霸气句子",
+        "from_who": "一个无归期的人"
+    },
+    {
+        "id": 224,
+        "hitokoto": "若你给我一丝希望，我便赠你十分勇敢。",
+        "from": "霸气句子",
+        "from_who": "一个无归期的人"
+    },
+    {
+        "id": 225,
+        "hitokoto": "我会好好的生活，不为别的，就为这些年我亏欠自己的。",
+        "from": "霸气句子",
+        "from_who": "一个无归期的人"
+    },
+    {
+        "id": 226,
+        "hitokoto": "我的国家，依然是五岳之上，一切江河依然滚滚向东，民族意志永远向前。",
+        "from": "欢呼哈雷",
+        "from_who": "余光中"
+    },
+    {
+        "id": 227,
+        "hitokoto": "我喝酒了，但是被清醒所困扰。",
+        "from": "AI",
+        "from_who": null
+    },
+    {
+        "id": 228,
+        "hitokoto": "他们把泥土灌进我，把这叫做成长。",
+        "from": "泥汤",
+        "from_who": "洛天依 & ilem"
+    },
+    {
+        "id": 229,
+        "hitokoto": "去告诉你的主人，说我们来到这里是受命于人民，只有用刺刀才能把我们赶走。",
+        "from": "奥诺雷·米拉波",
+        "from_who": null
+    },
+    {
+        "id": 230,
+        "hitokoto": "「逆位」星币王后\r\n回应是：爱慕虚荣、生活浮华、态度恶劣",
+        "from": "芭芭拉",
+        "from_who": null
+    },
+    {
+        "id": 231,
+        "hitokoto": "等待和犹豫才是这个世界上最无情的杀手。",
+        "from": "高中必刷题",
+        "from_who": null
+    },
+    {
+        "id": 232,
+        "hitokoto": "抱怨深处黑暗，不如提灯前行。",
+        "from": "高中必刷题",
+        "from_who": null
+    },
+    {
+        "id": 233,
+        "hitokoto": "丢下一些包袱后，你会惊讶地发现，原来自己可以飞得那么高。",
+        "from": "高中必刷题",
+        "from_who": null
+    },
+    {
+        "id": 234,
+        "hitokoto": "人是不能太闲的。闲久了，努力一下就以为是拼命。",
+        "from": "日历",
+        "from_who": null
+    },
+    {
+        "id": 235,
+        "hitokoto": "回不去的故事，没有终点，就像点了一盏灯，光很暗，照不清来时的路，装满了遗憾。",
+        "from": "龙离",
+        "from_who": null
+    },
+    {
+        "id": 236,
+        "hitokoto": "我们的同志在困难的时候，要看到成绩，要看到光明，要提高我们的勇气。",
+        "from": "为人民服务",
+        "from_who": "毛泽东"
+    },
+    {
+        "id": 237,
+        "hitokoto": "我无杀虎心，虎有杀人意。",
+        "from": "佚名",
+        "from_who": null
+    },
+    {
+        "id": 238,
+        "hitokoto": "当一个人告诉你他将要离开，说明他还希望有人能够关心，将他拯救：这是最后的求救信号。",
+        "from": "佚名",
+        "from_who": null
+    },
+    {
+        "id": 239,
+        "hitokoto": "那些道理我们从小就听，长大后不得不听命运的命。",
+        "from": "无聊人",
+        "from_who": null
+    },
+    {
+        "id": 240,
+        "hitokoto": "日和月在重演，谁号令齐天？",
+        "from": "齐天",
+        "from_who": "华晨宇"
+    },
+    {
+        "id": 241,
+        "hitokoto": "予力全球每一人，每一组织，成就不凡。",
+        "from": "Microsoft Slogan",
+        "from_who": null
+    },
+    {
+        "id": 242,
+        "hitokoto": "勤学苦练斗志昂扬，顽强拼搏不弃不放。",
+        "from": "汶上县第一实验中学",
+        "from_who": null
+    },
+    {
+        "id": 243,
+        "hitokoto": "命运注定我是生活在黑暗之中，也注定我是黑暗中的强者。",
+        "from": "佚名",
+        "from_who": null
+    },
+    {
+        "id": 244,
+        "hitokoto": "纵使疾风起，人生不言弃。",
+        "from": "海滨墓园的一句诗",
+        "from_who": "瓦雷里"
+    },
+    {
+        "id": 245,
+        "hitokoto": "已千言化为风、万念散为雾、往昔写为书，你我心若相知，又何需再多笔触。",
+        "from": "南风",
+        "from_who": "周洁颖/郑卓群"
+    },
+    {
+        "id": 246,
+        "hitokoto": "请同我追寻高天的境地，送给天下愉悦欢欣。",
+        "from": "水对天的述说",
+        "from_who": null
+    },
+    {
+        "id": 247,
+        "hitokoto": "请你和我一起成为，洛水边快乐的魂灵；请让我托付给你吧，这天水间长存的情意。",
+        "from": "水对天的诉说",
+        "from_who": null
+    },
+    {
+        "id": 248,
+        "hitokoto": "我是水间的一朵浪花，徜徉在水天共色的意境；我是天下的一缕灵魂，找寻着穿越千年的风韵。",
+        "from": "水对天的诉说",
+        "from_who": null
+    },
+    {
+        "id": 249,
+        "hitokoto": "看着拂过水面的微风，激起河中一滴滴的灵气；等着划过天边的飞鸟，带走我们一曲曲的欢喜。",
+        "from": "水对天的诉说",
+        "from_who": null
+    },
+    {
+        "id": 250,
+        "hitokoto": "行之所致，遍地书香。",
+        "from": "昌平线南延开通活动标语",
+        "from_who": "北京地铁"
+    },
+    {
+        "id": 251,
+        "hitokoto": "向着天星的歌者，早已隐没在人群中，如同那淡去的星河。",
+        "from": "星辰的怀念",
+        "from_who": null
+    },
+    {
+        "id": 252,
+        "hitokoto": "Per aspera ad astra.",
+        "from": "拉丁语谚语",
+        "from_who": null
+    },
+    {
+        "id": 253,
+        "hitokoto": "那便以我渺小的灵魂，为无穷的你写下这诗篇。",
+        "from": "星辰的怀念",
+        "from_who": null
+    },
+    {
+        "id": 254,
+        "hitokoto": "如果你迷恋岁月舍不得向前，我就默默记录这诗篇；如果你厌倦引力想要去飞行，我就让全世界的风吹向你。",
+        "from": "让风告诉你",
+        "from_who": "Chilichill"
+    },
+    {
+        "id": 255,
+        "hitokoto": "爱你所爱，行你所行，听从你心，无问西东。",
+        "from": "无问西东",
+        "from_who": null
+    },
+    {
+        "id": 256,
+        "hitokoto": "高调做事，低调做人。",
+        "from": "某电视剧",
+        "from_who": null
+    },
+    {
+        "id": 257,
+        "hitokoto": "我感谢一切我有权奉承的神明，让我在这个不唯一的世界遇见唯一的你。",
+        "from": "Vitamin少女",
+        "from_who": null
+    },
+    {
+        "id": 258,
+        "hitokoto": "最是人间留不住，朱颜辞镜花辞树。",
+        "from": "蝶恋花·阅尽天涯离别苦",
+        "from_who": "王国维"
+    },
+    {
+        "id": 259,
+        "hitokoto": "虽然我和他已十年不见，但我知道我会永远怀念他。",
+        "from": "伴我同行",
+        "from_who": "伴我同行"
+    },
+    {
+        "id": 260,
+        "hitokoto": "成年人的世界没有容易二字。",
+        "from": "天气预报员",
+        "from_who": "天气预报员"
+    },
+    {
+        "id": 261,
+        "hitokoto": "最初，没有人在意这场灾难，这不过是一场山火，一次旱灾，一个物种的灭绝，一座城市的消失。直到这场灾难和每个人息息相关。",
+        "from": "流浪地球",
+        "from_who": "刘慈欣"
+    },
+    {
+        "id": 262,
+        "hitokoto": "An apple once a day，keep your enemies away.",
+        "from": "白雪公主",
+        "from_who": "皇后"
+    },
+    {
+        "id": 263,
+        "hitokoto": "I will see you in another life, when we are both cats.",
+        "from": "Vanilla Sky",
+        "from_who": null
+    },
+    {
+        "id": 264,
+        "hitokoto": "那就是在梦里，找一个很高很高的地方，然后往下跳，不管再恐怖的噩梦都会结束。",
+        "from": "想加你",
+        "from_who": "陈韵如"
+    },
+    {
+        "id": 265,
+        "hitokoto": "迎着风，拥抱彩虹！",
+        "from": "你的答案",
+        "from_who": "黄霄雲"
+    },
+    {
+        "id": 266,
+        "hitokoto": "Everything ends. But everything begins again too.",
+        "from": "奇异博士",
+        "from_who": null
+    },
+    {
+        "id": 267,
+        "hitokoto": "虽有遗憾，绝不后悔。",
+        "from": "古剑奇谭",
+        "from_who": null
+    },
+    {
+        "id": 268,
+        "hitokoto": "明明想做个好人，最后却变成了坏人，以为能做个超人，才发现甚至当不好一个凡人，在名为人生的这个大公司里，命运才是我们的顶头上司，虽然人生不能换，命运不能选，幸好还有这群好同事，好兄弟，一起互相伤害。",
+        "from": "人生无限公司",
+        "from_who": "五月天"
+    },
+    {
+        "id": 269,
+        "hitokoto": "Why so serious?",
+        "from": "小丑",
+        "from_who": "小丑"
+    },
+    {
+        "id": 270,
+        "hitokoto": "你说过，人最大的敌人是自己。",
+        "from": "我的前半生",
+        "from_who": "贺涵"
+    },
+    {
+        "id": 271,
+        "hitokoto": "A lion does not concern himself with the opinion of sheep.",
+        "from": "权力的游戏",
+        "from_who": null
+    },
+    {
+        "id": 272,
+        "hitokoto": "There's a beast in every man, and it stirs when you put a sword in his hand.",
+        "from": "权力的游戏",
+        "from_who": null
+    },
+    {
+        "id": 273,
+        "hitokoto": "Valar morghulis; Valar dohaeris.",
+        "from": "权力的游戏",
+        "from_who": null
+    },
+    {
+        "id": 274,
+        "hitokoto": "不是每一个人都能成为伟大的艺术家，但是伟大的艺术家可以来自任何一个地方。",
+        "from": "料理鼠王",
+        "from_who": "小米"
+    },
+    {
+        "id": 275,
+        "hitokoto": "陆上的人喜欢寻根问底，虚度了大好光阴，冬天忧虑夏天的姗姗来迟，夏天忧虑冬天的将至，所以他们不停四处游走，追求一个遥不可及的四季如夏的地方，然而我并不羡慕。",
+        "from": "海上钢琴师",
+        "from_who": "1900"
+    },
+    {
+        "id": 276,
+        "hitokoto": "我们生活在阴沟里，但有人依然仰望星空。",
+        "from": "少年的你",
+        "from_who": "陈念"
+    },
+    {
+        "id": 277,
+        "hitokoto": "所以我松开拳头用手握紧笔，作为自己作为人类也作为你。",
+        "from": "贰拾",
+        "from_who": "张颜齐"
+    },
+    {
+        "id": 278,
+        "hitokoto": "谎话被歌颂，扮清醒的人作哑装聋。",
+        "from": "不痛",
+        "from_who": "南语"
+    },
+    {
+        "id": 279,
+        "hitokoto": "如果你有梦想，就要守护它。",
+        "from": "当幸福来敲门",
+        "from_who": "克里斯·加德纳"
+    },
+    {
+        "id": 280,
+        "hitokoto": "当人们做不到一些事情的时候，他们会对你说你也同样不能。",
+        "from": "当幸福来敲门",
+        "from_who": "克里斯·加德纳"
+    },
+    {
+        "id": 281,
+        "hitokoto": "隔着人潮呼救像只困兽，呼吸颤抖去泪流，去相拥。",
+        "from": "不痛",
+        "from_who": "南语"
+    },
+    {
+        "id": 282,
+        "hitokoto": "曾盛开过一朵，曾不会败落，曾在他眼中流淌过浩瀚的银河。",
+        "from": "不痛",
+        "from_who": "南语"
+    },
+    {
+        "id": 283,
+        "hitokoto": "忘掉生日，忘掉青涩的诗，忘掉他不厌其烦夜夜追逐他影子。",
+        "from": "菱形月亮",
+        "from_who": "邱意"
+    },
+    {
+        "id": 284,
+        "hitokoto": "金钱和女人，是人生犯错的根源。",
+        "from": "贫民窟里的百万富翁",
+        "from_who": "丹尼·鮑伊"
+    },
+    {
+        "id": 285,
+        "hitokoto": "祈愿万家灯火熨烫过脉络，刀山与火海多深刻，都陪你渡过。",
+        "from": "不痛",
+        "from_who": "南语"
+    },
+    {
+        "id": 286,
+        "hitokoto": "we are in the gutter, but some of us are looking at the stars.",
+        "from": "少年的你",
+        "from_who": "陈念"
+    },
+    {
+        "id": 287,
+        "hitokoto": "呐，做人呢，最重要的是开心，你饿不饿，我煮碗面给你吃啊。",
+        "from": "大内密探零零发",
+        "from_who": "周星驰"
+    },
+    {
+        "id": 288,
+        "hitokoto": "Tough times don't last, tough people do.",
+        "from": "Elementary",
+        "from_who": "Joan Watson"
+    },
+    {
+        "id": 289,
+        "hitokoto": "经不经典这种事，每个人本来就不一样嘛。因为，你有你的回忆，我有我的传记，只要感动，都是经典。",
+        "from": "五月天人生无限公司",
+        "from_who": null
+    },
+    {
+        "id": 290,
+        "hitokoto": "就像是一场华尔街的阴谋，透露着优雅的杀戮。",
+        "from": "神探夏洛克",
+        "from_who": null
+    },
+    {
+        "id": 291,
+        "hitokoto": "一个细胞里，却分裂出了两种截然不同的命运。",
+        "from": "法医秦明",
+        "from_who": "秦明"
+    },
+    {
+        "id": 292,
+        "hitokoto": "人的痛苦会把自己折磨到多深呢？",
+        "from": "如实陈述",
+        "from_who": null
+    },
+    {
+        "id": 293,
+        "hitokoto": "如果你仲记得我，就返转头啦。",
+        "from": "刑事侦缉档案",
+        "from_who": null
+    },
+    {
+        "id": 294,
+        "hitokoto": "世界上有三种欺诈师，欺骗别人金钱的白鹫；用美色来玩弄别人心灵的红鹫；还有一种只把白鹫和红鹫当成猎物的史上最强的欺诈师。他的名字叫做黑鹫。",
+        "from": "欺诈猎人",
+        "from_who": null
+    },
+    {
+        "id": 295,
+        "hitokoto": "那片洁白无瑕的雪地上留下的两个人的回忆很快就会消失，只有那十字，那隔窗的吻痕，那棵树，那人的心在自己胸膛留下的心跳声，永存不灭。",
+        "from": "天国的树",
+        "from_who": null
+    },
+    {
+        "id": 296,
+        "hitokoto": "世事变幻无常，而近乎永恒不变者，唯你我头上的同一片星空。",
+        "from": "万国志",
+        "from_who": null
+    },
+    {
+        "id": 297,
+        "hitokoto": "如果温柔是罪，那就只能用拳头来洗清我们犯下的罪孽。",
+        "from": "镇魂街",
+        "from_who": "曹玄亮"
+    },
+    {
+        "id": 298,
+        "hitokoto": "I will always be here for you.",
+        "from": "环太平洋 Pacific Rim",
+        "from_who": null
+    },
+    {
+        "id": 299,
+        "hitokoto": "我花了二十多年告诉我的女儿如何保护自己，你却没有花十分钟教你的儿子不要伤害女孩子。",
+        "from": "一个母亲的复仇",
+        "from_who": "吉里什·科赫利"
+    },
+    {
+        "id": 300,
+        "hitokoto": "爸爸我也不是一生下来就是爸爸，爸爸也是头一次当爸爸。",
+        "from": "请回答1988",
+        "from_who": "德善父亲"
+    },
+    {
+        "id": 301,
+        "hitokoto": "我想虽然现在是太空时代，人类早就可以坐太空船去月球，但永远无法探索别人内心的宇宙。",
+        "from": "大佛普拉斯",
+        "from_who": null
+    },
+    {
+        "id": 302,
+        "hitokoto": "自责要短暂，不过要长久铭记。",
+        "from": "当你沉睡时",
+        "from_who": null
+    },
+    {
+        "id": 303,
+        "hitokoto": "You complete me !",
+        "from": "黑暗骑士",
+        "from_who": "joker"
+    },
+    {
+        "id": 304,
+        "hitokoto": "痛苦犹如一艘船，欲望是指南针。",
+        "from": "暗黑",
+        "from_who": null
+    },
+    {
+        "id": 305,
+        "hitokoto": "当时光的列车缓缓驶过酋长球场，32岁的亨利就坐在那里，深情的目光望过去，都是自己22岁的影子。",
+        "from": "天下足球",
+        "from_who": null
+    },
+    {
+        "id": 306,
+        "hitokoto": "I'll do anything to get back what I lost.",
+        "from": "The Flash",
+        "from_who": "Eobard Thawne"
+    },
+    {
+        "id": 307,
+        "hitokoto": "I'm nothing without you.",
+        "from": "The Flash",
+        "from_who": "Clifford Devo"
+    },
+    {
+        "id": 308,
+        "hitokoto": "看看人间的苦难，听听人民的呐喊！",
+        "from": "悲惨世界",
+        "from_who": "《悲惨世界》音乐剧"
+    },
+    {
+        "id": 309,
+        "hitokoto": "Have you ever danced with devil in the pale moonligh?",
+        "from": "Batman(1989)",
+        "from_who": "The Joker (Jack Nicholson)"
+    },
+    {
+        "id": 310,
+        "hitokoto": "我会把历史欠你的都给你还回来，我要让褚嬴的名字传遍大江南北，让你成为真正的棋王！",
+        "from": "棋魂",
+        "from_who": "时光"
+    },
+    {
+        "id": 311,
+        "hitokoto": "你现在的气质里，藏着你走过的路，读过的书和爱过的人。",
+        "from": "卡萨布兰卡",
+        "from_who": "迈克尔·柯蒂茲"
+    },
+    {
+        "id": 312,
+        "hitokoto": "めまぐるしい景色の中,君だけが止まって見えた.",
+        "from": "グランドエスケープ",
+        "from_who": "野田洋次郎"
+    },
+    {
+        "id": 313,
+        "hitokoto": "我希望，你能见识到令你惊奇的事物；我希望，你能体验未曾体验的情感；我希望，你能遇见一些想法不同的人；我希望，你为你自己的人生感到骄傲。如果你发现自己还没做到，我希望，你有勇气，从头再来。",
+        "from": "返老还童",
+        "from_who": "本杰明"
+    },
+    {
+        "id": 314,
+        "hitokoto": "有些人沦为平庸浅薄，玉其外，而败絮其中。可不经意间，有一天你会遇到一个彩虹般绚丽的人，从此以后，其他人就不过是匆匆浮云。",
+        "from": "怦然心动",
+        "from_who": null
+    },
+    {
+        "id": 315,
+        "hitokoto": "厨房里有煮好的饭，另外我还买了几个杯子，我知道，用不了多久就都会被打破，所以我偷偷藏起了一个，到有一天你需要那个杯子的时候，就打一个电话给我，我会告诉你放在什么地方。",
+        "from": "旺角卡门",
+        "from_who": null
+    },
+    {
+        "id": 316,
+        "hitokoto": "我想有一天和你去旅行,去那没有去过的地方，没有行李,没有背包,不带电脑更不要手机,走一个地方停一个地方。在我心里最美好的就是和你一起老在路上,捕捉最后的流星,坐在最高的山顶上,听音乐,聊电影,吃东西....当日出越过山涧，我未老，你依然。",
+        "from": "飞屋环游记",
+        "from_who": null
+    },
+    {
+        "id": 317,
+        "hitokoto": "我希望在20出头的生命里，做一件到八十岁想起来都还会微笑的事。",
+        "from": "练习曲",
+        "from_who": "陈怀恩"
+    },
+    {
+        "id": 318,
+        "hitokoto": "我从出生那天起就是我自己，如果你不能理解，那是你的失败，不是我的。",
+        "from": "大鱼",
+        "from_who": "蒂姆·伯顿"
+    },
+    {
+        "id": 319,
+        "hitokoto": "我一直在等待你来拯救我的一生，曾经我也感动到一塌糊涂，挥洒热泪，但现实情况是，没有人能拯救一个抑郁症患者，你的医生不能，你的咨询师不能，你的恋人朋友家人更不能。",
+        "from": "暖暖内含光",
+        "from_who": null
+    },
+    {
+        "id": 320,
+        "hitokoto": "宇宙是蚂蚁的梦。",
+        "from": "the shivering truth",
+        "from_who": null
+    },
+    {
+        "id": 321,
+        "hitokoto": "机会的大门没有把手，自己无法打开，当有人替你打开大门时，你能否毫不犹豫地走进去。",
+        "from": "花牌情缘：结",
+        "from_who": "真岛太一"
+    },
+    {
+        "id": 322,
+        "hitokoto": "跟你在一起的时光都，很耀眼，因为天气好，因为天气不好，因为天气刚刚好，每一天，都很美好。",
+        "from": "孤单又灿烂的神：鬼怪",
+        "from_who": null
+    },
+    {
+        "id": 323,
+        "hitokoto": "时光会把你雕刻成你应有的样子。",
+        "from": "网剧棋魂",
+        "from_who": "时光"
+    },
+    {
+        "id": 324,
+        "hitokoto": "比起想念来，千年又何其长。比起相见来，千年又何其短。",
+        "from": "网剧棋魂",
+        "from_who": "褚嬴"
+    },
+    {
+        "id": 325,
+        "hitokoto": "Pretty things should be enjoyed.",
+        "from": "小妇人",
+        "from_who": "马奇太太"
+    },
+    {
+        "id": 326,
+        "hitokoto": "冬天之所以那么冷是为了告诉大家身边人的温暖有多重要。",
+        "from": "熔炉",
+        "from_who": "孔枝泳"
+    },
+    {
+        "id": 327,
+        "hitokoto": "为什么我眼睛一睁开，你就不是我的了。",
+        "from": "被偷走的那五年",
+        "from_who": "寂落白"
+    },
+    {
+        "id": 328,
+        "hitokoto": "人们宁愿去关心一个蹩脚电影演员的吃喝拉撒和鸡毛蒜皮，而不愿了解一个普通人波涛汹涌的内心世界。",
+        "from": "平凡的世界",
+        "from_who": "路遥"
+    },
+    {
+        "id": 329,
+        "hitokoto": "就算是堕落浪子，也能力挽狂澜。",
+        "from": "网剧棋魂",
+        "from_who": "方绪"
+    },
+    {
+        "id": 330,
+        "hitokoto": "如果你执意追逐我的幻影，迟早会被真正的我打败。",
+        "from": "棋魂",
+        "from_who": "时光"
+    },
+    {
+        "id": 331,
+        "hitokoto": "我眺望远方的山峰，却错过转弯的路口，蓦然回首，才发现你在等我，没离开过。",
+        "from": "没离开过",
+        "from_who": "楼南蔚"
+    },
+    {
+        "id": 332,
+        "hitokoto": "我寻找大海的尽头，却忽略蜿蜒的河流，当我逆水行舟，你在我左右，推着我走。",
+        "from": "没离开过",
+        "from_who": "楼南蔚"
+    },
+    {
+        "id": 333,
+        "hitokoto": "Control is Power.",
+        "from": "辛德勒的名单",
+        "from_who": "奥斯卡·辛德勒"
+    },
+    {
+        "id": 334,
+        "hitokoto": "这瓜多少钱一斤？",
+        "from": "征服",
+        "from_who": "刘华强"
+    },
+    {
+        "id": 335,
+        "hitokoto": "你呢，是这辈子没故事，想拥有一段故事，我呢，是故事太多，想给故事一个结局。",
+        "from": "飞驰认识",
+        "from_who": "韩寒"
+    },
+    {
+        "id": 336,
+        "hitokoto": "每一局棋，都象征着世间万物的运转规律。一招一式，变化无穷，它应该是自由的，我们也是自由的。",
+        "from": "网剧棋魂",
+        "from_who": "褚嬴"
+    },
+    {
+        "id": 337,
+        "hitokoto": "有的人，袖里能定乾坤；有的人，春风桃李，俯首为火种；有的人，浪子回头，成为星河里最亮的一颗。",
+        "from": "网剧棋魂",
+        "from_who": "褚嬴"
+    },
+    {
+        "id": 338,
+        "hitokoto": "当你真正想做成一件事情的时候，就连天地万物都会帮你。",
+        "from": "网剧棋魂",
+        "from_who": "褚嬴"
+    },
+    {
+        "id": 339,
+        "hitokoto": "有时候不能指望别人理解你的委屈，感同身受这个东西，这个世界上不存在。",
+        "from": "我在他乡挺好的",
+        "from_who": "南嘉"
+    },
+    {
+        "id": 340,
+        "hitokoto": "人们往往为了逃避一个错误而去犯另一个错误，既然很多错误无法回避，何必让悔恨埋葬你的人生呢。与其逃来逃去，还不如面对一个。",
+        "from": "爱情公寓",
+        "from_who": "吕子乔"
+    },
+    {
+        "id": 341,
+        "hitokoto": "她轻轻唱起来宛如天籁，让我的梦似翅膀心似海。",
+        "from": "天边外",
+        "from_who": "关山"
+    },
+    {
+        "id": 342,
+        "hitokoto": "When all is lost, then all is found.",
+        "from": "Frozen II",
+        "from_who": null
+    },
+    {
+        "id": 343,
+        "hitokoto": "隔岸无旧情，姑苏有钟声。",
+        "from": "地尽头",
+        "from_who": "林夕"
+    },
+    {
+        "id": 344,
+        "hitokoto": "这短短的一生我们终将会失去，你不妨大胆一点，爱一个人，攀一座山，追一个梦。",
+        "from": "大鱼海棠",
+        "from_who": null
+    },
+    {
+        "id": 345,
+        "hitokoto": "爱情不是一个拼图，是一个圆碰到另一个圆。",
+        "from": "非正式会谈",
+        "from_who": "陈铭"
+    },
+    {
+        "id": 346,
+        "hitokoto": "哪一场仗不难打，越难打，就更要打。",
+        "from": "长津湖之水门桥",
+        "from_who": "余从戎"
+    },
+    {
+        "id": 347,
+        "hitokoto": "其实我们无处可去，身上背负着伤痛，没有救赎，没有解脱，可这才是人生啊。",
+        "from": "海边的曼彻斯特",
+        "from_who": "肯尼斯·罗纳根"
+    },
+    {
+        "id": 348,
+        "hitokoto": "一切已失去，不可以再追。",
+        "from": "梦伴",
+        "from_who": "梅艳芳"
+    },
+    {
+        "id": 349,
+        "hitokoto": "所谓宿命，其实都是最好的安排。",
+        "from": "将夜",
+        "from_who": null
+    },
+    {
+        "id": 350,
+        "hitokoto": "其实失去，只是痛那么一下而已；如果不这么痛一下，怎么会知道这痛其实不算什么。",
+        "from": "铠甲勇士",
+        "from_who": "乔奢费"
+    },
+    {
+        "id": 351,
+        "hitokoto": "让子弹飞一会儿！",
+        "from": "让子弹飞",
+        "from_who": "张麻子"
+    },
+    {
+        "id": 352,
+        "hitokoto": "人是万灵之长，智慧的差异是很小的，经历本身也是文化。",
+        "from": "牧马人",
+        "from_who": null
+    },
+    {
+        "id": 353,
+        "hitokoto": "当你足够期待失望时，你就永远不会失望。",
+        "from": "蜘蛛侠：英雄无归",
+        "from_who": "MJ"
+    },
+    {
+        "id": 354,
+        "hitokoto": "老子就是一门炮。",
+        "from": "长津湖之水门桥",
+        "from_who": "伍万里"
+    },
+    {
+        "id": 355,
+        "hitokoto": "It is our choices that show what we truly are, far more than our abilities.",
+        "from": "哈利波特",
+        "from_who": "J.K. Rowling"
+    },
+    {
+        "id": 356,
+        "hitokoto": "阶砖不会拒绝磨蚀，窗花不可幽禁落霞。",
+        "from": "喜帖街",
+        "from_who": "黄伟文"
+    },
+    {
+        "id": 357,
+        "hitokoto": "经过上千年的修炼，你学到的就是这个吗？",
+        "from": "神龙许愿",
+        "from_who": "神龙许愿"
+    },
+    {
+        "id": 358,
+        "hitokoto": "恋爱本质不是走向婚姻，而是探究最真实的自己。",
+        "from": "青春杂货铺",
+        "from_who": null
+    },
+    {
+        "id": 359,
+        "hitokoto": "会不会我们的青春，只是一个关于追求更好的途中，却失去最好的故事。",
+        "from": "你值得更好的",
+        "from_who": "佚名"
+    },
+    {
+        "id": 360,
+        "hitokoto": "世上无魔便无佛，如果没有失败，他们怎么会珍惜胜利的感觉呢，赢一场跟输一场是一样的，都是他们人生轨迹上的重要转折点。",
+        "from": "爱情公寓",
+        "from_who": "曾小贤"
+    },
+    {
+        "id": 361,
+        "hitokoto": "你是故意找茬是不是？",
+        "from": "征服",
+        "from_who": "华强"
+    },
+    {
+        "id": 362,
+        "hitokoto": "我没有梦想，但我可以守护别人的梦想！",
+        "from": "假面骑士faiz",
+        "from_who": "乾巧"
+    },
+    {
+        "id": 363,
+        "hitokoto": "极霸矛，湘阿痕响啊。",
+        "from": "中华inm",
+        "from_who": "王爷"
+    },
+    {
+        "id": 364,
+        "hitokoto": "我只是个路过的假面骑士。",
+        "from": "假面骑士decade",
+        "from_who": "门矢士"
+    },
+    {
+        "id": 365,
+        "hitokoto": "无聊的并不是时间，而是平庸无奇的我。",
+        "from": "樱花庄的宠物女孩",
+        "from_who": "樱花庄的宠物女孩​"
+    },
+    {
+        "id": 366,
+        "hitokoto": "生活，就是生出来活下去，其它都是浮云，活的潇洒一点。",
+        "from": "爱情公寓",
+        "from_who": "吕小布"
+    },
+    {
+        "id": 367,
+        "hitokoto": "我的人生没有彩排，每天都是现场直播。",
+        "from": "爱情公寓",
+        "from_who": "吕小布"
+    },
+    {
+        "id": 368,
+        "hitokoto": "人们往往用逃避来解决问题，可我们要承认，每个硬币都有它的另一面。",
+        "from": "爱情公寓",
+        "from_who": "唐悠悠"
+    },
+    {
+        "id": 369,
+        "hitokoto": "我觉得这个世上这么多人，可是没有人想听我讲话。",
+        "from": "后会无期",
+        "from_who": null
+    },
+    {
+        "id": 370,
+        "hitokoto": "记忆是痛苦的根源。",
+        "from": "功夫",
+        "from_who": "周星驰"
+    },
+    {
+        "id": 371,
+        "hitokoto": "这两个过早的品尝了人世沧桑的孩子一见如故。",
+        "from": "神奇动物在哪里",
+        "from_who": "J.K.罗琳"
+    },
+    {
+        "id": 372,
+        "hitokoto": "本杰明，我们命中注定要失去所爱之人， 不然我们怎么知道，他们在我们的生命中有多重要？",
+        "from": "返老还童",
+        "from_who": null
+    },
+    {
+        "id": 373,
+        "hitokoto": "我要打倒最可怕的邪恶，难免要撕去虚假正义的薄薄糖衣。",
+        "from": "铠甲勇士",
+        "from_who": "路法"
+    },
+    {
+        "id": 374,
+        "hitokoto": "什么叫正义，正义就是那些赢家所说的冠冕堂皇的话，如果你是个输家，就没什么正义！",
+        "from": "铠甲勇士",
+        "from_who": "路法"
+    },
+    {
+        "id": 375,
+        "hitokoto": "智慧需要沉淀，积累才能够饱满。",
+        "from": "铠甲勇士",
+        "from_who": "路法"
+    },
+    {
+        "id": 376,
+        "hitokoto": "自满必定失败，骄傲必定后悔。",
+        "from": "铠甲勇士",
+        "from_who": "路法"
+    },
+    {
+        "id": 377,
+        "hitokoto": "亲近你的朋友，但更要亲近你的敌人。",
+        "from": "教父2",
+        "from_who": null
+    },
+    {
+        "id": 378,
+        "hitokoto": "没有值不值得，只有愿不愿意。",
+        "from": "择天记",
+        "from_who": "徐有容"
+    },
+    {
+        "id": 379,
+        "hitokoto": "如果你的人生只有柠檬，不妨配盐喝点龙舌兰。",
+        "from": "我是谁：没有绝对安全的系统",
+        "from_who": null
+    },
+    {
+        "id": 380,
+        "hitokoto": "世界上有太多孤独的人害怕先踏出第一步。",
+        "from": "绿皮书",
+        "from_who": null
+    },
+    {
+        "id": 381,
+        "hitokoto": "人类把最精密的保密系统，都用在了自我毁灭上。",
+        "from": "流浪地球2",
+        "from_who": null
+    },
+    {
+        "id": 382,
+        "hitokoto": "我相信，人类的勇气可以跨越时间，跨越每一个历史，当下和未来；我相信 ，我们的人一定可以完成任务，无论虚实，不计存亡。",
+        "from": "流浪地球2",
+        "from_who": null
+    },
+    {
+        "id": 383,
+        "hitokoto": "沉湎于虚幻的梦想，而忘记现实的生活，这是毫无意义的，千万记住。",
+        "from": "哈利•波特与魔法石",
+        "from_who": "阿布思•邓布利多"
+    },
+    {
+        "id": 384,
+        "hitokoto": "叶底藏花一度，梦里踏雪几回。",
+        "from": "一代宗师",
+        "from_who": null
+    },
+    {
+        "id": 385,
+        "hitokoto": "不气盛能叫年轻人吗？",
+        "from": "征服",
+        "from_who": "刘华强"
+    },
+    {
+        "id": 386,
+        "hitokoto": "一个女孩知道了怎么去模仿女人，并不代表她真的准备好做女人了。",
+        "from": "水果硬糖",
+        "from_who": "海莉"
+    },
+    {
+        "id": 387,
+        "hitokoto": "死亡不是生命的终点，遗忘才是。",
+        "from": "寻梦环游记",
+        "from_who": null
+    },
+    {
+        "id": 388,
+        "hitokoto": "A gentleman's quote is a gentleman's word.",
+        "from": "Henry Golding",
+        "from_who": "Dry Eye"
+    },
+    {
+        "id": 389,
+        "hitokoto": "服下红色药丸吧，那是自由的象征。",
+        "from": "黑客帝国",
+        "from_who": null
+    },
+    {
+        "id": 390,
+        "hitokoto": "结局是什么，我们自己决定！",
+        "from": "明日战记",
+        "from_who": "郑重生"
+    },
+    {
+        "id": 391,
+        "hitokoto": "没有人的文明毫无意义。",
+        "from": "流浪地球2",
+        "from_who": "马兆"
+    },
+    {
+        "id": 392,
+        "hitokoto": "为难当前，唯有责任。",
+        "from": "流浪地球2",
+        "from_who": "周喆直"
+    },
+    {
+        "id": 393,
+        "hitokoto": "远离亲人，我很遗憾，但这是我不得不做的事情。",
+        "from": "流浪地球2",
+        "from_who": "刘培强"
+    },
+    {
+        "id": 394,
+        "hitokoto": "我信，我的孩子会信，孩子的孩子会信，我相信会再次看到蓝天，鲜花挂满枝头。",
+        "from": "流浪地球2",
+        "from_who": "周喆直"
+    },
+    {
+        "id": 395,
+        "hitokoto": "你想走，就请立马抽刀，爱一笔勾销。",
+        "from": "缘分一道桥",
+        "from_who": "方文山"
+    },
+    {
+        "id": 396,
+        "hitokoto": "一万五千年前，一根愈合的人类股骨，标志着人类文明的诞生；一万五千年后，当太阳系将不复存在，人类的团结与勇气将延续文明的火种。",
+        "from": "流浪地球2",
+        "from_who": null
+    },
+    {
+        "id": 397,
+        "hitokoto": "闪烁的灯光是我在异世界大声地呼唤你。",
+        "from": "怪奇物语",
+        "from_who": null
+    },
+    {
+        "id": 398,
+        "hitokoto": "风声细碎烛影乱，相思浓时情转淡。",
+        "from": "月中天",
+        "from_who": "陈涛"
+    },
+    {
+        "id": 399,
+        "hitokoto": "希望你今后的每一次笑，都是真心的。",
+        "from": "深海",
+        "from_who": "南河"
+    },
+    {
+        "id": 400,
+        "hitokoto": "生活和漫画里面的那种热血还是不一样的。",
+        "from": "影视飓风",
+        "from_who": "Tim"
+    },
+    {
+        "id": 401,
+        "hitokoto": "贾维斯，在我们学会走之前，要先学会跑！",
+        "from": "钢铁侠",
+        "from_who": "托尼·斯塔克"
+    },
+    {
+        "id": 402,
+        "hitokoto": "人生总是那么痛苦吗?还是只有小时候是这样?",
+        "from": "这个杀手不太冷",
+        "from_who": "玛蒂达"
+    },
+    {
+        "id": 403,
+        "hitokoto": "我会和命运战斗，并且战胜给你看！",
+        "from": "假面骑士·剑",
+        "from_who": "剑崎一真"
+    },
+    {
+        "id": 404,
+        "hitokoto": "总有一天你会笑着说出曾经令你痛苦的事情。",
+        "from": "肖申克的救赎",
+        "from_who": null
+    },
+    {
+        "id": 405,
+        "hitokoto": "众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。",
+        "from": "青玉案·元夕",
+        "from_who": null
+    },
+    {
+        "id": 406,
+        "hitokoto": "渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。",
+        "from": "滕王阁序",
+        "from_who": null
+    },
+    {
+        "id": 407,
+        "hitokoto": "参差荇菜，左右采之。窈窕淑女，琴瑟友之。",
+        "from": "关雎",
+        "from_who": null
+    },
+    {
+        "id": 408,
+        "hitokoto": "两种风流，一家制作。雪花全似梅花萼。细看不是雪无香，天风吹得香零落。虽是一般，惟高一着。雪花不似梅花薄。梅花散彩向空山，雪花随意穿帘幕。",
+        "from": "踏莎行·雪中看梅花",
+        "from_who": "王旭"
+    },
+    {
+        "id": 409,
+        "hitokoto": "两情若是久长时，又岂在朝朝暮暮？",
+        "from": "鹊桥仙·纤云弄巧",
+        "from_who": "秦观"
+    },
+    {
+        "id": 410,
+        "hitokoto": "嗟叹红颜泪、英雄殁，人世苦多。山河永寂、怎堪欢颜。",
+        "from": "南唐旧梦：山河永寂",
+        "from_who": "一寒呵"
+    },
+    {
+        "id": 411,
+        "hitokoto": "茅檐低小，溪上青青草。醉里吴音相媚好，白发谁家翁媪？",
+        "from": "清平乐·村居",
+        "from_who": "辛弃疾"
+    },
+    {
+        "id": 412,
+        "hitokoto": "瞿塘嘈嘈十二滩，此中道路古来难。长恨人心不如水，等闲平地起波澜。\r\n",
+        "from": "竹枝其七",
+        "from_who": "刘禹锡"
+    },
+    {
+        "id": 413,
+        "hitokoto": "醉后不知天在水，满船清梦压星河。",
+        "from": "题龙阳县青草湖",
+        "from_who": "唐温如"
+    },
+    {
+        "id": 414,
+        "hitokoto": "金风玉露一相逢，便胜却、人间无数。",
+        "from": "鹊桥仙·纤云弄巧",
+        "from_who": "秦观"
+    },
+    {
+        "id": 415,
+        "hitokoto": "人生得意须尽欢，莫让金樽空对月。",
+        "from": "将进酒",
+        "from_who": "李白"
+    },
+    {
+        "id": 416,
+        "hitokoto": "莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
+        "from": "定风波·莫听穿林打叶声",
+        "from_who": "苏轼"
+    },
+    {
+        "id": 417,
+        "hitokoto": "我曾踏月而来，只因你在山中。",
+        "from": "山月",
+        "from_who": "席慕蓉"
+    },
+    {
+        "id": 418,
+        "hitokoto": "上古有大椿者，以八千岁为春，八千岁为秋。",
+        "from": "逍遥游",
+        "from_who": "庄子"
+    },
+    {
+        "id": 419,
+        "hitokoto": "直道相思了无益，未妨惆怅是清狂。",
+        "from": "无题",
+        "from_who": "李商隐"
+    },
+    {
+        "id": 420,
+        "hitokoto": "南风知我意，吹梦到西洲。",
+        "from": "西洲曲",
+        "from_who": "南朝乐府民歌"
+    },
+    {
+        "id": 421,
+        "hitokoto": "报君黄金台上意，提携玉龙为君死。",
+        "from": "雁门太守行",
+        "from_who": "李贺"
+    },
+    {
+        "id": 422,
+        "hitokoto": "雁字回时，月满西楼，花自飘零水自流。一种相思，两处闲愁。此情无计可消除，才下眉头，却上心头。",
+        "from": "一剪梅·红藕香残玉簟秋",
+        "from_who": "李清照"
+    },
+    {
+        "id": 423,
+        "hitokoto": "东隅已逝，桑榆非晚。",
+        "from": "文学",
+        "from_who": "王勃"
+    },
+    {
+        "id": 424,
+        "hitokoto": "三尺书生，一介微命。",
+        "from": "滕王阁序",
+        "from_who": "王勃"
+    },
+    {
+        "id": 425,
+        "hitokoto": "醉后不知天在水，满船清梦压星河。",
+        "from": "题龙阳县青草湖",
+        "from_who": "唐温如"
+    },
+    {
+        "id": 426,
+        "hitokoto": "风花之潇洒，雪月之空清，唯静者为之主；水木之荣枯，竹石之消长，独闲者操其权。",
+        "from": "菜根谭",
+        "from_who": "洪应明"
+    },
+    {
+        "id": 427,
+        "hitokoto": "糜鹿成群，虎豹避之；飞鸟成列，鹰鹫不击。",
+        "from": "说苑",
+        "from_who": "刘向"
+    },
+    {
+        "id": 428,
+        "hitokoto": "醉后不知天在水，满船清梦压星河。",
+        "from": "题龙阳县青草湖",
+        "from_who": "唐温如"
+    },
+    {
+        "id": 429,
+        "hitokoto": "为众人抱薪者，不可使其冻毙于风雪。",
+        "from": "微博",
+        "from_who": "慕容雪村"
+    },
+    {
+        "id": 430,
+        "hitokoto": "桃李春风一杯酒，江湖夜雨十年灯。",
+        "from": "寄黄几复",
+        "from_who": "黄庭坚"
+    },
+    {
+        "id": 431,
+        "hitokoto": "且将新火试新茶，诗酒趁年华",
+        "from": "望江南·超然台作",
+        "from_who": "苏轼"
+    },
+    {
+        "id": 432,
+        "hitokoto": "髣髴兮若轻云之蔽月，飘飖兮若流风之回雪。",
+        "from": "洛神赋",
+        "from_who": "曹植"
+    },
+    {
+        "id": 433,
+        "hitokoto": "恨人神之道殊兮，怨盛年之莫当。",
+        "from": "洛神赋",
+        "from_who": "曹植"
+    },
+    {
+        "id": 434,
+        "hitokoto": "高山仰止，景行行止。",
+        "from": "诗经",
+        "from_who": null
+    },
+    {
+        "id": 435,
+        "hitokoto": "忽来夜雨未绸缪，挑灯孤影欲还休。",
+        "from": "原创",
+        "from_who": null
+    },
+    {
+        "id": 436,
+        "hitokoto": "但屈指西风几时来，又不道流年暗中偷换。",
+        "from": "洞仙歌·冰肌玉骨",
+        "from_who": null
+    },
+    {
+        "id": 437,
+        "hitokoto": "抛得开手里玩具，先懂得好好进睡。",
+        "from": "给自己的情书",
+        "from_who": null
+    },
+    {
+        "id": 438,
+        "hitokoto": "海内存知己，天涯若比邻。",
+        "from": "杜少府之任蜀州",
+        "from_who": "王勃"
+    },
+    {
+        "id": 439,
+        "hitokoto": "锦官红妆否？不见故人裙。",
+        "from": "无题",
+        "from_who": "佚名"
+    },
+    {
+        "id": 440,
+        "hitokoto": "人皆荒醉，但唱观音。",
+        "from": "唐大和上东征传",
+        "from_who": "淡海三"
+    },
+    {
+        "id": 441,
+        "hitokoto": "今夜不知何处宿，平沙万里绝人烟。",
+        "from": "碛中作",
+        "from_who": "岑参"
+    },
+    {
+        "id": 442,
+        "hitokoto": "人生若只如初见，何事秋风悲画扇。",
+        "from": "木兰花·拟古决绝词柬友",
+        "from_who": "纳兰性德"
+    },
+    {
+        "id": 443,
+        "hitokoto": "山有木兮木有枝，心悦君兮君不知。",
+        "from": "越人歌",
+        "from_who": "佚名"
+    },
+    {
+        "id": 444,
+        "hitokoto": "人生若只如初见，何事秋风悲画扇。",
+        "from": "木兰词·拟古决绝词柬友",
+        "from_who": "纳兰性德"
+    },
+    {
+        "id": 445,
+        "hitokoto": "曾经沧海难为水，除却巫山不是云。",
+        "from": "离思五首·其四",
+        "from_who": "元稹"
+    },
+    {
+        "id": 446,
+        "hitokoto": "人生如逆旅，我亦是行人。",
+        "from": "临江仙·送钱穆父",
+        "from_who": "苏轼"
+    },
+    {
+        "id": 447,
+        "hitokoto": "十年生死两茫茫，不思量，自难忘。",
+        "from": "江城子·乙卯正月二十日夜记梦",
+        "from_who": "苏轼"
+    },
+    {
+        "id": 448,
+        "hitokoto": "玲珑骰子安红豆，入骨相思知不知。",
+        "from": "南歌子词二首 / 新添声杨柳枝词",
+        "from_who": "温庭筠"
+    },
+    {
+        "id": 449,
+        "hitokoto": "只愿君心似我心，定不负相思意。",
+        "from": "卜算子·我住长江头",
+        "from_who": "李之仪"
+    },
+    {
+        "id": 450,
+        "hitokoto": "入我相思门，知我相思苦。",
+        "from": "三五七言 / 秋风词",
+        "from_who": "李白"
+    },
+    {
+        "id": 451,
+        "hitokoto": "雨打梨花深闭门，误了青春，忘了青春。",
+        "from": "一剪梅·雨打梨花深闭门",
+        "from_who": "唐寅"
+    },
+    {
+        "id": 452,
+        "hitokoto": "平生不会相思，才会相思，便害相思。",
+        "from": "折桂令·春情",
+        "from_who": "徐再思"
+    },
+    {
+        "id": 453,
+        "hitokoto": "山无陵，江水为竭。冬雷震震，夏雨雪。天地合，乃敢与君绝。",
+        "from": "上邪",
+        "from_who": "佚名"
+    },
+    {
+        "id": 454,
+        "hitokoto": "两情若是久长时，又岂在朝朝暮暮。",
+        "from": "鹊桥仙·纤云弄巧",
+        "from_who": "秦观"
+    },
+    {
+        "id": 455,
+        "hitokoto": "愿得一心人，白头不相离。",
+        "from": "白头吟",
+        "from_who": "卓文君"
+    },
+    {
+        "id": 456,
+        "hitokoto": "去年今日此门中，人面桃花相映红。",
+        "from": "题都城南庄",
+        "from_who": "崔护"
+    },
+    {
+        "id": 457,
+        "hitokoto": "春宵一刻值千金，花有清香月有阴。",
+        "from": "春宵·春宵一刻值千金",
+        "from_who": "苏轼"
+    },
+    {
+        "id": 458,
+        "hitokoto": "醉后不知天在水，满船清梦压星河。",
+        "from": "题龙阳县青草湖",
+        "from_who": "唐温如"
+    },
+    {
+        "id": 459,
+        "hitokoto": "春风得意马蹄疾，一日看尽长安花。",
+        "from": "登科后",
+        "from_who": "孟郊"
+    },
+    {
+        "id": 460,
+        "hitokoto": "人生自是有情痴，此恨不关风与月。",
+        "from": "玉楼春·尊前拟把归期说",
+        "from_who": "欧阳修"
+    },
+    {
+        "id": 461,
+        "hitokoto": "花自飘零水自流。一种相思，两处闲愁。",
+        "from": "一剪梅·红藕香残玉簟秋",
+        "from_who": "李清照"
+    },
+    {
+        "id": 462,
+        "hitokoto": "少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。",
+        "from": "丑奴儿·书博山道中壁",
+        "from_who": null
+    },
+    {
+        "id": 463,
+        "hitokoto": "一日不见兮，思之如狂。",
+        "from": "凤求凰 / 琴歌",
+        "from_who": "司马相如"
+    },
+    {
+        "id": 464,
+        "hitokoto": "身无彩凤双飞翼，心有灵犀一点通。",
+        "from": "无题·昨夜星辰昨夜风",
+        "from_who": "李商隐"
+    },
+    {
+        "id": 465,
+        "hitokoto": "世间无限丹青手，一片伤心画不成。",
+        "from": "金陵晚望",
+        "from_who": "高蟾"
+    },
+    {
+        "id": 466,
+        "hitokoto": "云想衣裳花想容，春风拂槛露华浓。",
+        "from": "清平调·其一",
+        "from_who": "李白"
+    },
+    {
+        "id": 467,
+        "hitokoto": "问世间，情为何物，直教生死相许？",
+        "from": "摸鱼儿·雁丘词 / 迈陂塘",
+        "from_who": "元好问"
+    },
+    {
+        "id": 468,
+        "hitokoto": "一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。",
+        "from": "水仙子·夜雨",
+        "from_who": "徐再思"
+    },
+    {
+        "id": 469,
+        "hitokoto": "滚滚长江东逝水，浪花淘尽英雄。",
+        "from": "临江仙·滚滚长江东逝水",
+        "from_who": "杨慎"
+    },
+    {
+        "id": 470,
+        "hitokoto": "林花谢了春红，太匆匆。无奈朝来寒雨，晚来风。",
+        "from": "相见欢·林花谢了春红",
+        "from_who": "李煜"
+    },
+    {
+        "id": 471,
+        "hitokoto": "君埋泉下泥销骨，我寄人间雪满头。",
+        "from": "梦微之",
+        "from_who": "白居易"
+    },
+    {
+        "id": 472,
+        "hitokoto": "休对故人思故国，且将新火试新茶。诗酒趁年华。",
+        "from": "望江南·超然台作",
+        "from_who": "苏轼"
+    },
+    {
+        "id": 473,
+        "hitokoto": "一往情深深几许？深山夕照深秋雨。",
+        "from": "蝶恋花·出塞",
+        "from_who": "纳兰性德"
+    },
+    {
+        "id": 474,
+        "hitokoto": "执子之手，与子偕老。",
+        "from": "击鼓",
+        "from_who": "佚名"
+    },
+    {
+        "id": 475,
+        "hitokoto": "自在飞花轻似梦，无边丝雨细如愁。",
+        "from": "浣溪沙·漠漠轻寒上小楼",
+        "from_who": "秦观"
+    },
+    {
+        "id": 476,
+        "hitokoto": "菩提本无树，明镜亦非台。",
+        "from": "菩提偈",
+        "from_who": "惠能"
+    },
+    {
+        "id": 477,
+        "hitokoto": "一生大笑能几回，斗酒相逢须醉倒。",
+        "from": "凉州馆中与诸判官夜集",
+        "from_who": "岑参"
+    },
+    {
+        "id": 478,
+        "hitokoto": "此情可待成追忆，只是当时已惘然。",
+        "from": "锦瑟",
+        "from_who": "李商隐"
+    },
+    {
+        "id": 479,
+        "hitokoto": "人面不知何处去，桃花依旧笑春风。",
+        "from": "题都城南庄",
+        "from_who": "崔护"
+    },
+    {
+        "id": 480,
+        "hitokoto": "抽刀断水水更流，举杯消愁愁更愁。",
+        "from": "宣州谢脁楼饯别校书叔云 / 陪侍御叔华登楼歌",
+        "from_who": "李白"
+    },
+    {
+        "id": 481,
+        "hitokoto": "昨夜西风凋碧树，独上高楼，望尽天涯路。",
+        "from": "蝶恋花·槛菊愁烟兰泣露",
+        "from_who": "晏殊"
+    },
+    {
+        "id": 482,
+        "hitokoto": "疏影横斜水清浅，暗香浮动月黄昏。",
+        "from": "山园小梅·其一",
+        "from_who": "林逋"
+    },
+    {
+        "id": 483,
+        "hitokoto": "仰天大笑出门去，我辈岂是蓬蒿人。",
+        "from": "南陵别儿童入京",
+        "from_who": "李白"
+    },
+    {
+        "id": 484,
+        "hitokoto": "思悠悠，恨悠悠，恨到归时方始休。",
+        "from": "长相思·汴水流",
+        "from_who": "白居易"
+    },
+    {
+        "id": 485,
+        "hitokoto": "似此星辰非昨夜，为谁风露立中宵。",
+        "from": "绮怀",
+        "from_who": "黄景仁"
+    },
+    {
+        "id": 486,
+        "hitokoto": "行到水穷处，坐看云起时。",
+        "from": "终南别业 / 初至山中 / 入山寄城中故人",
+        "from_who": "王维"
+    },
+    {
+        "id": 487,
+        "hitokoto": "近水楼台先得月，向阳花木易为春。",
+        "from": "断句",
+        "from_who": "苏麟"
+    },
+    {
+        "id": 488,
+        "hitokoto": "浮云一别后，流水十年间。",
+        "from": "淮上喜会梁川故人 / 淮上喜会梁州故人",
+        "from_who": "韦应物"
+    },
+    {
+        "id": 489,
+        "hitokoto": "桃李春风一杯酒，江湖夜雨十年灯。",
+        "from": "寄黄几复",
+        "from_who": "黄庭坚"
+    },
+    {
+        "id": 490,
+        "hitokoto": "沾衣欲湿杏花雨，吹面不寒杨柳风。",
+        "from": "绝句",
+        "from_who": "志南"
+    },
+    {
+        "id": 491,
+        "hitokoto": "若是前生未有缘，待重结、来生愿。",
+        "from": "卜算子·答施",
+        "from_who": "乐婉"
+    },
+    {
+        "id": 492,
+        "hitokoto": "时光只解催人老，不信多情，长恨离亭，泪滴春衫酒易醒。",
+        "from": "采桑子·时光只解催人老",
+        "from_who": "晏殊"
+    },
+    {
+        "id": 493,
+        "hitokoto": "取次花丛懒回顾，半缘修道半缘君。",
+        "from": "离思五首·其四",
+        "from_who": "元稹"
+    },
+    {
+        "id": 494,
+        "hitokoto": "溪云初起日沉阁，山雨欲来风满楼。",
+        "from": "咸阳城东楼 / 咸阳城西楼晚眺 / 西门",
+        "from_who": "许浑"
+    },
+    {
+        "id": 495,
+        "hitokoto": "晓看天色暮看云，行也思君，坐也思君。",
+        "from": "一剪梅·雨打梨花深闭门",
+        "from_who": "唐寅"
+    },
+    {
+        "id": 496,
+        "hitokoto": "今人不见古时月，今月曾经照古人。",
+        "from": "把酒问月·故人贾淳令予问之",
+        "from_who": "李白"
+    },
+    {
+        "id": 497,
+        "hitokoto": "夜月一帘幽梦，春风十里柔情。",
+        "from": "八六子·倚危亭",
+        "from_who": "秦观"
+    },
+    {
+        "id": 498,
+        "hitokoto": "落花人独立，微雨燕双飞。",
+        "from": "临江仙·梦后楼台高锁",
+        "from_who": "晏几道"
+    },
+    {
+        "id": 499,
+        "hitokoto": "劝君莫惜金缕衣，劝君惜取少年时。",
+        "from": "金缕衣",
+        "from_who": "杜秋娘"
+    },
+    {
+        "id": 500,
+        "hitokoto": "黄沙百战穿金甲，不破楼兰终不还。",
+        "from": "从军行七首·其四",
+        "from_who": "王昌龄"
+    },
+    {
+        "id": 501,
+        "hitokoto": "红酥手，黄縢酒，满城春色宫墙柳。",
+        "from": "钗头凤·红酥手",
+        "from_who": "陆游"
+    },
+    {
+        "id": 502,
+        "hitokoto": "凤凰台上凤凰游，凤去台空江自流。",
+        "from": "登金陵凤凰台",
+        "from_who": "李白"
+    },
+    {
+        "id": 503,
+        "hitokoto": "还君明珠双泪垂，恨不相逢未嫁时。",
+        "from": "节妇吟·寄东平李司空师道",
+        "from_who": "张籍"
+    },
+    {
+        "id": 504,
+        "hitokoto": "宁可枝头抱香死，何曾吹落北风中。",
+        "from": "画菊",
+        "from_who": "郑思肖"
+    },
+    {
+        "id": 505,
+        "hitokoto": "问君能有几多愁？恰似一江春水向东流。",
+        "from": "虞美人·春花秋月何时了",
+        "from_who": "李煜"
+    },
+    {
+        "id": 506,
+        "hitokoto": "怕相思，已相思，轮到相思没处辞，眉间露一丝。",
+        "from": "长相思·折花枝",
+        "from_who": "俞彦"
+    },
+    {
+        "id": 507,
+        "hitokoto": "空山新雨后，天气晚来秋。",
+        "from": "山居秋暝",
+        "from_who": "王维"
+    },
+    {
+        "id": 508,
+        "hitokoto": "宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒。",
+        "from": "菜根谭·概论",
+        "from_who": null
+    },
+    {
+        "id": 509,
+        "hitokoto": "天涯地角有穷时，只有相思无尽处。",
+        "from": "玉楼春·春恨",
+        "from_who": "晏殊"
+    },
+    {
+        "id": 510,
+        "hitokoto": "直道相思了无益，未妨惆怅是清狂。",
+        "from": "无题·重帏深下莫愁堂",
+        "from_who": "李商隐"
+    },
+    {
+        "id": 511,
+        "hitokoto": "一骑红尘妃子笑，无人知是荔枝来。",
+        "from": "过华清宫绝句三首",
+        "from_who": "杜牧"
+    },
+    {
+        "id": 512,
+        "hitokoto": "小楼一夜听春雨，深巷明朝卖杏花。",
+        "from": "临安春雨初霁",
+        "from_who": "陆游"
+    },
+    {
+        "id": 513,
+        "hitokoto": "月上柳梢头，人约黄昏后。",
+        "from": "生查子·元夕",
+        "from_who": "欧阳修"
+    },
+    {
+        "id": 514,
+        "hitokoto": "人言落日是天涯，望极天涯不见家。",
+        "from": "乡思",
+        "from_who": "李觏"
+    },
+    {
+        "id": 515,
+        "hitokoto": "男儿何不带吴钩，收取关山五十州。",
+        "from": "南园十三首·其五",
+        "from_who": "李贺"
+    },
+    {
+        "id": 516,
+        "hitokoto": "桃之夭夭，灼灼其华。",
+        "from": "诗经·周南·桃夭",
+        "from_who": null
+    },
+    {
+        "id": 517,
+        "hitokoto": "待到秋来九月八，我花开后百花杀。",
+        "from": "不第后赋菊",
+        "from_who": "黄巢"
+    },
+    {
+        "id": 518,
+        "hitokoto": "二十四桥明月夜，玉人何处教吹箫？",
+        "from": "寄扬州韩绰判官",
+        "from_who": "杜牧"
+    },
+    {
+        "id": 519,
+        "hitokoto": "毋意，毋必，毋固，毋我。",
+        "from": "论语·子罕篇",
+        "from_who": null
+    },
+    {
+        "id": 520,
+        "hitokoto": "枯藤老树昏鸦，小桥流水人家，古道西风瘦马。",
+        "from": "天净沙·秋思",
+        "from_who": "马致远"
+    },
+    {
+        "id": 521,
+        "hitokoto": "寂寞空庭春欲晚，梨花满地不开门。",
+        "from": "春怨",
+        "from_who": "刘方平"
+    },
+    {
+        "id": 522,
+        "hitokoto": "被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。",
+        "from": "浣溪沙·谁念西风独自凉",
+        "from_who": "纳兰性德"
+    },
+    {
+        "id": 523,
+        "hitokoto": "不经一番寒彻骨，怎得梅花扑鼻香。",
+        "from": "上堂开示颂",
+        "from_who": "黄蘖禅师"
+    },
+    {
+        "id": 524,
+        "hitokoto": "青山依旧在，几度夕阳红。",
+        "from": "临江仙·滚滚长江东逝水",
+        "from_who": "杨慎"
+    },
+    {
+        "id": 525,
+        "hitokoto": "海上生明月，天涯共此时。",
+        "from": "望月怀远",
+        "from_who": "张九龄"
+    },
+    {
+        "id": 526,
+        "hitokoto": "当年不肯嫁春风，无端却被秋风误。",
+        "from": "芳心苦·杨柳回塘",
+        "from_who": "贺铸"
+    },
+    {
+        "id": 527,
+        "hitokoto": "纸上得来终觉浅，绝知此事要躬行。",
+        "from": "冬夜读书示子聿",
+        "from_who": "陆游"
+    },
+    {
+        "id": 528,
+        "hitokoto": "东风夜放花千树。更吹落、星如雨。",
+        "from": "青玉案·元夕",
+        "from_who": "辛弃疾"
+    },
+    {
+        "id": 529,
+        "hitokoto": "时人不识凌云木，直待凌云始道高。",
+        "from": "小松",
+        "from_who": "杜荀鹤"
+    },
+    {
+        "id": 530,
+        "hitokoto": "人间四月芳菲尽，山寺桃花始盛开。",
+        "from": "大林寺桃花",
+        "from_who": "白居易"
+    },
+    {
+        "id": 531,
+        "hitokoto": "泪眼问花花不语，乱红飞过秋千去。",
+        "from": "蝶恋花·庭院深深深几许",
+        "from_who": "欧阳修"
+    },
+    {
+        "id": 532,
+        "hitokoto": "试问岭南应不好，却道：此心安处是吾乡。",
+        "from": "少年游·南海归赠王定国侍人寓娘",
+        "from_who": "苏轼"
+    },
+    {
+        "id": 533,
+        "hitokoto": "世事漫随流水，算来一梦浮生。",
+        "from": "乌夜啼·昨夜风兼雨",
+        "from_who": "李煜"
+    },
+    {
+        "id": 534,
+        "hitokoto": "江碧鸟逾白，山青花欲燃。",
+        "from": "绝句二首",
+        "from_who": "杜甫"
+    },
+    {
+        "id": 535,
+        "hitokoto": "换我心，为你心，始知相忆深。",
+        "from": "诉衷情·永夜抛人何处去",
+        "from_who": "顾夐"
+    },
+    {
+        "id": 536,
+        "hitokoto": "同是天涯沦落人，相逢何必曾相识！",
+        "from": "琵琶行 / 琵琶引",
+        "from_who": "白居易"
+    },
+    {
+        "id": 537,
+        "hitokoto": "醉卧沙场君莫笑，古来征战几人回？",
+        "from": "凉州词二首·其一",
+        "from_who": "王翰"
+    },
+    {
+        "id": 538,
+        "hitokoto": "苟利国家生死以，岂因祸福避趋之！",
+        "from": "赴戍登程口占示家人·其二",
+        "from_who": "林则徐"
+    },
+    {
+        "id": 539,
+        "hitokoto": "十年磨一剑，霜刃未曾试。",
+        "from": "剑客 / 述剑",
+        "from_who": "贾岛"
+    },
+    {
+        "id": 540,
+        "hitokoto": "落霞与孤鹜齐飞，秋水共长天一色。",
+        "from": "滕王阁序",
+        "from_who": "王勃"
+    },
+    {
+        "id": 541,
+        "hitokoto": "生当复来归，死当长相思。",
+        "from": "留别妻",
+        "from_who": "佚名"
+    },
+    {
+        "id": 542,
+        "hitokoto": "莫愁前路无知己，天下谁人不识君。",
+        "from": "别董大二首",
+        "from_who": "高适"
+    },
+    {
+        "id": 543,
+        "hitokoto": "采得百花成蜜后，为谁辛苦为谁甜。",
+        "from": "蜂",
+        "from_who": "罗隐"
+    },
+    {
+        "id": 544,
+        "hitokoto": "闻君有两意，故来相决绝。",
+        "from": "白头吟",
+        "from_who": "卓文君"
+    },
+    {
+        "id": 545,
+        "hitokoto": "日日思君不见君，共饮长江水。",
+        "from": "卜算子·我住长江头",
+        "from_who": "李之仪"
+    },
+    {
+        "id": 546,
+        "hitokoto": "独自莫凭栏，无限江山，别时容易见时难。",
+        "from": "浪淘沙令·帘外雨潺潺",
+        "from_who": "李煜"
+    },
+    {
+        "id": 547,
+        "hitokoto": "读书不觉已春深，一寸光阴一寸金。",
+        "from": "白鹿洞二首·其一",
+        "from_who": "王贞白"
+    },
+    {
+        "id": 548,
+        "hitokoto": "梅须逊雪三分白，雪却输梅一段香。",
+        "from": "雪梅·其一",
+        "from_who": "卢梅坡"
+    },
+    {
+        "id": 549,
+        "hitokoto": "多情自古伤离别，更那堪冷落清秋节！",
+        "from": "雨霖铃·寒蝉凄切",
+        "from_who": "柳永"
+    },
+    {
+        "id": 550,
+        "hitokoto": "心似双丝网，中有千千结。",
+        "from": "千秋岁·数声鶗鴂",
+        "from_who": "张先"
+    },
+    {
+        "id": 551,
+        "hitokoto": "风萧萧兮易水寒，壮士一去兮不复还。",
+        "from": "荆轲歌 / 渡易水歌",
+        "from_who": "佚名"
+    },
+    {
+        "id": 552,
+        "hitokoto": "露从今夜白，月是故乡明。",
+        "from": "月夜忆舍弟",
+        "from_who": "杜甫"
+    },
+    {
+        "id": 553,
+        "hitokoto": "无可奈何花落去，似曾相识燕归来。",
+        "from": "浣溪沙·一曲新词酒一杯",
+        "from_who": "晏殊"
+    },
+    {
+        "id": 554,
+        "hitokoto": "相思相见知何日？此时此夜难为情！",
+        "from": "三五七言 / 秋风词",
+        "from_who": "李白"
+    },
+    {
+        "id": 555,
+        "hitokoto": "独立寒秋，湘江北去，橘子洲头。",
+        "from": "沁园春·长沙",
+        "from_who": "毛泽东"
+    },
+    {
+        "id": 556,
+        "hitokoto": "众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。",
+        "from": "青玉案·元夕",
+        "from_who": "辛弃疾"
+    },
+    {
+        "id": 557,
+        "hitokoto": "美人自刎乌江岸，战火曾烧赤壁山，将军空老玉门关。",
+        "from": "卖花声·怀古",
+        "from_who": "张可久"
+    }
+]

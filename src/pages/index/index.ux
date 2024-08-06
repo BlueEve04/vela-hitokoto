@@ -1,0 +1,11 @@
+
+<div class="demo-page">
+    <text class="app">{{title}}</text>
+    <div class="eptdiv"></div>
+    <text class="hitokoto" style="color:{{HIcolor}}">{{hitokotovalue}}</text>
+    <text class="from">————{{from}}</text>
+    <text class="fromwho">{{fromwho}}</text>
+    <input class="btn_change" type="button" value="换一句" onclick="changeHitokoto" />
+    <input class="btn" type="button" value="更多" onclick="routeDetail" />
+
+  </div>
