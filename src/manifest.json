@@ -1,9 +1,9 @@
 {
     "package": "com.blueeve.hitokotodaily",
     "name": "hitokoto",
-    "versionName": "0.10.12-build",
+    "versionName": "0.12.12-build",
     "versionCode": 1200,
-    "minPlatformVersion": 2000,
+    "minPlatformVersion": 1000,
     "icon": "/common/logo.png",
     "deviceTypeList": [
         "watch"

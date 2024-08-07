@@ -1,6 +1,6 @@
 {
   "name": "hitokoto",
-  "version": "1.0.0",
+  "version": "0.11.12.4",
   "description": "",
   "engines": {
     "node": ">=8.10"
@@ -19,8 +19,5 @@
     "eslint": "^6.8.0",
     "eslint-plugin-ux": "^0.0.4",
     "ux-types": "^0.1.1"
-  },
-  "browserslist": [
-    "chrome 65"
-  ]
+  }
 }

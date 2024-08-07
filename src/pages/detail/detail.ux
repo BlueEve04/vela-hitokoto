@@ -1,7 +1,7 @@
 <div class="demo-page">
   <img src="/Common/money.png" class="pic" v-if="showElement"></img>
   <text class="app">{{text}}</text>
-    <text class="exp">版本1.0.2build2
+    <text class="exp">版本0.12.12build2
       我是BlueEve,最近在终端上用上了一言，突发奇想移植到手表上会怎么样，于是花了一个晚上写了这个。共有13949个句子，在这个手表的生命周期内应该看不完（）句子都是随机展示~~数据全部来自一言官方github仓库，依照规定本应用程序开源，地址：https://github.com/hitokoto-osc/sentences-bundle
       
       本项目地址：https://github.com/BlueEve04/vela-hitokoto</text>
