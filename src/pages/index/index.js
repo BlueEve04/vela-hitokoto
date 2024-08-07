@@ -23,8 +23,8 @@ export default {
         try {
             
             let data = await this.readFile(filepath);
-            var sjdd=(Math.floor(Math.random() * (25))+ 1)
-            filepath="/Common/"+ sjdd +".txt"
+            // var sjdd=(Math.floor(Math.random() * (25))+ 1)
+            // filepath="/Common/"+ sjdd +".txt"
             let n = Math.floor(Math.random() * (555)) + 1;
             let fileContent = data.text;
 
@@ -32,7 +32,7 @@ export default {
             let tmp2 = this.extractInformation(fileContent, n, 2);
             let tmp3 = this.extractInformation(fileContent, n, 3);
             console.log(tmp1,    tmp2,    tmp3) 
-            this.title="一言-卷"+sjdd
+            // this.title="一言-卷"+sjdd
             this.HIcolor = this.selectRandomString();
             this.hitokotovalue = tmp1;
             this.fromwho = tmp2;
